@@ -1,0 +1,420 @@
+entidad,nom_ent,mun,nom_mun,loc,nom_loc,pobtot,graproes
+14,jalisco,1,acatic,0,total del municipio,23175,7.29
+14,jalisco,2,acatlan de juarez,0,total del municipio,25250,9.23
+14,jalisco,3,ahualulco de mercado,0,total del municipio,23630,9.52
+14,jalisco,4,amacueca,0,total del municipio,5743,8.34
+14,jalisco,5,amatitan,0,total del municipio,16490,9.2
+14,jalisco,6,ameca,0,total del municipio,60386,9.06
+14,jalisco,7,san juanito de escobedo,0,total del municipio,9433,8.67
+14,jalisco,8,arandas,0,total del municipio,80609,8.1
+14,jalisco,9,el arenal,0,total del municipio,21115,9.28
+14,jalisco,10,atemajac de brizuela,0,total del municipio,7758,7.64
+14,jalisco,11,atengo,0,total del municipio,5599,7.66
+14,jalisco,12,atenguillo,0,total del municipio,4176,8.05
+14,jalisco,13,atotonilco el alto,0,total del municipio,64009,8.24
+14,jalisco,14,atoyac,0,total del municipio,8689,7.43
+14,jalisco,15,autlan de navarro,0,total del municipio,64931,9.74
+14,jalisco,16,ayotlan,0,total del municipio,41552,7.07
+14,jalisco,17,ayutla,0,total del municipio,12880,8.14
+14,jalisco,18,la barca,0,total del municipio,67937,8.4
+14,jalisco,19,bolanos,0,total del municipio,7043,7.21
+14,jalisco,20,cabo corrientes,0,total del municipio,10940,7.71
+14,jalisco,21,casimiro castillo,0,total del municipio,20548,8.13
+14,jalisco,22,cihuatlan,0,total del municipio,40139,8.43
+14,jalisco,23,zapotlan el grande,0,total del municipio,115141,10.55
+14,jalisco,24,cocula,0,total del municipio,29267,8.61
+14,jalisco,25,colotlan,0,total del municipio,19689,9.7
+14,jalisco,26,concepcion de buenos aires,0,total del municipio,6334,7.56
+14,jalisco,27,cuautitlan de garcia barragan,0,total del municipio,18370,7.34
+14,jalisco,28,cuautla,0,total del municipio,2166,7.46
+14,jalisco,29,cuquio,0,total del municipio,17820,7.27
+14,jalisco,30,chapala,0,total del municipio,55196,9.96
+14,jalisco,31,chimaltitan,0,total del municipio,3270,6.71
+14,jalisco,32,chiquilistlan,0,total del municipio,5983,7.94
+14,jalisco,33,degollado,0,total del municipio,21226,7.15
+14,jalisco,34,ejutla,0,total del municipio,1981,7.8
+14,jalisco,35,encarnacion de diaz,0,total del municipio,53039,7.68
+14,jalisco,36,etzatlan,0,total del municipio,20011,9.42
+14,jalisco,37,el grullo,0,total del municipio,25920,9.22
+14,jalisco,38,guachinango,0,total del municipio,4199,7.77
+14,jalisco,39,guadalajara,0,total del municipio,1385629,10.96
+14,jalisco,40,hostotipaquillo,0,total del municipio,8732,7.5
+14,jalisco,41,huejucar,0,total del municipio,5920,7.76
+14,jalisco,42,huejuquilla el alto,0,total del municipio,10015,7.71
+14,jalisco,43,la huerta,0,total del municipio,23258,7.89
+14,jalisco,44,ixtlahuacan de los membrillos,0,total del municipio,67969,9.01
+14,jalisco,45,ixtlahuacan del rio,0,total del municipio,20465,7.6
+14,jalisco,46,jalostotitlan,0,total del municipio,32678,7.96
+14,jalisco,47,jamay,0,total del municipio,24894,8.28
+14,jalisco,48,jesus maria,0,total del municipio,18982,6.5
+14,jalisco,49,jilotlan de los dolores,0,total del municipio,9425,6.39
+14,jalisco,50,jocotepec,0,total del municipio,47105,8.27
+14,jalisco,51,juanacatlan,0,total del municipio,30855,9.1
+14,jalisco,52,juchitlan,0,total del municipio,5534,7.98
+14,jalisco,53,lagos de moreno,0,total del municipio,172403,8.94
+14,jalisco,54,el limon,0,total del municipio,5368,8.46
+14,jalisco,55,magdalena,0,total del municipio,21781,8.79
+14,jalisco,56,santa maria del oro,0,total del municipio,1815,6.17
+14,jalisco,57,la manzanilla de la paz,0,total del municipio,4099,7.95
+14,jalisco,58,mascota,0,total del municipio,14451,8.92
+14,jalisco,59,mazamitla,0,total del municipio,14043,8.46
+14,jalisco,60,mexticacan,0,total del municipio,5307,7.25
+14,jalisco,61,mezquitic,0,total del municipio,22083,5.94
+14,jalisco,62,mixtlan,0,total del municipio,3638,7.66
+14,jalisco,63,ocotlan,0,total del municipio,106050,9.42
+14,jalisco,64,ojuelos de jalisco,0,total del municipio,33588,7.74
+14,jalisco,65,pihuamo,0,total del municipio,11386,6.89
+14,jalisco,66,poncitlan,0,total del municipio,53659,8.18
+14,jalisco,67,puerto vallarta,0,total del municipio,291839,10.31
+14,jalisco,68,villa purificacion,0,total del municipio,11303,7.47
+14,jalisco,69,quitupan,0,total del municipio,7734,6.24
+14,jalisco,70,el salto,0,total del municipio,232852,8.92
+14,jalisco,71,san cristobal de la barranca,0,total del municipio,2924,6.84
+14,jalisco,72,san diego de alejandria,0,total del municipio,7609,7.24
+14,jalisco,73,san juan de los lagos,0,total del municipio,72230,8.25
+14,jalisco,74,san julian,0,total del municipio,16792,7.54
+14,jalisco,75,san marcos,0,total del municipio,3791,9.04
+14,jalisco,76,san martin de bolanos,0,total del municipio,3095,7.35
+14,jalisco,77,san martin hidalgo,0,total del municipio,28102,9.01
+14,jalisco,78,san miguel el alto,0,total del municipio,31965,7.76
+14,jalisco,79,gomez farias,0,total del municipio,16431,8.41
+14,jalisco,80,san sebastian del oeste,0,total del municipio,5086,7.54
+14,jalisco,81,santa maria de los angeles,0,total del municipio,3515,7.14
+14,jalisco,82,sayula,0,total del municipio,37186,9.31
+14,jalisco,83,tala,0,total del municipio,87690,8.93
+14,jalisco,84,talpa de allende,0,total del municipio,14997,8.18
+14,jalisco,85,tamazula de gordiano,0,total del municipio,38955,8.01
+14,jalisco,86,tapalpa,0,total del municipio,21245,7.75
+14,jalisco,87,tecalitlan,0,total del municipio,16705,7.96
+14,jalisco,88,tecolotlan,0,total del municipio,16603,8.49
+14,jalisco,89,techaluta de montenegro,0,total del municipio,4072,8.16
+14,jalisco,90,tenamaxtlan,0,total del municipio,7302,8.56
+14,jalisco,91,teocaltiche,0,total del municipio,39839,7.57
+14,jalisco,92,teocuitatlan de corona,0,total del municipio,11039,7.52
+14,jalisco,93,tepatitlan de morelos,0,total del municipio,150190,8.84
+14,jalisco,94,tequila,0,total del municipio,44353,9.23
+14,jalisco,95,teuchitlan,0,total del municipio,9647,8.63
+14,jalisco,96,tizapan el alto,0,total del municipio,22758,7.51
+14,jalisco,97,tlajomulco de zuniga,0,total del municipio,727750,10.11
+14,jalisco,98,san pedro tlaquepaque,0,total del municipio,687127,10.18
+14,jalisco,99,toliman,0,total del municipio,11219,7.57
+14,jalisco,100,tomatlan,0,total del municipio,36316,7.76
+14,jalisco,101,tonala,0,total del municipio,569913,9.75
+14,jalisco,102,tonaya,0,total del municipio,5961,8.11
+14,jalisco,103,tonila,0,total del municipio,7565,8.33
+14,jalisco,104,totatiche,0,total del municipio,4180,7.8
+14,jalisco,105,tototlan,0,total del municipio,23573,7.75
+14,jalisco,106,tuxcacuesco,0,total del municipio,5482,7.12
+14,jalisco,107,tuxcueca,0,total del municipio,6702,8.03
+14,jalisco,108,tuxpan,0,total del municipio,37518,9.08
+14,jalisco,109,union de san antonio,0,total del municipio,19069,7.15
+14,jalisco,110,union de tula,0,total del municipio,13799,8.76
+14,jalisco,111,valle de guadalupe,0,total del municipio,6627,8.11
+14,jalisco,112,valle de juarez,0,total del municipio,6151,7.63
+14,jalisco,113,san gabriel,0,total del municipio,16548,7.87
+14,jalisco,114,villa corona,0,total del municipio,19063,8.33
+14,jalisco,115,villa guerrero,0,total del municipio,5525,7.43
+14,jalisco,116,villa hidalgo,0,total del municipio,20088,7.65
+14,jalisco,117,canadas de obregon,0,total del municipio,4388,6.83
+14,jalisco,118,yahualica de gonzalez gallo,0,total del municipio,22394,7.82
+14,jalisco,119,zacoalco de torres,0,total del municipio,30472,8.45
+14,jalisco,120,zapopan,0,total del municipio,1476491,11.47
+14,jalisco,121,zapotiltic,0,total del municipio,33713,8.8
+14,jalisco,122,zapotitlan de vadillo,0,total del municipio,7466,8.33
+14,jalisco,123,zapotlan del rey,0,total del municipio,19279,7.36
+14,jalisco,124,zapotlanejo,0,total del municipio,64806,7.86
+14,jalisco,125,san ignacio cerro gordo,0,total del municipio,18341,6.97
+15,mexico,1,acambay de ruiz castaneda,0,total del municipio,67872,8.3
+15,mexico,2,acolman,0,total del municipio,171507,9.82
+15,mexico,3,aculco,0,total del municipio,49266,8.02
+15,mexico,4,almoloya de alquisiras,0,total del municipio,15333,8.14
+15,mexico,5,almoloya de juarez,0,total del municipio,174587,8.68
+15,mexico,6,almoloya del rio,0,total del municipio,12694,10.04
+15,mexico,7,amanalco,0,total del municipio,23675,7.75
+15,mexico,8,amatepec,0,total del municipio,25244,7.42
+15,mexico,9,amecameca,0,total del municipio,53441,10.01
+15,mexico,10,apaxco,0,total del municipio,31898,9.46
+15,mexico,11,atenco,0,total del municipio,75489,9.56
+15,mexico,12,atizapan,0,total del municipio,12984,9.5
+15,mexico,13,atizapan de zaragoza,0,total del municipio,523674,11.06
+15,mexico,14,atlacomulco,0,total del municipio,109384,9.76
+15,mexico,15,atlautla,0,total del municipio,31900,8.87
+15,mexico,16,axapusco,0,total del municipio,29128,8.9
+15,mexico,17,ayapango,0,total del municipio,10053,9.92
+15,mexico,18,calimaya,0,total del municipio,68489,10.74
+15,mexico,19,capulhuac,0,total del municipio,36921,10.18
+15,mexico,20,coacalco de berriozabal,0,total del municipio,293444,11.49
+15,mexico,21,coatepec harinas,0,total del municipio,38643,7.4
+15,mexico,22,cocotitlan,0,total del municipio,15107,10.3
+15,mexico,23,coyotepec,0,total del municipio,40885,9.55
+15,mexico,24,cuautitlan,0,total del municipio,178847,11.3
+15,mexico,25,chalco,0,total del municipio,400057,9.75
+15,mexico,26,chapa de mota,0,total del municipio,31737,8.09
+15,mexico,27,chapultepec,0,total del municipio,12772,10.69
+15,mexico,28,chiautla,0,total del municipio,30045,10.04
+15,mexico,29,chicoloapan,0,total del municipio,200750,10.14
+15,mexico,30,chiconcuac,0,total del municipio,27692,10.13
+15,mexico,31,chimalhuacan,0,total del municipio,705193,9.13
+15,mexico,32,donato guerra,0,total del municipio,37436,7.02
+15,mexico,33,ecatepec de morelos,0,total del municipio,1645352,10.22
+15,mexico,34,ecatzingo,0,total del municipio,10827,8.89
+15,mexico,35,huehuetoca,0,total del municipio,163244,9.98
+15,mexico,36,hueypoxtla,0,total del municipio,46757,8.51
+15,mexico,37,huixquilucan,0,total del municipio,284965,11.23
+15,mexico,38,isidro fabela,0,total del municipio,11929,9.06
+15,mexico,39,ixtapaluca,0,total del municipio,542211,10.14
+15,mexico,40,ixtapan de la sal,0,total del municipio,36911,8.87
+15,mexico,41,ixtapan del oro,0,total del municipio,6475,7.01
+15,mexico,42,ixtlahuaca,0,total del municipio,160139,8.72
+15,mexico,43,xalatlaco,0,total del municipio,30687,9.17
+15,mexico,44,jaltenco,0,total del municipio,28217,10.24
+15,mexico,45,jilotepec,0,total del municipio,87671,9.05
+15,mexico,46,jilotzingo,0,total del municipio,19877,9.27
+15,mexico,47,jiquipilco,0,total del municipio,76826,8.19
+15,mexico,48,jocotitlan,0,total del municipio,69264,9.56
+15,mexico,49,joquicingo,0,total del municipio,15428,8.69
+15,mexico,50,juchitepec,0,total del municipio,27116,9.0
+15,mexico,51,lerma,0,total del municipio,170327,10.36
+15,mexico,52,malinalco,0,total del municipio,28155,7.96
+15,mexico,53,melchor ocampo,0,total del municipio,61220,9.96
+15,mexico,54,metepec,0,total del municipio,242307,12.27
+15,mexico,55,mexicaltzingo,0,total del municipio,13807,10.14
+15,mexico,56,morelos,0,total del municipio,33164,7.62
+15,mexico,57,naucalpan de juarez,0,total del municipio,834434,10.72
+15,mexico,58,nezahualcoyotl,0,total del municipio,1077208,10.42
+15,mexico,59,nextlalpan,0,total del municipio,57082,9.9
+15,mexico,60,nicolas romero,0,total del municipio,430601,9.75
+15,mexico,61,nopaltepec,0,total del municipio,10351,9.23
+15,mexico,62,ocoyoacac,0,total del municipio,72103,10.43
+15,mexico,63,ocuilan,0,total del municipio,36223,8.15
+15,mexico,64,el oro,0,total del municipio,36937,8.49
+15,mexico,65,otumba,0,total del municipio,36331,9.23
+15,mexico,66,otzoloapan,0,total del municipio,4891,7.21
+15,mexico,67,otzolotepec,0,total del municipio,88783,8.98
+15,mexico,68,ozumba,0,total del municipio,30785,9.6
+15,mexico,69,papalotla,0,total del municipio,4862,10.74
+15,mexico,70,la paz,0,total del municipio,304088,9.53
+15,mexico,71,polotitlan,0,total del municipio,14985,8.71
+15,mexico,72,rayon,0,total del municipio,15972,9.96
+15,mexico,73,san antonio la isla,0,total del municipio,31962,11.11
+15,mexico,74,san felipe del progreso,0,total del municipio,144924,7.54
+15,mexico,75,san martin de las piramides,0,total del municipio,29182,9.85
+15,mexico,76,san mateo atenco,0,total del municipio,97418,10.42
+15,mexico,77,san simon de guerrero,0,total del municipio,6692,8.68
+15,mexico,78,santo tomas,0,total del municipio,9729,8.04
+15,mexico,79,soyaniquilpan de juarez,0,total del municipio,14323,9.07
+15,mexico,80,sultepec,0,total del municipio,24145,7.13
+15,mexico,81,tecamac,0,total del municipio,547503,10.99
+15,mexico,82,tejupilco,0,total del municipio,79282,8.56
+15,mexico,83,temamatla,0,total del municipio,14130,9.82
+15,mexico,84,temascalapa,0,total del municipio,43593,9.13
+15,mexico,85,temascalcingo,0,total del municipio,66414,8.04
+15,mexico,86,temascaltepec,0,total del municipio,35014,7.85
+15,mexico,87,temoaya,0,total del municipio,105766,8.27
+15,mexico,88,tenancingo,0,total del municipio,104677,9.25
+15,mexico,89,tenango del aire,0,total del municipio,11359,9.79
+15,mexico,90,tenango del valle,0,total del municipio,90518,9.07
+15,mexico,91,teoloyucan,0,total del municipio,65459,9.67
+15,mexico,92,teotihuacan,0,total del municipio,58507,10.01
+15,mexico,93,tepetlaoxtoc,0,total del municipio,32564,9.68
+15,mexico,94,tepetlixpa,0,total del municipio,20500,9.13
+15,mexico,95,tepotzotlan,0,total del municipio,103696,9.85
+15,mexico,96,tequixquiac,0,total del municipio,39489,9.35
+15,mexico,97,texcaltitlan,0,total del municipio,18482,8.32
+15,mexico,98,texcalyacac,0,total del municipio,5736,10.09
+15,mexico,99,texcoco,0,total del municipio,277562,10.52
+15,mexico,100,tezoyuca,0,total del municipio,47044,9.3
+15,mexico,101,tianguistenco,0,total del municipio,84259,9.74
+15,mexico,102,timilpan,0,total del municipio,16414,8.68
+15,mexico,103,tlalmanalco,0,total del municipio,49196,10.5
+15,mexico,104,tlalnepantla de baz,0,total del municipio,672202,10.93
+15,mexico,105,tlatlaya,0,total del municipio,31762,7.54
+15,mexico,106,toluca,0,total del municipio,910608,10.92
+15,mexico,107,tonatico,0,total del municipio,12912,8.72
+15,mexico,108,tultepec,0,total del municipio,157645,10.71
+15,mexico,109,tultitlan,0,total del municipio,516341,10.37
+15,mexico,110,valle de bravo,0,total del municipio,61590,9.13
+15,mexico,111,villa de allende,0,total del municipio,53275,7.13
+15,mexico,112,villa del carbon,0,total del municipio,51498,8.08
+15,mexico,113,villa guerrero,0,total del municipio,69086,7.43
+15,mexico,114,villa victoria,0,total del municipio,108196,6.84
+15,mexico,115,xonacatlan,0,total del municipio,54633,9.67
+15,mexico,116,zacazonapan,0,total del municipio,5109,7.8
+15,mexico,117,zacualpan,0,total del municipio,13522,7.4
+15,mexico,118,zinacantepec,0,total del municipio,203872,9.99
+15,mexico,119,zumpahuacan,0,total del municipio,18833,7.48
+15,mexico,120,zumpango,0,total del municipio,280455,9.77
+15,mexico,121,cuautitlan izcalli,0,total del municipio,555163,11.38
+15,mexico,122,valle de chalco solidaridad,0,total del municipio,391731,9.12
+15,mexico,123,luvianos,0,total del municipio,28822,7.15
+15,mexico,124,san jose del rincon,0,total del municipio,100082,6.48
+15,mexico,125,tonanitla,0,total del municipio,14883,10.51
+16,michoacan de ocampo,1,acuitzio,0,total del municipio,11301,7.84
+16,michoacan de ocampo,2,aguililla,0,total del municipio,14754,6.09
+16,michoacan de ocampo,3,alvaro obregon,0,total del municipio,23000,7.41
+16,michoacan de ocampo,4,angamacutiro,0,total del municipio,14943,6.78
+16,michoacan de ocampo,5,angangueo,0,total del municipio,10892,8.2
+16,michoacan de ocampo,6,apatzingan,0,total del municipio,126191,7.93
+16,michoacan de ocampo,7,aporo,0,total del municipio,3529,8.04
+16,michoacan de ocampo,8,aquila,0,total del municipio,24676,6.83
+16,michoacan de ocampo,9,ario,0,total del municipio,36268,7.59
+16,michoacan de ocampo,10,arteaga,0,total del municipio,20332,7.54
+16,michoacan de ocampo,11,brisenas,0,total del municipio,11681,7.72
+16,michoacan de ocampo,12,buenavista,0,total del municipio,45538,6.4
+16,michoacan de ocampo,13,caracuaro,0,total del municipio,9176,6.62
+16,michoacan de ocampo,14,coahuayana,0,total del municipio,17022,7.23
+16,michoacan de ocampo,15,coalcoman de vazquez pallares,0,total del municipio,19633,7.16
+16,michoacan de ocampo,16,coeneo,0,total del municipio,20965,6.96
+16,michoacan de ocampo,17,contepec,0,total del municipio,35070,7.11
+16,michoacan de ocampo,18,copandaro,0,total del municipio,9484,7.06
+16,michoacan de ocampo,19,cotija,0,total del municipio,20198,6.83
+16,michoacan de ocampo,20,cuitzeo,0,total del municipio,29910,7.32
+16,michoacan de ocampo,21,charapan,0,total del municipio,13539,6.86
+16,michoacan de ocampo,22,charo,0,total del municipio,25138,7.14
+16,michoacan de ocampo,23,chavinda,0,total del municipio,10417,6.58
+16,michoacan de ocampo,24,cheran,0,total del municipio,20586,8.3
+16,michoacan de ocampo,25,chilchota,0,total del municipio,40560,7.71
+16,michoacan de ocampo,26,chinicuila,0,total del municipio,4773,6.75
+16,michoacan de ocampo,27,chucandiro,0,total del municipio,4944,6.16
+16,michoacan de ocampo,28,churintzio,0,total del municipio,5233,7.29
+16,michoacan de ocampo,29,churumuco,0,total del municipio,12342,6.6
+16,michoacan de ocampo,30,ecuandureo,0,total del municipio,11850,6.44
+16,michoacan de ocampo,31,epitacio huerta,0,total del municipio,16112,6.55
+16,michoacan de ocampo,32,erongaricuaro,0,total del municipio,15715,7.7
+16,michoacan de ocampo,33,gabriel zamora,0,total del municipio,21466,7.41
+16,michoacan de ocampo,34,hidalgo,0,total del municipio,125712,8.02
+16,michoacan de ocampo,35,la huacana,0,total del municipio,30627,7.03
+16,michoacan de ocampo,36,huandacareo,0,total del municipio,11644,7.42
+16,michoacan de ocampo,37,huaniqueo,0,total del municipio,7945,6.36
+16,michoacan de ocampo,38,huetamo,0,total del municipio,41973,7.46
+16,michoacan de ocampo,39,huiramba,0,total del municipio,9015,7.79
+16,michoacan de ocampo,40,indaparapeo,0,total del municipio,18385,7.17
+16,michoacan de ocampo,41,irimbo,0,total del municipio,16043,7.45
+16,michoacan de ocampo,42,ixtlan,0,total del municipio,14302,6.4
+16,michoacan de ocampo,43,jacona,0,total del municipio,68781,7.72
+16,michoacan de ocampo,44,jimenez,0,total del municipio,12946,7.2
+16,michoacan de ocampo,45,jiquilpan,0,total del municipio,36158,8.66
+16,michoacan de ocampo,46,juarez,0,total del municipio,14936,7.32
+16,michoacan de ocampo,47,jungapeo,0,total del municipio,19834,7.37
+16,michoacan de ocampo,48,lagunillas,0,total del municipio,5745,7.18
+16,michoacan de ocampo,49,madero,0,total del municipio,19086,6.75
+16,michoacan de ocampo,50,maravatio,0,total del municipio,89311,7.86
+16,michoacan de ocampo,51,marcos castellanos,0,total del municipio,13983,8.17
+16,michoacan de ocampo,52,lazaro cardenas,0,total del municipio,196003,9.57
+16,michoacan de ocampo,53,morelia,0,total del municipio,849053,10.99
+16,michoacan de ocampo,54,morelos,0,total del municipio,7983,6.94
+16,michoacan de ocampo,55,mugica,0,total del municipio,45732,7.62
+16,michoacan de ocampo,56,nahuatzen,0,total del municipio,32598,7.48
+16,michoacan de ocampo,57,nocupetaro,0,total del municipio,8196,6.85
+16,michoacan de ocampo,58,nuevo parangaricutiro,0,total del municipio,20981,8.06
+16,michoacan de ocampo,59,nuevo urecho,0,total del municipio,9027,6.92
+16,michoacan de ocampo,60,numaran,0,total del municipio,9437,7.39
+16,michoacan de ocampo,61,ocampo,0,total del municipio,24774,7.32
+16,michoacan de ocampo,62,pajacuaran,0,total del municipio,21028,6.79
+16,michoacan de ocampo,63,panindicuaro,0,total del municipio,14889,6.39
+16,michoacan de ocampo,64,paracuaro,0,total del municipio,26832,6.88
+16,michoacan de ocampo,65,paracho,0,total del municipio,39657,8.45
+16,michoacan de ocampo,66,patzcuaro,0,total del municipio,98382,8.95
+16,michoacan de ocampo,67,penjamillo,0,total del municipio,16621,6.65
+16,michoacan de ocampo,68,periban,0,total del municipio,29389,7.47
+16,michoacan de ocampo,69,la piedad,0,total del municipio,106490,8.96
+16,michoacan de ocampo,70,purepero,0,total del municipio,15503,7.83
+16,michoacan de ocampo,71,puruandiro,0,total del municipio,69260,7.26
+16,michoacan de ocampo,72,querendaro,0,total del municipio,13961,7.49
+16,michoacan de ocampo,73,quiroga,0,total del municipio,27176,7.56
+16,michoacan de ocampo,74,cojumatlan de regules,0,total del municipio,10553,6.65
+16,michoacan de ocampo,75,los reyes,0,total del municipio,78935,8.01
+16,michoacan de ocampo,76,sahuayo,0,total del municipio,78477,8.44
+16,michoacan de ocampo,77,san lucas,0,total del municipio,17677,6.87
+16,michoacan de ocampo,78,santa ana maya,0,total del municipio,12812,7.26
+16,michoacan de ocampo,79,salvador escalante,0,total del municipio,49896,7.09
+16,michoacan de ocampo,80,senguio,0,total del municipio,19833,7.37
+16,michoacan de ocampo,81,susupuato,0,total del municipio,9076,5.73
+16,michoacan de ocampo,82,tacambaro,0,total del municipio,79540,7.95
+16,michoacan de ocampo,83,tancitaro,0,total del municipio,33453,7.0
+16,michoacan de ocampo,84,tangamandapio,0,total del municipio,31716,6.85
+16,michoacan de ocampo,85,tangancicuaro,0,total del municipio,35256,6.94
+16,michoacan de ocampo,86,tanhuato,0,total del municipio,15534,7.59
+16,michoacan de ocampo,87,taretan,0,total del municipio,15589,7.78
+16,michoacan de ocampo,88,tarimbaro,0,total del municipio,114513,9.7
+16,michoacan de ocampo,89,tepalcatepec,0,total del municipio,24074,7.18
+16,michoacan de ocampo,90,tingambato,0,total del municipio,16325,8.55
+16,michoacan de ocampo,91,tinguindin,0,total del municipio,14934,7.84
+16,michoacan de ocampo,92,tiquicheo de nicolas romero,0,total del municipio,12836,6.36
+16,michoacan de ocampo,93,tlalpujahua,0,total del municipio,28556,8.11
+16,michoacan de ocampo,94,tlazazalca,0,total del municipio,6420,5.74
+16,michoacan de ocampo,95,tocumbo,0,total del municipio,12325,7.2
+16,michoacan de ocampo,96,tumbiscatio,0,total del municipio,5971,5.81
+16,michoacan de ocampo,97,turicato,0,total del municipio,29056,6.39
+16,michoacan de ocampo,98,tuxpan,0,total del municipio,25757,8.0
+16,michoacan de ocampo,99,tuzantla,0,total del municipio,14329,6.36
+16,michoacan de ocampo,100,tzintzuntzan,0,total del municipio,14911,8.05
+16,michoacan de ocampo,101,tzitzio,0,total del municipio,8855,6.35
+16,michoacan de ocampo,102,uruapan,0,total del municipio,356786,9.24
+16,michoacan de ocampo,103,venustiano carranza,0,total del municipio,23469,7.42
+16,michoacan de ocampo,104,villamar,0,total del municipio,15864,6.92
+16,michoacan de ocampo,105,vista hermosa,0,total del municipio,20982,7.7
+16,michoacan de ocampo,106,yurecuaro,0,total del municipio,32303,7.19
+16,michoacan de ocampo,107,zacapu,0,total del municipio,76829,9.19
+16,michoacan de ocampo,108,zamora,0,total del municipio,204860,8.76
+16,michoacan de ocampo,109,zinaparo,0,total del municipio,3232,7.23
+16,michoacan de ocampo,110,zinapecuaro,0,total del municipio,49005,7.57
+16,michoacan de ocampo,111,ziracuaretiro,0,total del municipio,18402,7.75
+16,michoacan de ocampo,112,zitacuaro,0,total del municipio,157056,8.93
+16,michoacan de ocampo,113,jose sixto verduzco,0,total del municipio,26213,7.16
+17,morelos,1,amacuzac,0,total del municipio,17598,8.52
+17,morelos,2,atlatlahucan,0,total del municipio,25232,9.34
+17,morelos,3,axochiapan,0,total del municipio,39174,8.07
+17,morelos,4,ayala,0,total del municipio,89834,8.69
+17,morelos,5,coatlan del rio,0,total del municipio,10520,7.82
+17,morelos,6,cuautla,0,total del municipio,187118,10.04
+17,morelos,7,cuernavaca,0,total del municipio,378476,11.39
+17,morelos,8,emiliano zapata,0,total del municipio,107053,10.12
+17,morelos,9,huitzilac,0,total del municipio,24515,9.79
+17,morelos,10,jantetelco,0,total del municipio,18402,8.9
+17,morelos,11,jiutepec,0,total del municipio,215357,10.52
+17,morelos,12,jojutla,0,total del municipio,57682,9.65
+17,morelos,13,jonacatepec de leandro valle,0,total del municipio,16694,8.98
+17,morelos,14,mazatepec,0,total del municipio,9653,9.06
+17,morelos,15,miacatlan,0,total del municipio,15802,8.77
+17,morelos,16,ocuituco,0,total del municipio,19219,8.59
+17,morelos,17,puente de ixtla,0,total del municipio,40018,9.13
+17,morelos,18,temixco,0,total del municipio,122263,9.19
+17,morelos,19,tepalcingo,0,total del municipio,28122,8.4
+17,morelos,20,tepoztlan,0,total del municipio,54987,9.94
+17,morelos,21,tetecala,0,total del municipio,7617,9.1
+17,morelos,22,tetela del volcan,0,total del municipio,14853,8.66
+17,morelos,23,tlalnepantla,0,total del municipio,7943,8.48
+17,morelos,24,tlaltizapan de zapata,0,total del municipio,52399,8.96
+17,morelos,25,tlaquiltenango,0,total del municipio,33789,8.97
+17,morelos,26,tlayacapan,0,total del municipio,19408,9.3
+17,morelos,27,totolapan,0,total del municipio,12750,8.63
+17,morelos,28,xochitepec,0,total del municipio,73539,9.15
+17,morelos,29,yautepec,0,total del municipio,105780,9.35
+17,morelos,30,yecapixtla,0,total del municipio,56083,8.92
+17,morelos,31,zacatepec,0,total del municipio,36094,10.37
+17,morelos,32,zacualpan de amilpas,0,total del municipio,9965,9.53
+17,morelos,33,temoac,0,total del municipio,16574,8.86
+17,morelos,34,coatetelco,0,total del municipio,11347,6.92
+17,morelos,35,xoxocotla,0,total del municipio,27805,8.45
+17,morelos,36,hueyapan,0,total del municipio,7855,7.41
+18,nayarit,1,acaponeta,0,total del municipio,37232,9.37
+18,nayarit,2,ahuacatlan,0,total del municipio,15393,9.11
+18,nayarit,3,amatlan de canas,0,total del municipio,11536,8.16
+18,nayarit,4,compostela,0,total del municipio,77436,8.61
+18,nayarit,5,huajicori,0,total del municipio,12230,7.89
+18,nayarit,6,ixtlan del rio,0,total del municipio,29299,9.4
+18,nayarit,7,jala,0,total del municipio,19321,8.88
+18,nayarit,8,xalisco,0,total del municipio,65229,10.82
+18,nayarit,9,del nayar,0,total del municipio,47550,5.72
+18,nayarit,10,rosamorada,0,total del municipio,33567,8.31
+18,nayarit,11,ruiz,0,total del municipio,24096,8.5
+18,nayarit,12,san blas,0,total del municipio,41518,8.16
+18,nayarit,13,san pedro lagunillas,0,total del municipio,7683,8.37
+18,nayarit,14,santa maria del oro,0,total del municipio,24911,8.21
+18,nayarit,15,santiago ixcuintla,0,total del municipio,93981,8.4
+18,nayarit,16,tecuala,0,total del municipio,37135,8.79
+18,nayarit,17,tepic,0,total del municipio,425924,11.17
+18,nayarit,18,tuxpan,0,total del municipio,30064,9.24
+18,nayarit,19,la yesca,0,total del municipio,13719,6.64
+18,nayarit,20,bahia de banderas,0,total del municipio,187632,9.85

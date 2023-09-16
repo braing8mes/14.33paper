@@ -1,0 +1,2914 @@
+ENTIDAD,NOM_ENT,MUN,NOM_MUN,LOC,NOM_LOC,POBTOT,GRAPROES
+18,Nayarit,000,Total de la entidad Nayarit,0000,Total de la Entidad,1235456,9.73
+18,Nayarit,000,Total de la entidad Nayarit,9998,Localidades de una vivienda,5645,7.26
+18,Nayarit,000,Total de la entidad Nayarit,9999,Localidades de dos viviendas,2514,5.65
+18,Nayarit,001,Acaponeta,0000,Total del Municipio,37232,9.37
+18,Nayarit,001,Acaponeta,0001,Acaponeta,19976,10.56
+18,Nayarit,001,Acaponeta,0004,El Aguaje,476,7.88
+18,Nayarit,001,Acaponeta,0006,El Alacrán,39,7.50
+18,Nayarit,001,Acaponeta,0007,Amado Nervo,85,6.06
+18,Nayarit,001,Acaponeta,0009,El Antigüe,6,*
+18,Nayarit,001,Acaponeta,0010,La Bayona,455,9.29
+18,Nayarit,001,Acaponeta,0011,Buenavista (Las Paredes),264,8.11
+18,Nayarit,001,Acaponeta,0012,El Caimanero,8,*
+18,Nayarit,001,Acaponeta,0013,El Camichín,1,*
+18,Nayarit,001,Acaponeta,0015,El Cangrejo (Teacapán),5,*
+18,Nayarit,001,Acaponeta,0016,El Tejón (El Cantón),351,7.40
+18,Nayarit,001,Acaponeta,0018,El Carrizo,109,6.05
+18,Nayarit,001,Acaponeta,0019,Casas Coloradas,390,9.49
+18,Nayarit,001,Acaponeta,0020,Las Casitas,194,8.07
+18,Nayarit,001,Acaponeta,0021,El Centenario,908,8.50
+18,Nayarit,001,Acaponeta,0022,Cerro Bola,226,5.96
+18,Nayarit,001,Acaponeta,0028,La Cortés,6,*
+18,Nayarit,001,Acaponeta,0036,Las Grullas,8,*
+18,Nayarit,001,Acaponeta,0037,La Guásima,981,8.39
+18,Nayarit,001,Acaponeta,0038,El Guayabo,22,6.64
+18,Nayarit,001,Acaponeta,0039,Hacienda Vieja,24,8.22
+18,Nayarit,001,Acaponeta,0040,La Haciendilla,70,7
+18,Nayarit,001,Acaponeta,0041,La Higuerita Vieja,99,7.19
+18,Nayarit,001,Acaponeta,0043,La Higuerita Nueva (El Carrizo),137,7.17
+18,Nayarit,001,Acaponeta,0044,Hojas Anchas,22,7.33
+18,Nayarit,001,Acaponeta,0050,Llano de la Cruz,735,7.99
+18,Nayarit,001,Acaponeta,0052,El Llorón,75,8.26
+18,Nayarit,001,Acaponeta,0054,Llano de Mariquitas,178,7.45
+18,Nayarit,001,Acaponeta,0055,Hacienda de Mariquitas,100,8.40
+18,Nayarit,001,Acaponeta,0056,Mesa las Arpas,25,7.06
+18,Nayarit,001,Acaponeta,0058,Mesa de Pedro Pablo,203,7.67
+18,Nayarit,001,Acaponeta,0059,Las Mesitas,45,5.40
+18,Nayarit,001,Acaponeta,0063,San José de Motaje,240,7.31
+18,Nayarit,001,Acaponeta,0066,El Naranjal,4,*
+18,Nayarit,001,Acaponeta,0068,El Oro,53,6.67
+18,Nayarit,001,Acaponeta,0070,La Palma,48,7.61
+18,Nayarit,001,Acaponeta,0071,Las Palmitas,13,4.56
+18,Nayarit,001,Acaponeta,0072,La Paloma Nueva Reforma,115,7
+18,Nayarit,001,Acaponeta,0077,Piedra Ancha,201,7.49
+18,Nayarit,001,Acaponeta,0082,El Recodo,802,8.32
+18,Nayarit,001,Acaponeta,0083,El Resbalón,667,7.84
+18,Nayarit,001,Acaponeta,0086,San Blasito,66,5.20
+18,Nayarit,001,Acaponeta,0087,San Diego de Alcalá,433,8.37
+18,Nayarit,001,Acaponeta,0088,El Naranjo,274,8.13
+18,Nayarit,001,Acaponeta,0089,San Dieguito de Abajo,310,7.67
+18,Nayarit,001,Acaponeta,0090,San Dieguito de Arriba,288,7.58
+18,Nayarit,001,Acaponeta,0092,Arroyo de San Francisco,59,6.50
+18,Nayarit,001,Acaponeta,0093,San José de Gracia,959,9.07
+18,Nayarit,001,Acaponeta,0094,San Miguel,663,7.84
+18,Nayarit,001,Acaponeta,0095,San Pedro de Honor,134,7.90
+18,Nayarit,001,Acaponeta,0096,Santa Cruz,240,7.67
+18,Nayarit,001,Acaponeta,0097,Saycota,94,6.58
+18,Nayarit,001,Acaponeta,0098,Sayulilla,2318,8.09
+18,Nayarit,001,Acaponeta,0099,El Sobasto,1,*
+18,Nayarit,001,Acaponeta,0100,El Tacote,103,5.18
+18,Nayarit,001,Acaponeta,0101,Ojo de Agua del Tejón,4,*
+18,Nayarit,001,Acaponeta,0102,El Tigre,749,7.78
+18,Nayarit,001,Acaponeta,0105,Valle de la Urraca (El Cabildo),178,6.68
+18,Nayarit,001,Acaponeta,0107,El Zapote,1,*
+18,Nayarit,001,Acaponeta,0108,Zavala,4,*
+18,Nayarit,001,Acaponeta,0115,Chalpa,67,5.93
+18,Nayarit,001,Acaponeta,0117,La Providencia,4,*
+18,Nayarit,001,Acaponeta,0119,Los Pinitos,7,*
+18,Nayarit,001,Acaponeta,0121,La Limonera,4,*
+18,Nayarit,001,Acaponeta,0122,El Jumay (Licenciado Magaña),6,*
+18,Nayarit,001,Acaponeta,0123,El Ixtle,4,*
+18,Nayarit,001,Acaponeta,0126,Mesa de la Laguna,138,8.15
+18,Nayarit,001,Acaponeta,0131,El Vigal,61,7.55
+18,Nayarit,001,Acaponeta,0132,Los Arrayanes,8,*
+18,Nayarit,001,Acaponeta,0133,Paredes,18,5.71
+18,Nayarit,001,Acaponeta,0136,El Duraznito,29,6.77
+18,Nayarit,001,Acaponeta,0137,La Lagunita,84,5.19
+18,Nayarit,001,Acaponeta,0138,Zacatecas,43,7.71
+18,Nayarit,001,Acaponeta,0139,La Colonia (La Guacamaya),8,5.67
+18,Nayarit,001,Acaponeta,0141,Cañones,57,8.09
+18,Nayarit,001,Acaponeta,0143,Las Orejas,6,4.50
+18,Nayarit,001,Acaponeta,0145,La Cortez (El Zapote),425,8.20
+18,Nayarit,001,Acaponeta,0149,Loma de los Indios,3,*
+18,Nayarit,001,Acaponeta,0151,La Piña,7,7.86
+18,Nayarit,001,Acaponeta,0152,La Ventana,3,*
+18,Nayarit,001,Acaponeta,0159,Rancho Viejo,12,4.63
+18,Nayarit,001,Acaponeta,0161,La Paloma Primera,174,6.88
+18,Nayarit,001,Acaponeta,0173,Las Bugambilias,14,9
+18,Nayarit,001,Acaponeta,0185,Las Higueras,28,7.50
+18,Nayarit,001,Acaponeta,0195,La Cuarentenaria (La Buenaventura),6,*
+18,Nayarit,001,Acaponeta,0198,El Techalote,48,5.62
+18,Nayarit,001,Acaponeta,0203,El Retoño (El Zopilote),2,*
+18,Nayarit,001,Acaponeta,0205,Agua Tendida,3,*
+18,Nayarit,001,Acaponeta,0209,Crucero de Acaponeta,53,10.55
+18,Nayarit,001,Acaponeta,0210,La Curva Jugo de Caña,5,*
+18,Nayarit,001,Acaponeta,0211,Santa Elena [Empacadora],7,*
+18,Nayarit,001,Acaponeta,0213,Emiliano [Granja],2,*
+18,Nayarit,001,Acaponeta,0215,El Refugio [Huerta],4,*
+18,Nayarit,001,Acaponeta,0226,Los Sandovales,157,8.16
+18,Nayarit,001,Acaponeta,0227,Arivania [Empacadora],4,*
+18,Nayarit,001,Acaponeta,0229,Chendo Pérez [Rancho],2,*
+18,Nayarit,001,Acaponeta,0230,El Coatépec,5,*
+18,Nayarit,001,Acaponeta,0236,Santa Fe,6,*
+18,Nayarit,001,Acaponeta,0237,San Jerónimo,9,8.75
+18,Nayarit,001,Acaponeta,0238,San José de Guadalupe,1,*
+18,Nayarit,001,Acaponeta,0241,Los Pinitos,5,*
+18,Nayarit,001,Acaponeta,0245,Los Arellanos,2,*
+18,Nayarit,001,Acaponeta,0252,Banco de Piedra,1,*
+18,Nayarit,001,Acaponeta,0253,Huerta del Güero Carlos,1,*
+18,Nayarit,001,Acaponeta,0262,Ninguno [Unidad Habitacional],234,10.87
+18,Nayarit,001,Acaponeta,0268,Los López,1,*
+18,Nayarit,001,Acaponeta,0270,Los Coyotes,3,*
+18,Nayarit,001,Acaponeta,0273,Apolonio Barrón Martínez,5,*
+18,Nayarit,001,Acaponeta,0290,Pradera Santa Rosa (El Coatepec),2,*
+18,Nayarit,001,Acaponeta,0291,El Descanso,3,*
+18,Nayarit,001,Acaponeta,0294,Rancho de los Avena,4,*
+18,Nayarit,001,Acaponeta,0298,El Zapote,5,*
+18,Nayarit,001,Acaponeta,0301,El Carrizal,68,7.26
+18,Nayarit,001,Acaponeta,0304,El Santo Niño de los Veranos,4,*
+18,Nayarit,001,Acaponeta,0307,Agua Plascencia [Purificadora],1,*
+18,Nayarit,001,Acaponeta,0308,El Venadito [Restaurante],2,*
+18,Nayarit,001,Acaponeta,0311,El Molino de Piedra,2,*
+18,Nayarit,001,Acaponeta,0315,El Huanacaxtle,3,*
+18,Nayarit,001,Acaponeta,0318,Cristino de la Cruz,5,*
+18,Nayarit,001,Acaponeta,0319,El Carrizalito,4,*
+18,Nayarit,001,Acaponeta,0320,El Limoncito,1,*
+18,Nayarit,001,Acaponeta,0325,Martín Cedano,1,*
+18,Nayarit,001,Acaponeta,0329,Los Macías,3,*
+18,Nayarit,001,Acaponeta,0330,Gustavo Fonseca,1,*
+18,Nayarit,001,Acaponeta,0333,La Loma Larga,23,2.64
+18,Nayarit,001,Acaponeta,0334,Las Moras,7,*
+18,Nayarit,001,Acaponeta,0335,Junquillo,2,*
+18,Nayarit,001,Acaponeta,0337,El Tiro al Blanco,6,*
+18,Nayarit,001,Acaponeta,0338,Crucero de la Ventana,4,*
+18,Nayarit,001,Acaponeta,0339,El Porvenir,2,*
+18,Nayarit,001,Acaponeta,0340,El Resbalón [Huerta],1,*
+18,Nayarit,001,Acaponeta,0343,Los Lirios,6,*
+18,Nayarit,001,Acaponeta,0345,El Zopilote,1,*
+18,Nayarit,001,Acaponeta,0346,Los Gavilanes,5,*
+18,Nayarit,001,Acaponeta,0347,El Rebombeo,1,*
+18,Nayarit,001,Acaponeta,0350,El Campamento,1,*
+18,Nayarit,001,Acaponeta,0354,Las Lomitas,6,*
+18,Nayarit,001,Acaponeta,0355,El Aserradero,38,7.50
+18,Nayarit,001,Acaponeta,9998,Localidades de una vivienda,169,7.34
+18,Nayarit,001,Acaponeta,9999,Localidades de dos viviendas,66,6.71
+18,Nayarit,002,Ahuacatlán,0000,Total del Municipio,15393,9.11
+18,Nayarit,002,Ahuacatlán,0001,Ahuacatlán,7259,9.96
+18,Nayarit,002,Ahuacatlán,0003,Amequita,11,5.50
+18,Nayarit,002,Ahuacatlán,0006,Santa Cruz de Camotlán,525,7.34
+18,Nayarit,002,Ahuacatlán,0007,La Campana,163,8.17
+18,Nayarit,002,Ahuacatlán,0009,Las Cebollas,130,7.66
+18,Nayarit,002,Ahuacatlán,0010,La Ciénega,202,6.86
+18,Nayarit,002,Ahuacatlán,0012,Copales,17,7.60
+18,Nayarit,002,Ahuacatlán,0016,La Gloria,57,7.41
+18,Nayarit,002,Ahuacatlán,0018,Los Granjenes,2,*
+18,Nayarit,002,Ahuacatlán,0019,Las Guásimas,78,8.53
+18,Nayarit,002,Ahuacatlán,0020,Heriberto Jara (La Haciendita),925,8.53
+18,Nayarit,002,Ahuacatlán,0022,La Lagunita,3,*
+18,Nayarit,002,Ahuacatlán,0023,Marquezado,767,8.54
+18,Nayarit,002,Ahuacatlán,0024,Las Palmas,159,7.44
+18,Nayarit,002,Ahuacatlán,0026,Paso de San Juan,2,*
+18,Nayarit,002,Ahuacatlán,0028,La Pichancha,30,6.71
+18,Nayarit,002,Ahuacatlán,0029,Rancho Nuevo,32,9.41
+18,Nayarit,002,Ahuacatlán,0034,Santa Isabel,1056,9
+18,Nayarit,002,Ahuacatlán,0036,El Terrero,6,*
+18,Nayarit,002,Ahuacatlán,0037,Valle Verde,582,7.62
+18,Nayarit,002,Ahuacatlán,0038,Tetitlán,988,8.50
+18,Nayarit,002,Ahuacatlán,0039,Uzeta,1661,8.90
+18,Nayarit,002,Ahuacatlán,0040,Zoatlán (San Francisco de Zoatlán),534,7.59
+18,Nayarit,002,Ahuacatlán,0049,El Giro,8,*
+18,Nayarit,002,Ahuacatlán,0060,Crucero de Jala,6,7
+18,Nayarit,002,Ahuacatlán,0063,El Verde,3,*
+18,Nayarit,002,Ahuacatlán,0068,Ojo de Agua,1,*
+18,Nayarit,002,Ahuacatlán,0079,El Zapote,3,*
+18,Nayarit,002,Ahuacatlán,0082,El Naranjo,4,*
+18,Nayarit,002,Ahuacatlán,0084,La Cruz,3,*
+18,Nayarit,002,Ahuacatlán,0092,Chon Zapeda [Huerta],4,*
+18,Nayarit,002,Ahuacatlán,0093,Rancho Curiel,1,*
+18,Nayarit,002,Ahuacatlán,0094,Crucero de Marquezado,6,*
+18,Nayarit,002,Ahuacatlán,0095,Crucero Heriberto Jara,31,9.05
+18,Nayarit,002,Ahuacatlán,0097,El Tempisque,9,*
+18,Nayarit,002,Ahuacatlán,0107,El Rosillo,1,*
+18,Nayarit,002,Ahuacatlán,0109,El Huarache,10,9.67
+18,Nayarit,002,Ahuacatlán,0118,El Galeano,1,*
+18,Nayarit,002,Ahuacatlán,0119,Las Garzas,4,*
+18,Nayarit,002,Ahuacatlán,0122,El Ranchito,2,*
+18,Nayarit,002,Ahuacatlán,0126,Las Blancas,5,*
+18,Nayarit,002,Ahuacatlán,0128,La Cofradía,1,*
+18,Nayarit,002,Ahuacatlán,0129,Las Garzas,5,8.60
+18,Nayarit,002,Ahuacatlán,0130,Las Tres M,5,*
+18,Nayarit,002,Ahuacatlán,0133,El Arco [Rancho],3,*
+18,Nayarit,002,Ahuacatlán,0135,La Laguna Uno,2,*
+18,Nayarit,002,Ahuacatlán,0136,Las Higueras Cuatas,4,*
+18,Nayarit,002,Ahuacatlán,0137,El Conhar (El Conchal),74,*
+18,Nayarit,002,Ahuacatlán,0144,Los Machain [Rancho],4,*
+18,Nayarit,002,Ahuacatlán,0146,El Capricho,2,*
+18,Nayarit,002,Ahuacatlán,0147,Carlos Meza (La Bolsa) [Rancho],2,*
+18,Nayarit,002,Ahuacatlán,9998,Localidades de una vivienda,138,7.16
+18,Nayarit,002,Ahuacatlán,9999,Localidades de dos viviendas,27,5.52
+18,Nayarit,003,Amatlán de Cañas,0000,Total del Municipio,11536,8.16
+18,Nayarit,003,Amatlán de Cañas,0001,Amatlán de Cañas,3267,8.45
+18,Nayarit,003,Amatlán de Cañas,0002,Los Agrios,92,6.75
+18,Nayarit,003,Amatlán de Cañas,0006,La Escondida (Agua Escondida),27,5.67
+18,Nayarit,003,Amatlán de Cañas,0009,Las Anonas,94,5.70
+18,Nayarit,003,Amatlán de Cañas,0011,Barranca del Oro,368,8.29
+18,Nayarit,003,Amatlán de Cañas,0018,Los Cerritos,171,6.89
+18,Nayarit,003,Amatlán de Cañas,0020,El Copalillo,54,5.50
+18,Nayarit,003,Amatlán de Cañas,0025,Estancia de los López,2318,8.68
+18,Nayarit,003,Amatlán de Cañas,0026,El Farito,30,6.74
+18,Nayarit,003,Amatlán de Cañas,0029,Las Guásimas,5,*
+18,Nayarit,003,Amatlán de Cañas,0031,La Haciendita,3,*
+18,Nayarit,003,Amatlán de Cañas,0033,Las Hembrillas,94,6.81
+18,Nayarit,003,Amatlán de Cañas,0035,Jesús María,421,6.93
+18,Nayarit,003,Amatlán de Cañas,0038,La Lima,21,5.37
+18,Nayarit,003,Amatlán de Cañas,0039,La Máquina,78,7.46
+18,Nayarit,003,Amatlán de Cañas,0040,Mezquites,644,7.54
+18,Nayarit,003,Amatlán de Cañas,0042,El Naranjo,10,4.75
+18,Nayarit,003,Amatlán de Cañas,0046,Pie de la Cuesta,98,6.93
+18,Nayarit,003,Amatlán de Cañas,0047,El Pilón,165,7.77
+18,Nayarit,003,Amatlán de Cañas,0050,El Portezuelo,26,5.90
+18,Nayarit,003,Amatlán de Cañas,0052,Potrerillos,17,6.33
+18,Nayarit,003,Amatlán de Cañas,0055,El Rosario,1366,8.73
+18,Nayarit,003,Amatlán de Cañas,0057,San Blasito,511,7.30
+18,Nayarit,003,Amatlán de Cañas,0059,San Valentín,95,5.85
+18,Nayarit,003,Amatlán de Cañas,0063,Tepuzhuacán,1075,8.36
+18,Nayarit,003,Amatlán de Cañas,0066,La Yerbabuena,349,8.06
+18,Nayarit,003,Amatlán de Cañas,0068,El Zopilote,44,9.14
+18,Nayarit,003,Amatlán de Cañas,0104,El Corral de Piedra,4,*
+18,Nayarit,003,Amatlán de Cañas,0105,El Jocuixtle (Santa Beatriz),4,*
+18,Nayarit,003,Amatlán de Cañas,0106,Nuevo México,17,6.19
+18,Nayarit,003,Amatlán de Cañas,0112,El Ombligo,8,2.50
+18,Nayarit,003,Amatlán de Cañas,0122,El Platanar,5,*
+18,Nayarit,003,Amatlán de Cañas,0123,El Ranchito,1,*
+18,Nayarit,003,Amatlán de Cañas,0124,Los Camichines [Rancho],4,*
+18,Nayarit,003,Amatlán de Cañas,0126,Rosales [Rancho],2,*
+18,Nayarit,003,Amatlán de Cañas,0128,Ranchos Unidos,22,8.37
+18,Nayarit,003,Amatlán de Cañas,0139,La Aguililla,2,*
+18,Nayarit,003,Amatlán de Cañas,0142,La Cruz de Piedra,2,*
+18,Nayarit,003,Amatlán de Cañas,0143,Las Jarillas,2,*
+18,Nayarit,003,Amatlán de Cañas,0144,Puerta del Limón,1,*
+18,Nayarit,003,Amatlán de Cañas,0149,La Ladrillera [Rancho],7,*
+18,Nayarit,003,Amatlán de Cañas,0152,El Viboral,1,*
+18,Nayarit,003,Amatlán de Cañas,0153,La Presa,2,*
+18,Nayarit,003,Amatlán de Cañas,0156,José Enrique Díaz,3,*
+18,Nayarit,003,Amatlán de Cañas,0157,Daniel Gómez,1,*
+18,Nayarit,003,Amatlán de Cañas,0164,Almirezito,5,*
+18,Nayarit,003,Amatlán de Cañas,9998,Localidades de una vivienda,42,6.41
+18,Nayarit,003,Amatlán de Cañas,9999,Localidades de dos viviendas,12,7.80
+18,Nayarit,004,Compostela,0000,Total del Municipio,77436,8.61
+18,Nayarit,004,Compostela,0001,Compostela,20322,10.24
+18,Nayarit,004,Compostela,0004,El Agua Azul,5,*
+18,Nayarit,004,Compostela,0005,Jamurca,4,*
+18,Nayarit,004,Compostela,0012,Agua Zarca de Miravalles,25,8.90
+18,Nayarit,004,Compostela,0015,El Almacén,7,*
+18,Nayarit,004,Compostela,0016,Altavista,404,7.57
+18,Nayarit,004,Compostela,0020,Los Ayala,618,9
+18,Nayarit,004,Compostela,0022,El Balastre,7,*
+18,Nayarit,004,Compostela,0023,Bella Unión,155,5.66
+18,Nayarit,004,Compostela,0032,Caléxico,7,5.83
+18,Nayarit,004,Compostela,0035,Campo de las Mulas,3,*
+18,Nayarit,004,Compostela,0036,Cándido Salazar,170,6.26
+18,Nayarit,004,Compostela,0038,Nuevo Ixtlán (Las Cañadas),124,5.74
+18,Nayarit,004,Compostela,0039,El Capomo,1031,7.13
+18,Nayarit,004,Compostela,0040,Felipe Carrillo Puerto,1123,9.17
+18,Nayarit,004,Compostela,0042,La Cebadilla,2,*
+18,Nayarit,004,Compostela,0052,Las Coloradas,48,7.63
+18,Nayarit,004,Compostela,0054,El Conchal,5,*
+18,Nayarit,004,Compostela,0055,El Conchal,1,*
+18,Nayarit,004,Compostela,0060,Coastecomatillo,238,7.08
+18,Nayarit,004,Compostela,0061,La Cuata,259,7.77
+18,Nayarit,004,Compostela,0063,La Cucaracha,12,6.33
+18,Nayarit,004,Compostela,0064,Cumbres de Huicicila,480,7.92
+18,Nayarit,004,Compostela,0065,Chacala,346,9.54
+18,Nayarit,004,Compostela,0069,Chulavista,398,7.67
+18,Nayarit,004,Compostela,0071,El Divisadero,129,5.73
+18,Nayarit,004,Compostela,0072,El Embocadero,3,*
+18,Nayarit,004,Compostela,0083,Ixtapa de la Concepción,1412,6.97
+18,Nayarit,004,Compostela,0084,Jaltepec,44,7.92
+18,Nayarit,004,Compostela,0089,Juan Escutia (Borbollón),1097,8.28
+18,Nayarit,004,Compostela,0090,Juan Sánchez,12,3.70
+18,Nayarit,004,Compostela,0093,Lima de Abajo,929,7.56
+18,Nayarit,004,Compostela,0094,La Lima,3,*
+18,Nayarit,004,Compostela,0097,Loma Alta,3,*
+18,Nayarit,004,Compostela,0099,Mamey Grande de Arriba,130,6.08
+18,Nayarit,004,Compostela,0103,Mazatán,1082,7.31
+18,Nayarit,004,Compostela,0104,Mesa del Rodeo,11,5.75
+18,Nayarit,004,Compostela,0106,Mezcales,9,6.56
+18,Nayarit,004,Compostela,0110,Miravalles,717,8.24
+18,Nayarit,004,Compostela,0111,El Molote,18,4.69
+18,Nayarit,004,Compostela,0112,Monteón,1825,7.77
+18,Nayarit,004,Compostela,0119,Otates y Cantarranas,802,7.69
+18,Nayarit,004,Compostela,0120,Pajaritos,14,7.67
+18,Nayarit,004,Compostela,0124,El Paranal (Arocha),554,7.17
+18,Nayarit,004,Compostela,0125,Paso de las Palmas,458,6.13
+18,Nayarit,004,Compostela,0126,Mesillas,248,6.46
+18,Nayarit,004,Compostela,0128,La Peñita de Jaltemba,10593,8.44
+18,Nayarit,004,Compostela,0132,Las Piedras,730,6.89
+18,Nayarit,004,Compostela,0137,Platanitos,45,6.51
+18,Nayarit,004,Compostela,0141,La Puerta de la Lima,719,7.42
+18,Nayarit,004,Compostela,0154,Rincón de Guayabitos,2777,8.20
+18,Nayarit,004,Compostela,0167,Santa María de Jaltemba,42,6.47
+18,Nayarit,004,Compostela,0176,El Sonador,5,*
+18,Nayarit,004,Compostela,0177,La Taberna,10,*
+18,Nayarit,004,Compostela,0180,Tepiqueños,124,6.51
+18,Nayarit,004,Compostela,0183,El Tonino,226,7.48
+18,Nayarit,004,Compostela,0184,Úrsulo Galván,729,7.92
+18,Nayarit,004,Compostela,0186,Las Varas,14419,8.42
+18,Nayarit,004,Compostela,0187,Las Víboras,10,*
+18,Nayarit,004,Compostela,0188,Las Vigas,8,5
+18,Nayarit,004,Compostela,0189,Villa Morelos,532,8.16
+18,Nayarit,004,Compostela,0190,Vizcarra,179,6.49
+18,Nayarit,004,Compostela,0191,Zacualpan,4887,7.69
+18,Nayarit,004,Compostela,0192,Zapotán,1063,7.19
+18,Nayarit,004,Compostela,0202,Tepiqueños de Abajo,7,*
+18,Nayarit,004,Compostela,0207,Estación Compostela,42,8.08
+18,Nayarit,004,Compostela,0212,La Capulinera,9,5.43
+18,Nayarit,004,Compostela,0213,Las Higueras,4,*
+18,Nayarit,004,Compostela,0214,Tiro al Blanco,10,9.67
+18,Nayarit,004,Compostela,0217,Agua Azul,9,*
+18,Nayarit,004,Compostela,0218,La Noriega,2,*
+18,Nayarit,004,Compostela,0221,El Ensueño,4,*
+18,Nayarit,004,Compostela,0222,Los Cafeses,7,*
+18,Nayarit,004,Compostela,0226,Crucero del Capomo,6,*
+18,Nayarit,004,Compostela,0230,El Rojo,4,*
+18,Nayarit,004,Compostela,0231,Rancho de los Estrada,1,*
+18,Nayarit,004,Compostela,0232,Las Truchas,5,*
+18,Nayarit,004,Compostela,0234,El Cajón,2,*
+18,Nayarit,004,Compostela,0236,Rancho Verde,4,*
+18,Nayarit,004,Compostela,0238,Las Caleras,38,6.28
+18,Nayarit,004,Compostela,0239,La Cañada,5,*
+18,Nayarit,004,Compostela,0241,Crucero de Juan Sánchez,14,7.33
+18,Nayarit,004,Compostela,0256,Los Tepetates,7,*
+18,Nayarit,004,Compostela,0257,La Roblosita,6,*
+18,Nayarit,004,Compostela,0258,Colimilla,4,*
+18,Nayarit,004,Compostela,0260,La Joya,243,8.28
+18,Nayarit,004,Compostela,0264,Majada del Teniente,5,*
+18,Nayarit,004,Compostela,0315,Buenavista,140,6.15
+18,Nayarit,004,Compostela,0316,Buenavista,7,*
+18,Nayarit,004,Compostela,0322,Paraíso Escondido [Colonia],2990,8.51
+18,Nayarit,004,Compostela,0325,San Isidro,257,7.18
+18,Nayarit,004,Compostela,0336,Vista al Mar (Bellavista),5,*
+18,Nayarit,004,Compostela,0337,San Isidro (Rancho de los Bravo),1,*
+18,Nayarit,004,Compostela,0338,El Caimanero,22,6.13
+18,Nayarit,004,Compostela,0340,Las Calabazas,12,8
+18,Nayarit,004,Compostela,0351,Crucero el Tonino,7,*
+18,Nayarit,004,Compostela,0365,Mario Menchaca Pineda,2,*
+18,Nayarit,004,Compostela,0375,Juan Díaz,1,*
+18,Nayarit,004,Compostela,0397,Las Tinajas,1,*
+18,Nayarit,004,Compostela,0399,La Ciénega,5,*
+18,Nayarit,004,Compostela,0402,Rancho Monroy,6,*
+18,Nayarit,004,Compostela,0403,La Noria,2,*
+18,Nayarit,004,Compostela,0405,Rancho Santi,1,*
+18,Nayarit,004,Compostela,0407,Las Moras,9,*
+18,Nayarit,004,Compostela,0418,Sidra Don Federico,3,*
+18,Nayarit,004,Compostela,0420,El Tamarindo,91,6.52
+18,Nayarit,004,Compostela,0423,Las Cuatas,5,*
+18,Nayarit,004,Compostela,0425,El Zarco (La Briceña),3,*
+18,Nayarit,004,Compostela,0426,Los Llanitos,9,4.83
+18,Nayarit,004,Compostela,0431,Paraíso Sereno,4,*
+18,Nayarit,004,Compostela,0433,Palos María,15,6.73
+18,Nayarit,004,Compostela,0434,La Trompeta,1,*
+18,Nayarit,004,Compostela,0435,El Salitre,39,6.96
+18,Nayarit,004,Compostela,0439,La Florida,2,*
+18,Nayarit,004,Compostela,0443,El Caimanero,4,*
+18,Nayarit,004,Compostela,0449,El Plan,1,*
+18,Nayarit,004,Compostela,0455,Las Lomitas,22,5.05
+18,Nayarit,004,Compostela,0459,El Mirador,4,*
+18,Nayarit,004,Compostela,0460,Taimarita,2,*
+18,Nayarit,004,Compostela,0462,La Ínsula,13,4.27
+18,Nayarit,004,Compostela,0464,La Parota,13,8.91
+18,Nayarit,004,Compostela,0467,El Arrayanal,1,*
+18,Nayarit,004,Compostela,0475,Bramadero,7,*
+18,Nayarit,004,Compostela,0476,La Cebadilla,4,*
+18,Nayarit,004,Compostela,0482,Rancho de Elodio,2,*
+18,Nayarit,004,Compostela,0483,El Vergel,2,*
+18,Nayarit,004,Compostela,0486,El Aserradero,4,*
+18,Nayarit,004,Compostela,0494,Las Esmeraldas,14,*
+18,Nayarit,004,Compostela,0496,La Esperanza,20,9.20
+18,Nayarit,004,Compostela,0504,Laguna del Mastranzo,1,*
+18,Nayarit,004,Compostela,0509,Maralta,3,*
+18,Nayarit,004,Compostela,0510,Los Medina (Los Laureles),3,*
+18,Nayarit,004,Compostela,0511,El Molino,8,10.29
+18,Nayarit,004,Compostela,0512,La Noria,14,7.44
+18,Nayarit,004,Compostela,0515,El Palmoso,24,6.35
+18,Nayarit,004,Compostela,0516,Palo Alto,3,*
+18,Nayarit,004,Compostela,0518,Piedra Bola,77,6.45
+18,Nayarit,004,Compostela,0520,La Porcina,3,*
+18,Nayarit,004,Compostela,0533,Rancho de Chico Ayala,2,*
+18,Nayarit,004,Compostela,0538,Rancho Rojas,2,*
+18,Nayarit,004,Compostela,0541,El Rastro,3,*
+18,Nayarit,004,Compostela,0543,El Recuerdo,4,*
+18,Nayarit,004,Compostela,0545,La Curva,20,9.54
+18,Nayarit,004,Compostela,0550,Rancho Dueñas,2,*
+18,Nayarit,004,Compostela,0561,Manuel Monteón [Rancho],1,*
+18,Nayarit,004,Compostela,0563,Los Salazares,6,*
+18,Nayarit,004,Compostela,0564,El Refilión,114,6.03
+18,Nayarit,004,Compostela,0567,Las Palmas,10,*
+18,Nayarit,004,Compostela,0570,Los Cuatro Vientos (El Guanacaste),2,*
+18,Nayarit,004,Compostela,0572,Reserva Natural del Palmar (El Suspiro) [Colonia],136,8.34
+18,Nayarit,004,Compostela,0576,Rancho del Olvido,4,*
+18,Nayarit,004,Compostela,0585,Laguna Azul [Centro de Rehabilitación],4,*
+18,Nayarit,004,Compostela,0587,El Destino,2,*
+18,Nayarit,004,Compostela,0591,Laguna de las Tortugas,1,*
+18,Nayarit,004,Compostela,0594,Las Palmas,12,8.63
+18,Nayarit,004,Compostela,0599,Porcina Palomera,1,*
+18,Nayarit,004,Compostela,0600,Las Potrancas,2,*
+18,Nayarit,004,Compostela,0605,El Crucero de Chacala,11,*
+18,Nayarit,004,Compostela,0610,Campo de Ensueño,4,*
+18,Nayarit,004,Compostela,0611,Salvador Sarabia,4,*
+18,Nayarit,004,Compostela,0613,Los Limos,2,*
+18,Nayarit,004,Compostela,0616,Villas del Trópico,3,*
+18,Nayarit,004,Compostela,0621,Playa las Cuevas,2,*
+18,Nayarit,004,Compostela,0622,El Berrinche,7,*
+18,Nayarit,004,Compostela,0623,El Capomal,1,*
+18,Nayarit,004,Compostela,0626,Chacalilla,15,10.73
+18,Nayarit,004,Compostela,0627,Juan Corona,9,*
+18,Nayarit,004,Compostela,0631,Los Ladrillos,1,*
+18,Nayarit,004,Compostela,0633,Graff [Rancho],2,*
+18,Nayarit,004,Compostela,0634,El Tesoro,1,*
+18,Nayarit,004,Compostela,0635,Águila Real,12,6.11
+18,Nayarit,004,Compostela,0637,Nuevo Amanecer,9,8.56
+18,Nayarit,004,Compostela,0641,El Durazno [Rancho],2,*
+18,Nayarit,004,Compostela,0642,El Agualamo,3,*
+18,Nayarit,004,Compostela,0644,Los Coastecomates,7,*
+18,Nayarit,004,Compostela,0647,Las Jirafas,7,*
+18,Nayarit,004,Compostela,0648,Los Laureles,12,8
+18,Nayarit,004,Compostela,0649,Los Ovos,3,*
+18,Nayarit,004,Compostela,0653,Las Guineas,2,*
+18,Nayarit,004,Compostela,0654,Bugambilias [Rancho],2,*
+18,Nayarit,004,Compostela,0658,Abel Balladares,4,*
+18,Nayarit,004,Compostela,0660,Las Ardillas,1,*
+18,Nayarit,004,Compostela,0661,El Cañaveral [Motel],5,*
+18,Nayarit,004,Compostela,0662,Las Azaleas,2,*
+18,Nayarit,004,Compostela,0663,Casa Playa,1,*
+18,Nayarit,004,Compostela,0665,La Puntilla,2,*
+18,Nayarit,004,Compostela,0666,El Colomito,2,*
+18,Nayarit,004,Compostela,0667,Crianza 1 y 2,5,*
+18,Nayarit,004,Compostela,0670,El Duende,18,8
+18,Nayarit,004,Compostela,0671,La Frontera (Guadalupe Villa),3,*
+18,Nayarit,004,Compostela,0674,El Molino 2,2,*
+18,Nayarit,004,Compostela,0676,El Pescador,5,*
+18,Nayarit,004,Compostela,0677,Potrero la Jarretadera,1,*
+18,Nayarit,004,Compostela,0678,Rancho Andrade,4,*
+18,Nayarit,004,Compostela,0680,Rancho Jat,1,*
+18,Nayarit,004,Compostela,0681,Los Limones,5,*
+18,Nayarit,004,Compostela,0682,M2 Salazares,4,*
+18,Nayarit,004,Compostela,0685,La Esperanza,2,*
+18,Nayarit,004,Compostela,0686,Alejandro González,2,*
+18,Nayarit,004,Compostela,0688,La Aventura,2,*
+18,Nayarit,004,Compostela,0691,Bodegas y Bodeguitas,7,*
+18,Nayarit,004,Compostela,0693,Casa Verde,1,*
+18,Nayarit,004,Compostela,0695,La Colonia,8,*
+18,Nayarit,004,Compostela,0696,El Cono,1,*
+18,Nayarit,004,Compostela,0697,El Cordoncillo,23,8.85
+18,Nayarit,004,Compostela,0699,Los Franco [Rancho],2,*
+18,Nayarit,004,Compostela,0700,Los Isabeles,2,*
+18,Nayarit,004,Compostela,0701,Los Izotes,2,*
+18,Nayarit,004,Compostela,0703,José Mercado,1,*
+18,Nayarit,004,Compostela,0705,Larry Jhones,2,*
+18,Nayarit,004,Compostela,0707,Manuel Valle,2,*
+18,Nayarit,004,Compostela,0710,El Ochito (Aurora Flores),1,*
+18,Nayarit,004,Compostela,0711,Oro Fino [Fraccionamiento],4,*
+18,Nayarit,004,Compostela,0712,Las Palmas,7,5.20
+18,Nayarit,004,Compostela,0714,Paraíso Escondido [Rancho],3,*
+18,Nayarit,004,Compostela,0715,Peña [Empacadora],1,*
+18,Nayarit,004,Compostela,0716,Ninguno [Planta de Tratamiento],1,*
+18,Nayarit,004,Compostela,0717,Oasis [Purificadora],5,*
+18,Nayarit,004,Compostela,0718,Los Salazares,2,*
+18,Nayarit,004,Compostela,0726,Crucero del Divisadero,1,*
+18,Nayarit,004,Compostela,0727,Zirra [Purificadora],1,*
+18,Nayarit,004,Compostela,0728,El Mirador,12,5
+18,Nayarit,004,Compostela,0733,Rodrigo Ruiz Carrillo (El Corral Verde),1,*
+18,Nayarit,004,Compostela,0735,La Parota [Entrada a con Cambero],3,*
+18,Nayarit,004,Compostela,0738,La Higuera,4,*
+18,Nayarit,004,Compostela,0739,Mi Cafetal,6,6
+18,Nayarit,004,Compostela,0740,Los Sauces,2,*
+18,Nayarit,004,Compostela,0741,Rancho Vargas,2,*
+18,Nayarit,004,Compostela,0742,Saúl Contreras [Granja],1,*
+18,Nayarit,004,Compostela,0745,Los Mangos,6,*
+18,Nayarit,004,Compostela,0746,Los Tres Ases [Rancho],1,*
+18,Nayarit,004,Compostela,0748,Santa Rosa,3,*
+18,Nayarit,004,Compostela,0751,Ascención de la Rosa [Rancho],3,*
+18,Nayarit,004,Compostela,0752,Las Gardenias,9,8
+18,Nayarit,004,Compostela,0753,La Parcela Escolar [Colonia],4,*
+18,Nayarit,004,Compostela,0756,Los Tacuaches,2,*
+18,Nayarit,004,Compostela,0757,Las Baleadas,18,7.29
+18,Nayarit,004,Compostela,0758,Vista de Ángel [Rancho],3,*
+18,Nayarit,004,Compostela,0760,Hacienda el Aguaje [Rancho],2,*
+18,Nayarit,004,Compostela,0762,Los Huizapoles [Rancho],1,*
+18,Nayarit,004,Compostela,0763,San Francisco [Rancho],1,*
+18,Nayarit,004,Compostela,0764,La Ilusión [Rancho],4,*
+18,Nayarit,004,Compostela,0765,María Bonita,1,*
+18,Nayarit,004,Compostela,0766,Loma Alta,2,*
+18,Nayarit,004,Compostela,0769,Las Macadamias,6,7.40
+18,Nayarit,004,Compostela,0770,Los Sauces,1,*
+18,Nayarit,004,Compostela,0771,San Carlos de los Pinos [Rancho],6,*
+18,Nayarit,004,Compostela,0772,El Imperio [Rancho],1,*
+18,Nayarit,004,Compostela,0774,Los Mangos,10,7
+18,Nayarit,004,Compostela,0775,La Herradura [Rancho],2,*
+18,Nayarit,004,Compostela,0777,El Edén,3,*
+18,Nayarit,004,Compostela,9998,Localidades de una vivienda,338,6.72
+18,Nayarit,004,Compostela,9999,Localidades de dos viviendas,213,6.39
+18,Nayarit,005,Huajicori,0000,Total del Municipio,12230,7.89
+18,Nayarit,005,Huajicori,0001,Huajicori,3666,9.67
+18,Nayarit,005,Huajicori,0002,Acatita,73,7.41
+18,Nayarit,005,Huajicori,0003,Agua Caliente,42,5.26
+18,Nayarit,005,Huajicori,0007,El Arrayán,163,8.31
+18,Nayarit,005,Huajicori,0009,Barbacoa,65,6.46
+18,Nayarit,005,Huajicori,0015,Caramota,19,2.36
+18,Nayarit,005,Huajicori,0016,La Campana (El Mimbre),55,7.45
+18,Nayarit,005,Huajicori,0020,Las Cebollitas,49,6.07
+18,Nayarit,005,Huajicori,0024,La Ciénega,17,*
+18,Nayarit,005,Huajicori,0027,El Colomo,78,6.35
+18,Nayarit,005,Huajicori,0029,El Colorado,94,8.33
+18,Nayarit,005,Huajicori,0033,El Corpo,7,*
+18,Nayarit,005,Huajicori,0034,Corral de Piedra,7,*
+18,Nayarit,005,Huajicori,0038,Mineral de Cucharas,260,7.26
+18,Nayarit,005,Huajicori,0039,Cuesta China,1,*
+18,Nayarit,005,Huajicori,0043,La Estancia,273,7.41
+18,Nayarit,005,Huajicori,0044,El Faisán,5,*
+18,Nayarit,005,Huajicori,0046,Las Grullas,3,*
+18,Nayarit,005,Huajicori,0047,Guamuchilar,214,7.08
+18,Nayarit,005,Huajicori,0050,El Guayabo,8,5
+18,Nayarit,005,Huajicori,0051,Valle Morelos (Higuera Gacha),123,7.36
+18,Nayarit,005,Huajicori,0054,El Huizache,4,*
+18,Nayarit,005,Huajicori,0055,Huitalota,164,8.24
+18,Nayarit,005,Huajicori,0059,El Infiernillo,14,5.75
+18,Nayarit,005,Huajicori,0062,Jocochota,10,5.57
+18,Nayarit,005,Huajicori,0063,Las Juntitas,3,*
+18,Nayarit,005,Huajicori,0064,La Laguna,12,7.63
+18,Nayarit,005,Huajicori,0068,El Limón,1,*
+18,Nayarit,005,Huajicori,0069,El Lunarcito,17,5.91
+18,Nayarit,005,Huajicori,0070,Llano de Tenepanta,106,5.97
+18,Nayarit,005,Huajicori,0071,Llano Grande,259,6.77
+18,Nayarit,005,Huajicori,0075,La Manga,2,*
+18,Nayarit,005,Huajicori,0078,Mazatán,17,7.67
+18,Nayarit,005,Huajicori,0079,La Mesa del Coco,41,6
+18,Nayarit,005,Huajicori,0080,Mesa de los Ricos,260,7.90
+18,Nayarit,005,Huajicori,0086,El Muerto (Los Vergelitos),5,*
+18,Nayarit,005,Huajicori,0087,Nanchi Gacho,6,*
+18,Nayarit,005,Huajicori,0088,El Naranjo,20,6.10
+18,Nayarit,005,Huajicori,0090,Pachecos,197,7.55
+18,Nayarit,005,Huajicori,0095,Palo Blanco,2,*
+18,Nayarit,005,Huajicori,0096,El Pantano,21,7.08
+18,Nayarit,005,Huajicori,0098,La Peña Colorada,58,8.09
+18,Nayarit,005,Huajicori,0099,Santa María de Picachos,498,8.28
+18,Nayarit,005,Huajicori,0102,Potrerillos,20,5.24
+18,Nayarit,005,Huajicori,0103,Providencia,47,7.09
+18,Nayarit,005,Huajicori,0104,Puerta de Potrerillos,35,6.83
+18,Nayarit,005,Huajicori,0105,La Quebrada,83,7.64
+18,Nayarit,005,Huajicori,0106,Las Quemadas,37,7.78
+18,Nayarit,005,Huajicori,0108,Quiviquinta,434,7.91
+18,Nayarit,005,Huajicori,0109,El Riíto,339,7.38
+18,Nayarit,005,Huajicori,0112,El Rodeo de Abajo,46,7.03
+18,Nayarit,005,Huajicori,0113,El Rodeo de Arriba,51,6.80
+18,Nayarit,005,Huajicori,0114,El Salto,35,8.10
+18,Nayarit,005,Huajicori,0116,San Andrés Milpillas,650,7.93
+18,Nayarit,005,Huajicori,0117,San Francisco del Caimán,287,6.16
+18,Nayarit,005,Huajicori,0121,Las Sillas,70,6.31
+18,Nayarit,005,Huajicori,0122,Tachichilpa,17,7
+18,Nayarit,005,Huajicori,0123,Las Talegas,25,9.21
+18,Nayarit,005,Huajicori,0124,Tamazole,100,7.50
+18,Nayarit,005,Huajicori,0125,El Tepehuaje,60,6.36
+18,Nayarit,005,Huajicori,0127,El Terrero,3,*
+18,Nayarit,005,Huajicori,0129,Terrón Blanco,7,7.86
+18,Nayarit,005,Huajicori,0130,El Tigre,18,2.30
+18,Nayarit,005,Huajicori,0132,El Toro,61,7.82
+18,Nayarit,005,Huajicori,0134,El Taiste,6,*
+18,Nayarit,005,Huajicori,0135,Tescomatita (Las Trojas),94,4.78
+18,Nayarit,005,Huajicori,0136,Los Vados (Paso del Tecolote),12,8.88
+18,Nayarit,005,Huajicori,0139,Viscuaxtla,15,3.63
+18,Nayarit,005,Huajicori,0141,Zapota,14,7.80
+18,Nayarit,005,Huajicori,0142,Zapotillos,81,8.15
+18,Nayarit,005,Huajicori,0152,Zonteco,207,7.34
+18,Nayarit,005,Huajicori,0156,La Presa,4,*
+18,Nayarit,005,Huajicori,0157,El Salitre,4,*
+18,Nayarit,005,Huajicori,0158,Contadero,123,5.05
+18,Nayarit,005,Huajicori,0160,San Antonio,55,4.29
+18,Nayarit,005,Huajicori,0163,Comapa,13,8.90
+18,Nayarit,005,Huajicori,0169,La Laguna,26,6.31
+18,Nayarit,005,Huajicori,0171,Agua Cerrada,53,5.32
+18,Nayarit,005,Huajicori,0172,El Capomo,9,*
+18,Nayarit,005,Huajicori,0173,El Salto,72,6.53
+18,Nayarit,005,Huajicori,0175,El Guayabo,68,6.03
+18,Nayarit,005,Huajicori,0181,Guadalajarita,12,6.44
+18,Nayarit,005,Huajicori,0182,La Murallita,213,6.90
+18,Nayarit,005,Huajicori,0186,Villa Madero,39,5.82
+18,Nayarit,005,Huajicori,0187,El Indito,38,4.35
+18,Nayarit,005,Huajicori,0189,El Rincón,45,6.76
+18,Nayarit,005,Huajicori,0192,El Guamuchilito,24,5.33
+18,Nayarit,005,Huajicori,0193,Los Tobos,40,7.96
+18,Nayarit,005,Huajicori,0196,Los Parajes,4,*
+18,Nayarit,005,Huajicori,0199,El Huizache,16,6.75
+18,Nayarit,005,Huajicori,0201,Tatepozco,49,7.45
+18,Nayarit,005,Huajicori,0208,El Zapote,11,9.25
+18,Nayarit,005,Huajicori,0211,El Puyeque,4,*
+18,Nayarit,005,Huajicori,0212,Las Guásimas (Loma Larga),102,7.29
+18,Nayarit,005,Huajicori,0213,El Taiste,27,7.40
+18,Nayarit,005,Huajicori,0215,El Chapulín,21,6
+18,Nayarit,005,Huajicori,0219,Coyotes,5,*
+18,Nayarit,005,Huajicori,0222,Los Fresnos,15,7.18
+18,Nayarit,005,Huajicori,0223,El Guayabo,21,7.20
+18,Nayarit,005,Huajicori,0226,El Jejito (El Molino),8,5.33
+18,Nayarit,005,Huajicori,0232,Tamazole,38,5.11
+18,Nayarit,005,Huajicori,0233,El Tomate,21,3.83
+18,Nayarit,005,Huajicori,0236,El Arrayán,64,7.14
+18,Nayarit,005,Huajicori,0237,Agua Caliente,16,8.08
+18,Nayarit,005,Huajicori,0242,Corral de Piedra (El Limoncito),13,*
+18,Nayarit,005,Huajicori,0244,Los Cimientos,78,5.05
+18,Nayarit,005,Huajicori,0247,La Joya,2,*
+18,Nayarit,005,Huajicori,0249,La Laguna,9,8
+18,Nayarit,005,Huajicori,0250,Los Llanitos,104,5.72
+18,Nayarit,005,Huajicori,0253,Monte Redondo,12,*
+18,Nayarit,005,Huajicori,0257,El Naranjito,4,*
+18,Nayarit,005,Huajicori,0258,Otate Gordo,13,*
+18,Nayarit,005,Huajicori,0262,Las Patillas,15,*
+18,Nayarit,005,Huajicori,0279,La Vinata,3,*
+18,Nayarit,005,Huajicori,0282,Las Guitarras,14,*
+18,Nayarit,005,Huajicori,0283,El Arco,15,*
+18,Nayarit,005,Huajicori,0290,La Higuera,37,4.57
+18,Nayarit,005,Huajicori,0294,El Molino,13,6.44
+18,Nayarit,005,Huajicori,0296,El Provincial,13,4.50
+18,Nayarit,005,Huajicori,0298,San Juan,5,*
+18,Nayarit,005,Huajicori,0301,Las Juntitas,12,*
+18,Nayarit,005,Huajicori,0303,La Ventana,19,4.14
+18,Nayarit,005,Huajicori,0309,La Calera,1,*
+18,Nayarit,005,Huajicori,0312,El Zollate,3,*
+18,Nayarit,005,Huajicori,0314,El Parque,6,*
+18,Nayarit,005,Huajicori,0315,La Guacamaya,6,*
+18,Nayarit,005,Huajicori,0317,El Guayabo (La Piedra Rajada),56,8
+18,Nayarit,005,Huajicori,0319,El Aserradero,135,8.69
+18,Nayarit,005,Huajicori,0325,Las Palmas,25,7.93
+18,Nayarit,005,Huajicori,0326,El Sábalo,7,*
+18,Nayarit,005,Huajicori,0327,Las Pilas,6,*
+18,Nayarit,005,Huajicori,0328,La Presa de Rancho Grande,6,*
+18,Nayarit,005,Huajicori,0334,El Saucito,9,*
+18,Nayarit,005,Huajicori,0335,Las Mesitas,37,6.09
+18,Nayarit,005,Huajicori,0343,La Campana,30,4.80
+18,Nayarit,005,Huajicori,0345,El Ciruelito,20,5.78
+18,Nayarit,005,Huajicori,0349,El Corpo,18,4.86
+18,Nayarit,005,Huajicori,0352,Las Cuevas,10,*
+18,Nayarit,005,Huajicori,0353,El Duraznito,10,*
+18,Nayarit,005,Huajicori,0356,El Terrero,24,6.69
+18,Nayarit,005,Huajicori,0359,El Limón,8,*
+18,Nayarit,005,Huajicori,0361,Centro de Acopio de Ganaderos,3,*
+18,Nayarit,005,Huajicori,0362,El Mango,11,5.17
+18,Nayarit,005,Huajicori,0366,El Metate,3,*
+18,Nayarit,005,Huajicori,0377,San Marcial,6,*
+18,Nayarit,005,Huajicori,0378,Los Oritos,10,*
+18,Nayarit,005,Huajicori,0380,Tepezapote,3,*
+18,Nayarit,005,Huajicori,0384,El Vallecito,22,6.84
+18,Nayarit,005,Huajicori,0386,Los Amoles,6,*
+18,Nayarit,005,Huajicori,0388,El Carrizo,3,*
+18,Nayarit,005,Huajicori,0390,Las Juntas,9,*
+18,Nayarit,005,Huajicori,0391,La Mesa Larga,27,4.83
+18,Nayarit,005,Huajicori,0393,El Pato,51,1.50
+18,Nayarit,005,Huajicori,0394,Picachito,3,*
+18,Nayarit,005,Huajicori,0398,El Salto,4,*
+18,Nayarit,005,Huajicori,0401,El Ciruelo,38,2.68
+18,Nayarit,005,Huajicori,0407,La Estrella (Cerro Pelón),7,*
+18,Nayarit,005,Huajicori,0408,Los Guajolotes,6,*
+18,Nayarit,005,Huajicori,0416,Las Azucenas,5,*
+18,Nayarit,005,Huajicori,0417,Las Cuevecillas,7,*
+18,Nayarit,005,Huajicori,0420,El Guamuchilito,31,6.46
+18,Nayarit,005,Huajicori,0422,La Lagunita,6,*
+18,Nayarit,005,Huajicori,0423,El Mirador,4,*
+18,Nayarit,005,Huajicori,0424,La Muralla (El Baño),1,*
+18,Nayarit,005,Huajicori,0426,Tierra Blanca,41,5.70
+18,Nayarit,005,Huajicori,0428,Las Palmas,5,*
+18,Nayarit,005,Huajicori,0429,Rancho de Huicho Rangel,2,*
+18,Nayarit,005,Huajicori,0430,Rancho de los Sánchez,7,*
+18,Nayarit,005,Huajicori,0434,Las Iglesias,6,*
+18,Nayarit,005,Huajicori,0444,Cerro Pelón,4,*
+18,Nayarit,005,Huajicori,0445,El Mirador,6,*
+18,Nayarit,005,Huajicori,0446,Mesa de Alacranes,37,4.30
+18,Nayarit,005,Huajicori,0447,Las Majadas,1,*
+18,Nayarit,005,Huajicori,0449,Las Cabañas,4,*
+18,Nayarit,005,Huajicori,9998,Localidades de una vivienda,226,6.63
+18,Nayarit,005,Huajicori,9999,Localidades de dos viviendas,177,5.82
+18,Nayarit,006,Ixtlán del Río,0000,Total del Municipio,29299,9.40
+18,Nayarit,006,Ixtlán del Río,0001,Ixtlán del Río,25477,9.65
+18,Nayarit,006,Ixtlán del Río,0002,El Aguacate,109,6.33
+18,Nayarit,006,Ixtlán del Río,0007,Cacalután,379,7.74
+18,Nayarit,006,Ixtlán del Río,0010,La Sidra,18,8.64
+18,Nayarit,006,Ixtlán del Río,0011,Coyula el Grande,5,*
+18,Nayarit,006,Ixtlán del Río,0014,La Cuata,26,7.21
+18,Nayarit,006,Ixtlán del Río,0019,La Haciendita,39,7
+18,Nayarit,006,Ixtlán del Río,0020,La Higuerita,189,7.23
+18,Nayarit,006,Ixtlán del Río,0021,El Jarillal,10,7.67
+18,Nayarit,006,Ixtlán del Río,0024,Mexpan,1253,8.59
+18,Nayarit,006,Ixtlán del Río,0026,Los Mezquites,358,7.52
+18,Nayarit,006,Ixtlán del Río,0027,Milpillas,1,*
+18,Nayarit,006,Ixtlán del Río,0033,El Platanillo,1,*
+18,Nayarit,006,Ixtlán del Río,0037,Ranchos de Arriba (San Antonio),291,7.71
+18,Nayarit,006,Ixtlán del Río,0039,San Clemente (Rancho Nuevo),153,7.16
+18,Nayarit,006,Ixtlán del Río,0040,San José de Gracia (El Pueblito),351,7.82
+18,Nayarit,006,Ixtlán del Río,0042,San Miguel,102,7.87
+18,Nayarit,006,Ixtlán del Río,0044,Los Sauces,49,7.16
+18,Nayarit,006,Ixtlán del Río,0046,Sayulápan,34,5.50
+18,Nayarit,006,Ixtlán del Río,0049,El Terrero,303,7.03
+18,Nayarit,006,Ixtlán del Río,0050,Los Timbres,3,*
+18,Nayarit,006,Ixtlán del Río,0052,El Zapatero,3,*
+18,Nayarit,006,Ixtlán del Río,0053,El Zapote,14,2.27
+18,Nayarit,006,Ixtlán del Río,0062,La Posta,1,*
+18,Nayarit,006,Ixtlán del Río,0068,Los Bajíos de Villa,11,*
+18,Nayarit,006,Ixtlán del Río,0069,El Carrizalillo,1,*
+18,Nayarit,006,Ixtlán del Río,0075,Las Matas,2,*
+18,Nayarit,006,Ixtlán del Río,0083,El Veladero,4,*
+18,Nayarit,006,Ixtlán del Río,0094,El Huarache,1,*
+18,Nayarit,006,Ixtlán del Río,0099,Los Toriles,1,*
+18,Nayarit,006,Ixtlán del Río,0103,El Ranchito II,2,*
+18,Nayarit,006,Ixtlán del Río,0112,La Tecolota,9,*
+18,Nayarit,006,Ixtlán del Río,0116,El Mirador (El Pando),2,*
+18,Nayarit,006,Ixtlán del Río,0121,El Agüilote,12,8.43
+18,Nayarit,006,Ixtlán del Río,0124,El Carrizo,7,6.40
+18,Nayarit,006,Ixtlán del Río,0134,La Esperanza [Trapiche],1,*
+18,Nayarit,006,Ixtlán del Río,0135,Crucero Ranchos de Arriba,4,*
+18,Nayarit,006,Ixtlán del Río,0136,La Pupa,4,*
+18,Nayarit,006,Ixtlán del Río,0143,Paso de Parras,2,*
+18,Nayarit,006,Ixtlán del Río,0147,Cerritos,4,*
+18,Nayarit,006,Ixtlán del Río,0148,El Anhelo,6,*
+18,Nayarit,006,Ixtlán del Río,0150,El Centenario,3,*
+18,Nayarit,006,Ixtlán del Río,0151,Las Cuevas,1,*
+18,Nayarit,006,Ixtlán del Río,0152,El Limón,12,5
+18,Nayarit,006,Ixtlán del Río,0157,La Virgencita,6,*
+18,Nayarit,006,Ixtlán del Río,0161,Arturo Bravo,5,*
+18,Nayarit,006,Ixtlán del Río,0166,Los Toriles,4,*
+18,Nayarit,006,Ixtlán del Río,0171,Rancho Escondido,2,*
+18,Nayarit,006,Ixtlán del Río,0177,Parque la Haciendita,3,*
+18,Nayarit,006,Ixtlán del Río,0185,Mineros,1,*
+18,Nayarit,006,Ixtlán del Río,0186,Popoye [Rancho],4,*
+18,Nayarit,006,Ixtlán del Río,0187,La Cofradía del Mezquite,6,*
+18,Nayarit,006,Ixtlán del Río,0190,El Mezquitito,4,*
+18,Nayarit,006,Ixtlán del Río,0191,Ranchito de la Cuarentenaria,6,*
+18,Nayarit,006,Ixtlán del Río,9998,Localidades de una vivienda,66,7.20
+18,Nayarit,006,Ixtlán del Río,9999,Localidades de dos viviendas,47,7.11
+18,Nayarit,007,Jala,0000,Total del Municipio,19321,8.88
+18,Nayarit,007,Jala,0001,Jala,5844,10.14
+18,Nayarit,007,Jala,0004,Los Aguajes,1173,8.81
+18,Nayarit,007,Jala,0007,Francisco I. Madero (La Bolsa),912,7.49
+18,Nayarit,007,Jala,0010,El Ciruelo,130,6.37
+18,Nayarit,007,Jala,0011,Coapan,370,7.96
+18,Nayarit,007,Jala,0013,La Cofradía de Buenos Aires,116,6.46
+18,Nayarit,007,Jala,0014,Cofradía de Juanacatlán,887,8.16
+18,Nayarit,007,Jala,0017,El Fraile,5,*
+18,Nayarit,007,Jala,0022,Jomulco,4300,9.30
+18,Nayarit,007,Jala,0034,Potrerillos,5,*
+18,Nayarit,007,Jala,0035,Rosa Blanca,3216,7.59
+18,Nayarit,007,Jala,0036,La Sabana,27,7
+18,Nayarit,007,Jala,0037,San Miguel de Buenavista,578,8.63
+18,Nayarit,007,Jala,0038,Santa Fe,172,6.36
+18,Nayarit,007,Jala,0040,La Soledad,8,*
+18,Nayarit,007,Jala,0041,Tahuitolpa,7,*
+18,Nayarit,007,Jala,0043,El Zoquite,3,*
+18,Nayarit,007,Jala,0045,El Jaral,40,6.22
+18,Nayarit,007,Jala,0054,El Charro,102,6.50
+18,Nayarit,007,Jala,0057,El Carrizal,96,8.33
+18,Nayarit,007,Jala,0058,La Cerca Negra,2,*
+18,Nayarit,007,Jala,0061,La Cruz,133,8.54
+18,Nayarit,007,Jala,0067,Pueblo Nuevo,207,8.87
+18,Nayarit,007,Jala,0070,San Antonio (Rancho Nuevo),123,6.82
+18,Nayarit,007,Jala,0071,Torrecillas,35,6.90
+18,Nayarit,007,Jala,0072,Las Majadas,8,*
+18,Nayarit,007,Jala,0075,Mezcalitos,3,*
+18,Nayarit,007,Jala,0078,Colonia Lindavista,409,6.70
+18,Nayarit,007,Jala,0079,Colonia los Ramírez,90,6.59
+18,Nayarit,007,Jala,0080,Coyonca,6,*
+18,Nayarit,007,Jala,0083,El Nogal,14,6
+18,Nayarit,007,Jala,0086,San Sebastián [Colonia],29,7.67
+18,Nayarit,007,Jala,0087,El Chipiteño,5,*
+18,Nayarit,007,Jala,0088,El Divisadero,10,*
+18,Nayarit,007,Jala,0091,Plan de Buenos Aires,33,4.39
+18,Nayarit,007,Jala,0092,Puerto de Bellavista,3,*
+18,Nayarit,007,Jala,0095,El Aislito,3,*
+18,Nayarit,007,Jala,0099,Los Grande,5,*
+18,Nayarit,007,Jala,0108,Jalpa Grande,161,7.26
+18,Nayarit,007,Jala,0109,El Novillero,15,2.50
+18,Nayarit,007,Jala,0111,Piedra Grande,11,6.43
+18,Nayarit,007,Jala,0112,La Anona,11,*
+18,Nayarit,007,Jala,0113,El Embocadero,6,*
+18,Nayarit,007,Jala,0115,Los Fonseca,2,*
+18,Nayarit,007,Jala,0119,Los Órganos,4,*
+18,Nayarit,007,Jala,0121,La Casa de Piedra,2,*
+18,Nayarit,007,Jala,9998,Localidades de una vivienda,46,7.34
+18,Nayarit,007,Jala,9999,Localidades de dos viviendas,52,7.11
+18,Nayarit,008,Xalisco,0000,Total del Municipio,65229,10.82
+18,Nayarit,008,Xalisco,0001,Xalisco,48170,11.51
+18,Nayarit,008,Xalisco,0002,Adolfo López Mateos (Las Veredas),216,7.39
+18,Nayarit,008,Xalisco,0003,Altavista [Rancho],4,*
+18,Nayarit,008,Xalisco,0004,Aquiles Serdán,1373,9.64
+18,Nayarit,008,Xalisco,0005,El Carrizal,367,9.02
+18,Nayarit,008,Xalisco,0006,Cofradía de Chocolón,717,7.78
+18,Nayarit,008,Xalisco,0007,El Cuarenteño,814,8.48
+18,Nayarit,008,Xalisco,0008,La Curva,817,8.25
+18,Nayarit,008,Xalisco,0009,El Italiano,4,*
+18,Nayarit,008,Xalisco,0011,Emiliano Zapata (Majadas),1843,8.57
+18,Nayarit,008,Xalisco,0012,El Malinal,482,7.60
+18,Nayarit,008,Xalisco,0013,Ocote del Rayo,4,*
+18,Nayarit,008,Xalisco,0014,Palapita,323,7.23
+18,Nayarit,008,Xalisco,0015,Pantanal,3408,10.20
+18,Nayarit,008,Xalisco,0017,San José de Costilla (Estación Costilla),281,7.95
+18,Nayarit,008,Xalisco,0020,El Tepozal,254,6.72
+18,Nayarit,008,Xalisco,0021,Testerazo,2811,9.14
+18,Nayarit,008,Xalisco,0022,Trigomil,691,8.19
+18,Nayarit,008,Xalisco,0028,San Antonio,163,5.95
+18,Nayarit,008,Xalisco,0029,Los Ángeles,1,*
+18,Nayarit,008,Xalisco,0034,La Mesa del Potrero (La Ceiba),4,*
+18,Nayarit,008,Xalisco,0042,Juan Escutia (Guajolotes),55,7.07
+18,Nayarit,008,Xalisco,0043,Los Compadres (El Marino),7,*
+18,Nayarit,008,Xalisco,0044,El Palmar,31,6.47
+18,Nayarit,008,Xalisco,0050,El Italiano (El Salvial),3,*
+18,Nayarit,008,Xalisco,0060,La Casa Anaranjada,3,*
+18,Nayarit,008,Xalisco,0069,Los Fortines,52,5.46
+18,Nayarit,008,Xalisco,0072,Los Isiordia (Chaparro Gómez),5,*
+18,Nayarit,008,Xalisco,0074,El Maguey,6,*
+18,Nayarit,008,Xalisco,0076,Lindavista,6,*
+18,Nayarit,008,Xalisco,0078,Las Higueras,1,*
+18,Nayarit,008,Xalisco,0079,Los Camichines,4,*
+18,Nayarit,008,Xalisco,0081,La Noria,2,*
+18,Nayarit,008,Xalisco,0082,El Puente,1,*
+18,Nayarit,008,Xalisco,0083,Leonor Langarica Pérez,6,*
+18,Nayarit,008,Xalisco,0088,La Flor,2,*
+18,Nayarit,008,Xalisco,0090,Lomas Altas,13,9.67
+18,Nayarit,008,Xalisco,0095,El Arroyito [Rancho],3,*
+18,Nayarit,008,Xalisco,0096,Arroyo de la Muerte,6,*
+18,Nayarit,008,Xalisco,0097,El Capiro [Rancho],2,*
+18,Nayarit,008,Xalisco,0098,Jordán [Rancho],1,*
+18,Nayarit,008,Xalisco,0099,Las Tinajitas,1,*
+18,Nayarit,008,Xalisco,0100,Los Encinos [Granja],4,9
+18,Nayarit,008,Xalisco,0102,La Tunita,2,*
+18,Nayarit,008,Xalisco,0103,La Jaleña,6,*
+18,Nayarit,008,Xalisco,0104,Amador [Empacadora],5,*
+18,Nayarit,008,Xalisco,0106,Los García,12,10.80
+18,Nayarit,008,Xalisco,0109,Los Córdoba,2,*
+18,Nayarit,008,Xalisco,0110,El Avión [Granja],1,*
+18,Nayarit,008,Xalisco,0111,Los López [Rancho],2,*
+18,Nayarit,008,Xalisco,0112,Sol de Oro,2,*
+18,Nayarit,008,Xalisco,0113,Loma Bonita [Colonia],14,5.78
+18,Nayarit,008,Xalisco,0114,Las Pilas [Rancho],4,*
+18,Nayarit,008,Xalisco,0115,El Fresnito,12,10.13
+18,Nayarit,008,Xalisco,0116,La Cofradía [Rancho],1,*
+18,Nayarit,008,Xalisco,0118,Yoreme [Rancho],6,*
+18,Nayarit,008,Xalisco,0120,La Montaña (U.M.A. Parque Natural),3,*
+18,Nayarit,008,Xalisco,0122,San Rafael [Rancho],3,*
+18,Nayarit,008,Xalisco,0123,El Mirador,4,*
+18,Nayarit,008,Xalisco,0124,Las Palmas [Rancho],6,*
+18,Nayarit,008,Xalisco,0125,Playa Verde,6,*
+18,Nayarit,008,Xalisco,0126,Esperanza [Rancho],2,*
+18,Nayarit,008,Xalisco,0127,La Herencia [Rancho],7,*
+18,Nayarit,008,Xalisco,0128,El Verde,1384,8.60
+18,Nayarit,008,Xalisco,0129,Crucero de Camichín,65,10.94
+18,Nayarit,008,Xalisco,0131,Colonia la Ladrillera,207,8.59
+18,Nayarit,008,Xalisco,0132,Los Rosales,5,*
+18,Nayarit,008,Xalisco,0135,La Castañona,7,10.29
+18,Nayarit,008,Xalisco,0136,Jesús Bobadilla,3,*
+18,Nayarit,008,Xalisco,0138,El Zorro,1,*
+18,Nayarit,008,Xalisco,0140,El Borbollón,4,*
+18,Nayarit,008,Xalisco,0141,San Patricio,4,*
+18,Nayarit,008,Xalisco,0143,Rancho de Don Tito,4,*
+18,Nayarit,008,Xalisco,0144,El Sabino,1,*
+18,Nayarit,008,Xalisco,0145,Un Rinconcito de Nayarit,4,*
+18,Nayarit,008,Xalisco,0146,El Puente,2,*
+18,Nayarit,008,Xalisco,0147,El Milagro,1,*
+18,Nayarit,008,Xalisco,0151,El Espinal,127,5.49
+18,Nayarit,008,Xalisco,0154,Valle de Pantanal,5,*
+18,Nayarit,008,Xalisco,0155,Lagos del Verde,90,7.41
+18,Nayarit,008,Xalisco,0156,Guadalupe Gómez Ruiz,2,*
+18,Nayarit,008,Xalisco,0157,El Huizache,9,7.83
+18,Nayarit,008,Xalisco,0159,El Zoquite,4,*
+18,Nayarit,008,Xalisco,0161,Valles del Nayar,104,10.14
+18,Nayarit,008,Xalisco,0162,Juan Gabriel Cortez,7,*
+18,Nayarit,008,Xalisco,0163,El Guamuchilito,2,*
+18,Nayarit,008,Xalisco,0165,El Sauce y la Palma,6,*
+18,Nayarit,008,Xalisco,0166,El Paso Blanco (Ismael Quezada),10,*
+18,Nayarit,008,Xalisco,0167,El Sauz,2,*
+18,Nayarit,008,Xalisco,0168,Los Viveros,4,*
+18,Nayarit,008,Xalisco,0169,Las Palomas,10,*
+18,Nayarit,008,Xalisco,0171,Palomas,15,8.29
+18,Nayarit,008,Xalisco,0173,Las Palmas [Rancho],4,*
+18,Nayarit,008,Xalisco,0176,Rancho Viejo,18,*
+18,Nayarit,008,Xalisco,0178,Valle de la Saucera,11,7.56
+18,Nayarit,008,Xalisco,0180,Las Azaleas,4,*
+18,Nayarit,008,Xalisco,0181,La Guadalupana,4,*
+18,Nayarit,008,Xalisco,0182,Melesio González [Lienzo Charro],1,*
+18,Nayarit,008,Xalisco,0183,El Verde [Rancho],1,*
+18,Nayarit,008,Xalisco,0184,El Platanar,5,*
+18,Nayarit,008,Xalisco,0185,Agrícola Ganadera RIVASA,7,7.40
+18,Nayarit,008,Xalisco,0187,Rancho Seco,4,*
+18,Nayarit,008,Xalisco,0189,Tayugui,4,*
+18,Nayarit,008,Xalisco,0191,Palomas [Bloquera],7,*
+18,Nayarit,008,Xalisco,0192,El Refugio [Granja Porcina],4,*
+18,Nayarit,008,Xalisco,0194,Salvador Olivares,5,*
+18,Nayarit,008,Xalisco,9998,Localidades de una vivienda,193,7.90
+18,Nayarit,008,Xalisco,9999,Localidades de dos viviendas,87,7.47
+18,Nayarit,009,Del Nayar,0000,Total del Municipio,47550,5.72
+18,Nayarit,009,Del Nayar,0001,Jesús María,3695,8.35
+18,Nayarit,009,Del Nayar,0004,Los Arcos,38,5.33
+18,Nayarit,009,Del Nayar,0006,Los Arrayanes,15,*
+18,Nayarit,009,Del Nayar,0007,Arroyo Cañaveral,282,6.14
+18,Nayarit,009,Del Nayar,0008,Arroyo del Fraile,79,4.15
+18,Nayarit,009,Del Nayar,0010,Arroyo de Santiago,222,7.27
+18,Nayarit,009,Del Nayar,0016,El Brinco,4,*
+18,Nayarit,009,Del Nayar,0018,Arroyo de Camarones,474,7.04
+18,Nayarit,009,Del Nayar,0019,Campatehuala,23,3.69
+18,Nayarit,009,Del Nayar,0022,El Cangrejo,145,5.16
+18,Nayarit,009,Del Nayar,0024,Arroyo Capomo,37,4.75
+18,Nayarit,009,Del Nayar,0026,El Carrizal,19,6.10
+18,Nayarit,009,Del Nayar,0029,Cebollitas,36,1.36
+18,Nayarit,009,Del Nayar,0030,La Ciénega,40,3.90
+18,Nayarit,009,Del Nayar,0033,Cofradía de Pericos,234,5.96
+18,Nayarit,009,Del Nayar,0034,Los Coamiles,29,2.75
+18,Nayarit,009,Del Nayar,0036,El Colomo,248,4.86
+18,Nayarit,009,Del Nayar,0037,El Colorín,188,6.48
+18,Nayarit,009,Del Nayar,0038,La Concepción,18,4.75
+18,Nayarit,009,Del Nayar,0041,Coyunque,346,4.49
+18,Nayarit,009,Del Nayar,0044,Los Cucuistles,33,5.95
+18,Nayarit,009,Del Nayar,0049,Coyultita de Jazmines,195,6.68
+18,Nayarit,009,Del Nayar,0050,Coyultita de Mala Noche,17,*
+18,Nayarit,009,Del Nayar,0055,Dolores,604,4.61
+18,Nayarit,009,Del Nayar,0058,La Loma de los Encinos,18,2.20
+18,Nayarit,009,Del Nayar,0059,Gavilanes,473,7.21
+18,Nayarit,009,Del Nayar,0060,El Guaco,165,4.72
+18,Nayarit,009,Del Nayar,0064,Guásima del Metate,132,6.97
+18,Nayarit,009,Del Nayar,0065,Las Guayabas,80,5.81
+18,Nayarit,009,Del Nayar,0066,La Guerra,202,7.40
+18,Nayarit,009,Del Nayar,0067,Higuera Gorda,341,6.52
+18,Nayarit,009,Del Nayar,0068,Las Higueras,13,*
+18,Nayarit,009,Del Nayar,0069,Las Higueras,490,7.34
+18,Nayarit,009,Del Nayar,0071,Las Hormigas,119,1.77
+18,Nayarit,009,Del Nayar,0072,Tierras Cuevas,31,1.65
+18,Nayarit,009,Del Nayar,0073,Huaynamota,656,7.33
+18,Nayarit,009,Del Nayar,0074,Las Huertitas,354,6.57
+18,Nayarit,009,Del Nayar,0075,Las Mesitas,41,3.48
+18,Nayarit,009,Del Nayar,0076,Ixtalpa,218,7.20
+18,Nayarit,009,Del Nayar,0077,Jazmines de Coyultita,105,7.60
+18,Nayarit,009,Del Nayar,0079,La Laguna,4,*
+18,Nayarit,009,Del Nayar,0080,El Limón,167,5.79
+18,Nayarit,009,Del Nayar,0082,Los Lirios,208,4.84
+18,Nayarit,009,Del Nayar,0084,Los Manguitos,173,5.37
+18,Nayarit,009,Del Nayar,0086,Mesa del Nayar,2976,6.75
+18,Nayarit,009,Del Nayar,0089,La Mojarra,114,4.75
+18,Nayarit,009,Del Nayar,0091,Naranjito de Copal,542,7.85
+18,Nayarit,009,Del Nayar,0092,El Nogal,3,*
+18,Nayarit,009,Del Nayar,0093,El Nogal,147,5.37
+18,Nayarit,009,Del Nayar,0097,Las Palmas,43,5.08
+18,Nayarit,009,Del Nayar,0098,La Palmita,102,5.45
+18,Nayarit,009,Del Nayar,0099,Palo Boludo,14,*
+18,Nayarit,009,Del Nayar,0100,Palomas,33,7.45
+18,Nayarit,009,Del Nayar,0103,Paso de Álica (Agua Buena),222,6.88
+18,Nayarit,009,Del Nayar,0106,Peña Blanca,62,3.97
+18,Nayarit,009,Del Nayar,0107,Arroyo de Pericos,25,4.73
+18,Nayarit,009,Del Nayar,0109,Las Pestañas,26,3.72
+18,Nayarit,009,Del Nayar,0112,El Pinito,33,5.47
+18,Nayarit,009,Del Nayar,0114,Los Pinitos,44,0.56
+18,Nayarit,009,Del Nayar,0116,Playa de Golondrinas,222,6.56
+18,Nayarit,009,Del Nayar,0120,Rancho Viejo,263,6.55
+18,Nayarit,009,Del Nayar,0123,Los Sabinos,118,6.77
+18,Nayarit,009,Del Nayar,0124,El Sabino,180,5.45
+18,Nayarit,009,Del Nayar,0125,El Salitre,95,6.17
+18,Nayarit,009,Del Nayar,0126,San Francisco,640,7.12
+18,Nayarit,009,Del Nayar,0127,San Gregorio,290,4.87
+18,Nayarit,009,Del Nayar,0129,San Juan Peyotán,523,6.91
+18,Nayarit,009,Del Nayar,0130,San Miguel del Zapote,156,6.63
+18,Nayarit,009,Del Nayar,0131,San Pablo,262,5.73
+18,Nayarit,009,Del Nayar,0132,San Rafael (San Rafael Alto),389,4.72
+18,Nayarit,009,Del Nayar,0133,San Rafael,345,7.27
+18,Nayarit,009,Del Nayar,0134,Santa Bárbara,552,7.29
+18,Nayarit,009,Del Nayar,0135,Santa Cruz de Guaybel,737,7.37
+18,Nayarit,009,Del Nayar,0137,Santa Teresa,2228,4.77
+18,Nayarit,009,Del Nayar,0139,El Sauz,154,6.41
+18,Nayarit,009,Del Nayar,0147,El Tenamaste,18,0.70
+18,Nayarit,009,Del Nayar,0150,Tierras Blancas,52,4.16
+18,Nayarit,009,Del Nayar,0151,Tierras Coloradas,48,0.92
+18,Nayarit,009,Del Nayar,0152,Las Tortugas,5,*
+18,Nayarit,009,Del Nayar,0154,Alto de Ventanas,24,5.24
+18,Nayarit,009,Del Nayar,0157,Zoquipan,342,8.36
+18,Nayarit,009,Del Nayar,0158,Zoquipilla,143,5.66
+18,Nayarit,009,Del Nayar,0159,Los Zorrillos,20,2.22
+18,Nayarit,009,Del Nayar,0163,Corralitos,10,*
+18,Nayarit,009,Del Nayar,0173,Camaleones,7,*
+18,Nayarit,009,Del Nayar,0179,Cerro del Águila,58,3.54
+18,Nayarit,009,Del Nayar,0182,Los Chapiles (Hitachi),77,2.29
+18,Nayarit,009,Del Nayar,0185,La Mesita (La Mesa de Zeferino),72,2.70
+18,Nayarit,009,Del Nayar,0188,Santa Anita,88,4.16
+18,Nayarit,009,Del Nayar,0189,Santana del Bajío,20,4.70
+18,Nayarit,009,Del Nayar,0191,Las Tortugas,12,*
+18,Nayarit,009,Del Nayar,0192,Los Arenales,41,2.76
+18,Nayarit,009,Del Nayar,0197,Los Nopales (Karurita),29,*
+18,Nayarit,009,Del Nayar,0203,Las Conchas,12,*
+18,Nayarit,009,Del Nayar,0210,El Chalate,9,*
+18,Nayarit,009,Del Nayar,0215,Rancho Viejo,736,4.49
+18,Nayarit,009,Del Nayar,0216,Santa Gertrudis,245,2.28
+18,Nayarit,009,Del Nayar,0222,Los Huizaches,291,2.48
+18,Nayarit,009,Del Nayar,0225,Linda Vista,1412,4
+18,Nayarit,009,Del Nayar,0226,Rancho Doroteo,53,4.76
+18,Nayarit,009,Del Nayar,0229,Tapeistes,54,1.92
+18,Nayarit,009,Del Nayar,0231,El Banco,5,*
+18,Nayarit,009,Del Nayar,0238,La Bonita,107,3.91
+18,Nayarit,009,Del Nayar,0242,San Vicente,417,4.13
+18,Nayarit,009,Del Nayar,0254,Los Llanitos,150,3.34
+18,Nayarit,009,Del Nayar,0275,Ortega,5,*
+18,Nayarit,009,Del Nayar,0277,El Rincón,12,*
+18,Nayarit,009,Del Nayar,0278,El Saucito Peyotán,370,6.08
+18,Nayarit,009,Del Nayar,0288,El Maguey,8,*
+18,Nayarit,009,Del Nayar,0300,San Isidro,103,3.26
+18,Nayarit,009,Del Nayar,0306,Coyultita,36,3.74
+18,Nayarit,009,Del Nayar,0323,El Cascabel,49,5.08
+18,Nayarit,009,Del Nayar,0324,El Guaco,4,*
+18,Nayarit,009,Del Nayar,0327,El Guayabo,37,4.50
+18,Nayarit,009,Del Nayar,0340,Los Bancos,17,2.67
+18,Nayarit,009,Del Nayar,0342,Ciénega de Santa Rosa,158,6.78
+18,Nayarit,009,Del Nayar,0348,Guapinole,6,*
+18,Nayarit,009,Del Nayar,0352,Los Manguitos,9,*
+18,Nayarit,009,Del Nayar,0353,La Mojonera,18,4.46
+18,Nayarit,009,Del Nayar,0355,El Segundo Paso,94,4.92
+18,Nayarit,009,Del Nayar,0357,El Pescuezo,12,8.50
+18,Nayarit,009,Del Nayar,0360,El Purgatorio,30,4.63
+18,Nayarit,009,Del Nayar,0362,Santa Cruz,2,*
+18,Nayarit,009,Del Nayar,0363,Santa Rosa,291,6.77
+18,Nayarit,009,Del Nayar,0368,El Chalate,143,3.95
+18,Nayarit,009,Del Nayar,0370,Arroyo del Guamúchil,13,*
+18,Nayarit,009,Del Nayar,0379,El Tempisque,139,5.71
+18,Nayarit,009,Del Nayar,0380,Los Aguacates,20,3.36
+18,Nayarit,009,Del Nayar,0384,El Camichín,108,4.93
+18,Nayarit,009,Del Nayar,0395,Los Mangos,9,*
+18,Nayarit,009,Del Nayar,0398,La Ciénega (Ojo de Agua),13,4.67
+18,Nayarit,009,Del Nayar,0408,Las Urracas,115,5.02
+18,Nayarit,009,Del Nayar,0411,El Zapote,24,4.93
+18,Nayarit,009,Del Nayar,0413,La Cumbre del Duraznito,123,5.38
+18,Nayarit,009,Del Nayar,0414,Las Iguanas,10,*
+18,Nayarit,009,Del Nayar,0416,La Palma,5,*
+18,Nayarit,009,Del Nayar,0418,La Cofradía Uno,458,5.89
+18,Nayarit,009,Del Nayar,0419,El Limón,22,3.42
+18,Nayarit,009,Del Nayar,0421,El Caligüey,3,*
+18,Nayarit,009,Del Nayar,0429,La Laguna,49,4.08
+18,Nayarit,009,Del Nayar,0431,Palma Chica,145,5.65
+18,Nayarit,009,Del Nayar,0434,El Rincón,32,6
+18,Nayarit,009,Del Nayar,0435,El Saucito,9,*
+18,Nayarit,009,Del Nayar,0442,Encino Colorado,64,3.82
+18,Nayarit,009,Del Nayar,0448,El Maguey,388,5.71
+18,Nayarit,009,Del Nayar,0450,Peñasco Blanco,42,4.85
+18,Nayarit,009,Del Nayar,0458,Los Arrayanes,49,3.90
+18,Nayarit,009,Del Nayar,0461,Los Ciruelos,58,4.42
+18,Nayarit,009,Del Nayar,0462,El Clavellino,30,4.93
+18,Nayarit,009,Del Nayar,0463,Las Cruces,20,2
+18,Nayarit,009,Del Nayar,0464,La Cueva Prieta,6,*
+18,Nayarit,009,Del Nayar,0467,Jazmín del Coquito,544,5.65
+18,Nayarit,009,Del Nayar,0468,La Ladrillera,14,6.70
+18,Nayarit,009,Del Nayar,0475,Rancho de Mariano,9,*
+18,Nayarit,009,Del Nayar,0484,La Palma,43,4.68
+18,Nayarit,009,Del Nayar,0486,Las Peñas Coloradas,19,4.75
+18,Nayarit,009,Del Nayar,0489,Los Bules,27,6.57
+18,Nayarit,009,Del Nayar,0490,Nochecita,24,2
+18,Nayarit,009,Del Nayar,0493,Las Sillas,8,*
+18,Nayarit,009,Del Nayar,0498,Las Cuevas,23,6.50
+18,Nayarit,009,Del Nayar,0504,El Pinito,8,*
+18,Nayarit,009,Del Nayar,0510,Arroyo del Capomo,21,3.94
+18,Nayarit,009,Del Nayar,0519,La Mata,65,3.88
+18,Nayarit,009,Del Nayar,0529,Las Adjuntas (La Peña),50,5.61
+18,Nayarit,009,Del Nayar,0532,Comal de Peñita,159,5.44
+18,Nayarit,009,Del Nayar,0535,Guásimas del Caimán,44,5.22
+18,Nayarit,009,Del Nayar,0541,Las Guásimas,62,5.41
+18,Nayarit,009,Del Nayar,0542,El Capomo,144,7.03
+18,Nayarit,009,Del Nayar,0543,El Risco,173,7.46
+18,Nayarit,009,Del Nayar,0547,El Naranjo,131,7.25
+18,Nayarit,009,Del Nayar,0548,La Quemada,60,5.95
+18,Nayarit,009,Del Nayar,0552,El Zapote,102,7.96
+18,Nayarit,009,Del Nayar,0553,Las Guineas de Guadalupe,207,6.24
+18,Nayarit,009,Del Nayar,0557,El Sordo,1,*
+18,Nayarit,009,Del Nayar,0558,Las Juntas,5,*
+18,Nayarit,009,Del Nayar,0563,Mesa de Caballos,8,4
+18,Nayarit,009,Del Nayar,0566,El Ranchito,13,*
+18,Nayarit,009,Del Nayar,0567,Rancho Viejo,54,6.09
+18,Nayarit,009,Del Nayar,0574,Las Higueras,1,*
+18,Nayarit,009,Del Nayar,0582,Jazmines,2,*
+18,Nayarit,009,Del Nayar,0586,Paredes,8,*
+18,Nayarit,009,Del Nayar,0589,Aguamilpa,208,6.96
+18,Nayarit,009,Del Nayar,0591,El Aire,57,4.52
+18,Nayarit,009,Del Nayar,0594,Tierra Blanca (El Tempisque),14,*
+18,Nayarit,009,Del Nayar,0595,Jazmín de la Cobriza,1,*
+18,Nayarit,009,Del Nayar,0601,El Novillero,32,8.11
+18,Nayarit,009,Del Nayar,0606,La Lobera,2,*
+18,Nayarit,009,Del Nayar,0614,El Saucito,97,5.20
+18,Nayarit,009,Del Nayar,0615,Los Arrayanes,49,3.70
+18,Nayarit,009,Del Nayar,0618,El Algodonal,20,4.90
+18,Nayarit,009,Del Nayar,0620,El Espejo,10,5.40
+18,Nayarit,009,Del Nayar,0621,La Joya,31,5.28
+18,Nayarit,009,Del Nayar,0622,La Palma,21,*
+18,Nayarit,009,Del Nayar,0626,Agua Caliente,8,*
+18,Nayarit,009,Del Nayar,0628,Los Aires,117,5.97
+18,Nayarit,009,Del Nayar,0634,Barbechitos,3,*
+18,Nayarit,009,Del Nayar,0638,Boca de Arroyo Santiago,55,4.86
+18,Nayarit,009,Del Nayar,0639,Caimantita,1,*
+18,Nayarit,009,Del Nayar,0643,El Carrizo,54,3.07
+18,Nayarit,009,Del Nayar,0645,Cabeza de Venado,13,4.33
+18,Nayarit,009,Del Nayar,0653,Cuauhtémoc,176,6.13
+18,Nayarit,009,Del Nayar,0654,La Cuesta,44,5.26
+18,Nayarit,009,Del Nayar,0655,Las Cuevas,3,*
+18,Nayarit,009,Del Nayar,0658,Los Cuervitos,108,6.85
+18,Nayarit,009,Del Nayar,0663,Las Estrellas,269,5.32
+18,Nayarit,009,Del Nayar,0664,Los Fierros,266,2.83
+18,Nayarit,009,Del Nayar,0665,Las Guacamayas,249,2.68
+18,Nayarit,009,Del Nayar,0671,La Higuerita,4,*
+18,Nayarit,009,Del Nayar,0673,La Horcadera,39,4.16
+18,Nayarit,009,Del Nayar,0674,Las Hormigas,290,4.62
+18,Nayarit,009,Del Nayar,0681,Los Limones,157,5.45
+18,Nayarit,009,Del Nayar,0683,Loreto,7,*
+18,Nayarit,009,Del Nayar,0684,Los Llanitos,157,4.26
+18,Nayarit,009,Del Nayar,0688,Mesa de Cocorochas,77,3.34
+18,Nayarit,009,Del Nayar,0689,Mesa de los Huicholes,46,2.89
+18,Nayarit,009,Del Nayar,0691,Los Tigres (El Metate),120,6.14
+18,Nayarit,009,Del Nayar,0700,Pajaritos,40,6.88
+18,Nayarit,009,Del Nayar,0701,El Pastor,16,7.09
+18,Nayarit,009,Del Nayar,0702,Peñas Amarillas,97,4.09
+18,Nayarit,009,Del Nayar,0704,El Picacho,20,5.07
+18,Nayarit,009,Del Nayar,0707,Los Pinitos (Dolores Viejo),123,4.89
+18,Nayarit,009,Del Nayar,0710,El Pinito,6,*
+18,Nayarit,009,Del Nayar,0713,Piedra Iglesia,139,7.07
+18,Nayarit,009,Del Nayar,0715,El Portezuelo,29,5.83
+18,Nayarit,009,Del Nayar,0717,Potrero de la Palmita,605,7.20
+18,Nayarit,009,Del Nayar,0722,El Rincón,21,*
+18,Nayarit,009,Del Nayar,0724,El Roblito,23,*
+18,Nayarit,009,Del Nayar,0729,La Taberna,86,3.83
+18,Nayarit,009,Del Nayar,0731,Tapanco,3,*
+18,Nayarit,009,Del Nayar,0732,Teneracas,13,3.89
+18,Nayarit,009,Del Nayar,0737,El Tepetate,8,8
+18,Nayarit,009,Del Nayar,0744,La Ventana,25,1
+18,Nayarit,009,Del Nayar,0746,La Ventanilla,35,4.09
+18,Nayarit,009,Del Nayar,0752,San Isidro,166,5.68
+18,Nayarit,009,Del Nayar,0754,El Chalate,154,5.88
+18,Nayarit,009,Del Nayar,0755,El Faisán,36,4.76
+18,Nayarit,009,Del Nayar,0761,Boca del Arroyo,5,*
+18,Nayarit,009,Del Nayar,0764,El Capomo,23,7.31
+18,Nayarit,009,Del Nayar,0769,La Ciénega,134,2.07
+18,Nayarit,009,Del Nayar,0770,El Clavellino,2,*
+18,Nayarit,009,Del Nayar,0775,Las Cuevas,6,*
+18,Nayarit,009,Del Nayar,0782,Laguna de las Vacas,60,6.33
+18,Nayarit,009,Del Nayar,0784,El Laurel,26,2.27
+18,Nayarit,009,Del Nayar,0788,La Metatita,7,*
+18,Nayarit,009,Del Nayar,0789,La Mezquitera,38,7.14
+18,Nayarit,009,Del Nayar,0792,Los Padres,21,2.38
+18,Nayarit,009,Del Nayar,0794,Las Patas,5,*
+18,Nayarit,009,Del Nayar,0803,La Ciénega de San Felipe,104,5.19
+18,Nayarit,009,Del Nayar,0809,El Tesorero,17,*
+18,Nayarit,009,Del Nayar,0816,San Victoria,60,2.56
+18,Nayarit,009,Del Nayar,0821,Los Conejos,5,*
+18,Nayarit,009,Del Nayar,0826,La Palma,2,*
+18,Nayarit,009,Del Nayar,0844,Las Azucenas,26,5.87
+18,Nayarit,009,Del Nayar,0845,El Banco,4,*
+18,Nayarit,009,Del Nayar,0848,El Quicuixtle,2,*
+18,Nayarit,009,Del Nayar,0859,El Carrizal,1,*
+18,Nayarit,009,Del Nayar,0870,Las Calandrias,3,*
+18,Nayarit,009,Del Nayar,0873,Las Crucecitas,30,5.29
+18,Nayarit,009,Del Nayar,0884,La Guasimita,9,*
+18,Nayarit,009,Del Nayar,0892,Mesa de Tomás,3,*
+18,Nayarit,009,Del Nayar,0904,El Papalote,18,5.86
+18,Nayarit,009,Del Nayar,0905,México (El Rincón),2,*
+18,Nayarit,009,Del Nayar,0906,Las Tapias (Santa Gertrudis),231,7.82
+18,Nayarit,009,Del Nayar,0911,Los Tabacos,21,4.92
+18,Nayarit,009,Del Nayar,0917,Tutuyecuamama,128,6.65
+18,Nayarit,009,Del Nayar,0919,La Yerba,18,1.80
+18,Nayarit,009,Del Nayar,0932,Aserradero,49,3.70
+18,Nayarit,009,Del Nayar,0933,El Cerrito,11,*
+18,Nayarit,009,Del Nayar,0935,Rancho de la Cueva,61,2.43
+18,Nayarit,009,Del Nayar,0936,Culebras,6,*
+18,Nayarit,009,Del Nayar,0938,Los Fortines,21,4.14
+18,Nayarit,009,Del Nayar,0942,Los Huicholes,3,*
+18,Nayarit,009,Del Nayar,0943,Jerónimo Melchor,10,*
+18,Nayarit,009,Del Nayar,0944,Las Lechuguillas,69,4.78
+18,Nayarit,009,Del Nayar,0947,Naute,5,*
+18,Nayarit,009,Del Nayar,0948,La Nopalera,48,4.11
+18,Nayarit,009,Del Nayar,0949,La Nopalera,5,*
+18,Nayarit,009,Del Nayar,0950,Ojo de Agua,2,*
+18,Nayarit,009,Del Nayar,0951,El Pinito,9,*
+18,Nayarit,009,Del Nayar,0960,El Agua Caliente,4,*
+18,Nayarit,009,Del Nayar,0961,Melquiades de la Cruz Cuevas,5,*
+18,Nayarit,009,Del Nayar,0965,Las Tarabillas,13,*
+18,Nayarit,009,Del Nayar,0966,Gualsamayeta,29,4.27
+18,Nayarit,009,Del Nayar,0967,Las Peñitas (Las Antenas),9,*
+18,Nayarit,009,Del Nayar,0978,Las Adjuntas,12,*
+18,Nayarit,009,Del Nayar,0983,Anselmo Lemus Valle,6,*
+18,Nayarit,009,Del Nayar,0985,El Arco,29,5.53
+18,Nayarit,009,Del Nayar,0988,Asención Lemus Valle,12,*
+18,Nayarit,009,Del Nayar,0989,El Gato Negro,18,3.75
+18,Nayarit,009,Del Nayar,0990,Las Avispas,2,*
+18,Nayarit,009,Del Nayar,0994,Los Banquitos,18,5.11
+18,Nayarit,009,Del Nayar,0995,Luis Donaldo (Majadas),3,*
+18,Nayarit,009,Del Nayar,0999,Boca del Arroyo Hondo,5,*
+18,Nayarit,009,Del Nayar,1000,Carrizal de las Vigas,247,6.15
+18,Nayarit,009,Del Nayar,1001,Cerritos (Tierras Blancas),29,1.63
+18,Nayarit,009,Del Nayar,1004,El Ciruelar,107,6.86
+18,Nayarit,009,Del Nayar,1018,Los Encinos,21,2.83
+18,Nayarit,009,Del Nayar,1019,Mariposa,4,*
+18,Nayarit,009,Del Nayar,1027,Los Guayabos,6,*
+18,Nayarit,009,Del Nayar,1029,Las Habitas,3,*
+18,Nayarit,009,Del Nayar,1039,La Laguna,35,2.86
+18,Nayarit,009,Del Nayar,1040,La Lamedera,15,4.13
+18,Nayarit,009,Del Nayar,1048,El Manguito,11,*
+18,Nayarit,009,Del Nayar,1050,Melesio Valle Gómez,5,*
+18,Nayarit,009,Del Nayar,1051,La Mesa de la Pitayera,12,8.78
+18,Nayarit,009,Del Nayar,1055,La Mesita,13,1.11
+18,Nayarit,009,Del Nayar,1057,El Molino,39,5.54
+18,Nayarit,009,Del Nayar,1062,La Nopalera,10,*
+18,Nayarit,009,Del Nayar,1065,Ojo de Agua,16,*
+18,Nayarit,009,Del Nayar,1074,Piedra Bola,6,*
+18,Nayarit,009,Del Nayar,1078,El Pitallito,7,*
+18,Nayarit,009,Del Nayar,1081,Puente el Fraile,9,*
+18,Nayarit,009,Del Nayar,1082,La Puerta,4,*
+18,Nayarit,009,Del Nayar,1085,Las Pulgas,25,*
+18,Nayarit,009,Del Nayar,1087,Rancho de Ignacio (Los Fortines),68,4.30
+18,Nayarit,009,Del Nayar,1088,Rancho de Santos García,4,*
+18,Nayarit,009,Del Nayar,1092,El Puente de las Guayabas,11,*
+18,Nayarit,009,Del Nayar,1093,Rancho de Eustorgio,9,*
+18,Nayarit,009,Del Nayar,1104,El Campamento (La Silleta),26,7.78
+18,Nayarit,009,Del Nayar,1105,Los Serranos,2,*
+18,Nayarit,009,Del Nayar,1107,Sixto Santiago Lincer,25,1.60
+18,Nayarit,009,Del Nayar,1109,Los Tacos,56,1.93
+18,Nayarit,009,Del Nayar,1110,Pico del Águila (Tankanini),194,2.03
+18,Nayarit,009,Del Nayar,1112,Teodoro Valentín,14,12
+18,Nayarit,009,Del Nayar,1116,Los Tepetates,4,*
+18,Nayarit,009,Del Nayar,1120,Tereso Carrillo,2,*
+18,Nayarit,009,Del Nayar,1123,Zeferinos,18,*
+18,Nayarit,009,Del Nayar,1124,Tierras Blancas,3,*
+18,Nayarit,009,Del Nayar,1125,Tierras Coloradas,6,*
+18,Nayarit,009,Del Nayar,1137,Agua Caliente,14,*
+18,Nayarit,009,Del Nayar,1142,El Arroyo del Tezcalame,12,6.11
+18,Nayarit,009,Del Nayar,1146,El Carrizo,3,*
+18,Nayarit,009,Del Nayar,1147,La Cieneguita,149,0.99
+18,Nayarit,009,Del Nayar,1148,Cerro Pelón,67,5.56
+18,Nayarit,009,Del Nayar,1149,La Ciénega,1,*
+18,Nayarit,009,Del Nayar,1150,La Ciénega,28,2.05
+18,Nayarit,009,Del Nayar,1152,El Conejo,8,*
+18,Nayarit,009,Del Nayar,1153,Los Cuervitos,12,*
+18,Nayarit,009,Del Nayar,1154,Las Cuevas,79,6.91
+18,Nayarit,009,Del Nayar,1157,Los Encinos,4,*
+18,Nayarit,009,Del Nayar,1158,Los Granos,63,5.26
+18,Nayarit,009,Del Nayar,1165,El Pinito Nuevo (La Muñeca),199,5.29
+18,Nayarit,009,Del Nayar,1166,El Nogal,27,4.44
+18,Nayarit,009,Del Nayar,1167,Pajaritos,5,*
+18,Nayarit,009,Del Nayar,1169,La Peña,14,2.80
+18,Nayarit,009,Del Nayar,1172,Primer Paso,24,6.92
+18,Nayarit,009,Del Nayar,1173,Rancho de Antolino,7,*
+18,Nayarit,009,Del Nayar,1175,Rancho de Gervasio,7,*
+18,Nayarit,009,Del Nayar,1179,Guadalupe (El Magueyito),8,*
+18,Nayarit,009,Del Nayar,1180,Picachitos (Juan Sabás),5,*
+18,Nayarit,009,Del Nayar,1182,El Salto,9,4.50
+18,Nayarit,009,Del Nayar,1183,El Sapo,7,*
+18,Nayarit,009,Del Nayar,1184,La Silleta,137,4.03
+18,Nayarit,009,Del Nayar,1185,Los Tapancos,6,*
+18,Nayarit,009,Del Nayar,1186,El Trigalillo,11,*
+18,Nayarit,009,Del Nayar,1189,La Cortadilla,40,4.05
+18,Nayarit,009,Del Nayar,1191,Los Encinos,456,4.55
+18,Nayarit,009,Del Nayar,1192,Las Minas,154,1.87
+18,Nayarit,009,Del Nayar,1194,Santa Cruz,72,2.52
+18,Nayarit,009,Del Nayar,1195,Ciénega del Mango,164,6.53
+18,Nayarit,009,Del Nayar,1196,Las Chías,21,0.60
+18,Nayarit,009,Del Nayar,1198,La Palmita,199,6.69
+18,Nayarit,009,Del Nayar,1199,Rancho Alegre (Agua Hedionda),19,6.78
+18,Nayarit,009,Del Nayar,1200,El Roble,504,7.46
+18,Nayarit,009,Del Nayar,1203,El Agua Caliente,5,*
+18,Nayarit,009,Del Nayar,1207,Aurelio de la Cruz Serrano,2,*
+18,Nayarit,009,Del Nayar,1209,El Caimán,15,*
+18,Nayarit,009,Del Nayar,1210,Los Cajones,2,*
+18,Nayarit,009,Del Nayar,1213,El Carrizo,186,3.09
+18,Nayarit,009,Del Nayar,1214,Los Carrizos,3,*
+18,Nayarit,009,Del Nayar,1216,Cerro del Tecolote,41,2.25
+18,Nayarit,009,Del Nayar,1222,Los Sabinos,18,*
+18,Nayarit,009,Del Nayar,1223,Los Cueros,44,3.67
+18,Nayarit,009,Del Nayar,1226,El Duraznito,15,4.09
+18,Nayarit,009,Del Nayar,1231,Guásimas,7,*
+18,Nayarit,009,Del Nayar,1232,Las Guitarras,10,*
+18,Nayarit,009,Del Nayar,1234,Los Hornitos,41,4.68
+18,Nayarit,009,Del Nayar,1238,Las Jabas,5,*
+18,Nayarit,009,Del Nayar,1241,El Limón,18,6.10
+18,Nayarit,009,Del Nayar,1243,Ojo de Agua,156,3.04
+18,Nayarit,009,Del Nayar,1248,Las Mesitas,29,3.18
+18,Nayarit,009,Del Nayar,1249,La Mesita (El Llano Grande),27,4.23
+18,Nayarit,009,Del Nayar,1250,El Metate,8,*
+18,Nayarit,009,Del Nayar,1252,La Nanchilera,15,*
+18,Nayarit,009,Del Nayar,1253,La Nanchilera,12,1.57
+18,Nayarit,009,Del Nayar,1255,Los Parejos,40,5.35
+18,Nayarit,009,Del Nayar,1261,Santos Rojas,8,*
+18,Nayarit,009,Del Nayar,1264,El Rincón (Las Sillas),28,2.33
+18,Nayarit,009,Del Nayar,1265,San Vicente Viejo,13,*
+18,Nayarit,009,Del Nayar,1266,El Sapo,104,7.77
+18,Nayarit,009,Del Nayar,1271,Tierras Blancas,24,1.75
+18,Nayarit,009,Del Nayar,1273,Zapopan,15,*
+18,Nayarit,009,Del Nayar,1274,Bajío de la Cebolleta,18,2.33
+18,Nayarit,009,Del Nayar,1275,La Cebolleta,19,4.40
+18,Nayarit,009,Del Nayar,1276,La Curva,46,5.25
+18,Nayarit,009,Del Nayar,1278,Las Patillas,37,5.24
+18,Nayarit,009,Del Nayar,1282,La Ventana,4,*
+18,Nayarit,009,Del Nayar,1283,El Bajío,29,1.69
+18,Nayarit,009,Del Nayar,1288,Picachos,6,*
+18,Nayarit,009,Del Nayar,1289,La Puerta,30,1.75
+18,Nayarit,009,Del Nayar,1291,Ojo de Agua,36,1.61
+18,Nayarit,009,Del Nayar,1292,La Ciénega,16,*
+18,Nayarit,009,Del Nayar,1294,Juan Pérez,21,2.45
+18,Nayarit,009,Del Nayar,1295,Cañada de la Laguna,1,*
+18,Nayarit,009,Del Nayar,1298,Petronilo Gutiérrez,10,*
+18,Nayarit,009,Del Nayar,1300,San Victoria (La Laguna),45,4.73
+18,Nayarit,009,Del Nayar,1301,Las Tortugas,10,*
+18,Nayarit,009,Del Nayar,1304,Los Corpos,6,*
+18,Nayarit,009,Del Nayar,1307,La Nanchilera,2,*
+18,Nayarit,009,Del Nayar,1311,El Puerto de las Cruces,5,*
+18,Nayarit,009,Del Nayar,1316,La Travesía,81,7.76
+18,Nayarit,009,Del Nayar,1319,La Caoba,8,*
+18,Nayarit,009,Del Nayar,1320,Los Calixtro,6,*
+18,Nayarit,009,Del Nayar,1321,El Carrizal,2,*
+18,Nayarit,009,Del Nayar,1322,Cerro Redondo,53,5.46
+18,Nayarit,009,Del Nayar,1324,El Durazno,4,*
+18,Nayarit,009,Del Nayar,1325,Gabino Severiano,14,3.80
+18,Nayarit,009,Del Nayar,1326,Gualacamote,12,*
+18,Nayarit,009,Del Nayar,1327,Guamuchilillo,139,6.19
+18,Nayarit,009,Del Nayar,1328,Huizache,56,4.45
+18,Nayarit,009,Del Nayar,1329,El Manguito,4,*
+18,Nayarit,009,Del Nayar,1331,Pajarillos,9,2.14
+18,Nayarit,009,Del Nayar,1332,Peñitas,10,*
+18,Nayarit,009,Del Nayar,1333,Picachitos,31,3.18
+18,Nayarit,009,Del Nayar,1338,Rancho Nuevo (Juventino),23,7.89
+18,Nayarit,009,Del Nayar,1342,Tierra Caliente,18,1.89
+18,Nayarit,009,Del Nayar,1343,Tierras Blancas del Picacho,178,5.97
+18,Nayarit,009,Del Nayar,1345,El Zapote,28,5
+18,Nayarit,009,Del Nayar,1349,La Boca del Arroyo,20,6
+18,Nayarit,009,Del Nayar,1350,El Guasimal,4,*
+18,Nayarit,009,Del Nayar,1351,Los Pinos,23,3.75
+18,Nayarit,009,Del Nayar,1352,El Perdón 2,7,*
+18,Nayarit,009,Del Nayar,1371,El Vicenteño (Huamiloya),25,8.33
+18,Nayarit,009,Del Nayar,1372,El Banquito,5,*
+18,Nayarit,009,Del Nayar,1378,Los Tigres,23,7.50
+18,Nayarit,009,Del Nayar,1380,Rancho de los González,13,*
+18,Nayarit,009,Del Nayar,1381,Los Robles,16,1.70
+18,Nayarit,009,Del Nayar,1383,El Tenamaiste,23,2.31
+18,Nayarit,009,Del Nayar,1385,El Vicenteño (Calaveras),9,7.33
+18,Nayarit,009,Del Nayar,1387,Los Aires,43,3.94
+18,Nayarit,009,Del Nayar,1388,Los Banquitos,23,1.40
+18,Nayarit,009,Del Nayar,1389,El Carrizo,5,*
+18,Nayarit,009,Del Nayar,1390,El Ciruelar,37,7.31
+18,Nayarit,009,Del Nayar,1391,Los Corpos,6,*
+18,Nayarit,009,Del Nayar,1393,Los Llanitos,73,2.94
+18,Nayarit,009,Del Nayar,1395,El Izote,9,*
+18,Nayarit,009,Del Nayar,1398,El Mirador,328,7.25
+18,Nayarit,009,Del Nayar,1400,La Nopalera,7,*
+18,Nayarit,009,Del Nayar,1402,Las Pilas,11,3.40
+18,Nayarit,009,Del Nayar,1408,Vuelta del Cerro,28,4.33
+18,Nayarit,009,Del Nayar,1411,Atonalisco,187,5.67
+18,Nayarit,009,Del Nayar,1412,Los Arrayanes I,2,*
+18,Nayarit,009,Del Nayar,1417,Casa de los Niños (Tyuryi Chee),37,4.88
+18,Nayarit,009,Del Nayar,1419,La Cidra,2,*
+18,Nayarit,009,Del Nayar,1421,Las Codornices,43,3.29
+18,Nayarit,009,Del Nayar,1422,Guamuchilillo,3,*
+18,Nayarit,009,Del Nayar,1423,La Jomba,4,*
+18,Nayarit,009,Del Nayar,1434,El Saladito 2,27,3.27
+18,Nayarit,009,Del Nayar,1435,El Sordo,141,7.07
+18,Nayarit,009,Del Nayar,1439,El Paso Cuate,105,6.07
+18,Nayarit,009,Del Nayar,1440,Puente de Carrizal,98,6.13
+18,Nayarit,009,Del Nayar,1441,Los Cerritos,56,4.48
+18,Nayarit,009,Del Nayar,1442,Arroyo Seco,2,*
+18,Nayarit,009,Del Nayar,1444,Las Moritas,99,2.43
+18,Nayarit,009,Del Nayar,1446,Pueblo Nuevo,54,8.45
+18,Nayarit,009,Del Nayar,1447,El Aserradero,156,4.53
+18,Nayarit,009,Del Nayar,1448,El Ocotillo,2,*
+18,Nayarit,009,Del Nayar,1449,La Roblera,7,*
+18,Nayarit,009,Del Nayar,1450,El Roblito,48,5.63
+18,Nayarit,009,Del Nayar,1451,El Jazmín,6,*
+18,Nayarit,009,Del Nayar,1452,Loma Atravesada (Arroyo del Muerto),2,*
+18,Nayarit,009,Del Nayar,1453,La Tinaja,14,7.33
+18,Nayarit,009,Del Nayar,1455,Cipriano Alejandro Daniel,7,*
+18,Nayarit,009,Del Nayar,1456,El Llanito,8,*
+18,Nayarit,009,Del Nayar,1457,Arroyo del Mango,5,*
+18,Nayarit,009,Del Nayar,1458,El Huanacaxtle del Mango,20,3.33
+18,Nayarit,009,Del Nayar,1459,El Rincón,45,4.92
+18,Nayarit,009,Del Nayar,1461,Los Urracas,16,*
+18,Nayarit,009,Del Nayar,1462,El Guallo de los Otates,42,0.77
+18,Nayarit,009,Del Nayar,1464,Las Cruces,22,0.38
+18,Nayarit,009,Del Nayar,1465,La Cumbre,47,6.36
+18,Nayarit,009,Del Nayar,1466,Los Lirios,5,*
+18,Nayarit,009,Del Nayar,1467,Cerro Tierras Blancas,23,1.06
+18,Nayarit,009,Del Nayar,1468,Santa Cruz,9,*
+18,Nayarit,009,Del Nayar,1469,Los Chiquihuites,6,*
+18,Nayarit,009,Del Nayar,1470,El Cajón,13,2.56
+18,Nayarit,009,Del Nayar,1471,El Paso,14,*
+18,Nayarit,009,Del Nayar,1472,El Cerro Redondo,5,*
+18,Nayarit,009,Del Nayar,1473,Embarcadero de Huaynamota,4,*
+18,Nayarit,009,Del Nayar,1475,EL Cangrejo,32,4.63
+18,Nayarit,009,Del Nayar,1476,Procopio Pérez Carrillo,2,*
+18,Nayarit,009,Del Nayar,1477,Pueblo Nuevo el Alto,156,2.65
+18,Nayarit,009,Del Nayar,1479,Las Hormigas,5,*
+18,Nayarit,009,Del Nayar,1480,Emilio Due Due,5,*
+18,Nayarit,009,Del Nayar,1484,El Roble,9,*
+18,Nayarit,009,Del Nayar,1487,Molcajetes,48,1.91
+18,Nayarit,009,Del Nayar,1488,El Carrizo,20,1.90
+18,Nayarit,009,Del Nayar,1489,Cerro de las Estrellas,67,3.63
+18,Nayarit,009,Del Nayar,1491,Tierra Blanca,37,4.09
+18,Nayarit,009,Del Nayar,1493,Ojo de Agua,3,*
+18,Nayarit,009,Del Nayar,1498,Los Guamuchiles,17,*
+18,Nayarit,009,Del Nayar,1499,Guasamoyeta,12,*
+18,Nayarit,009,Del Nayar,1500,Buenos Aires,33,3.17
+18,Nayarit,009,Del Nayar,1501,El Tepetate,21,*
+18,Nayarit,009,Del Nayar,1503,El Zapote,2,*
+18,Nayarit,009,Del Nayar,1506,La Silleta,17,*
+18,Nayarit,009,Del Nayar,1510,Púayxúarée,2,*
+18,Nayarit,009,Del Nayar,1511,Las Caídas,16,4.75
+18,Nayarit,009,Del Nayar,1513,Marcelino de Jesús Gerónimo,8,*
+18,Nayarit,009,Del Nayar,1514,María Marina García Lucas,9,*
+18,Nayarit,009,Del Nayar,1515,Arroyo los Frailes,9,*
+18,Nayarit,009,Del Nayar,1516,Vidal Pancho Lovatos,21,4.09
+18,Nayarit,009,Del Nayar,1518,Lino de la Cruz,8,*
+18,Nayarit,009,Del Nayar,1519,Melquiades de la Cruz,2,*
+18,Nayarit,009,Del Nayar,1521,Cirilo López,12,*
+18,Nayarit,009,Del Nayar,1522,Juan García,7,*
+18,Nayarit,009,Del Nayar,1524,Santa Anita del Bajío,37,1.63
+18,Nayarit,009,Del Nayar,1525,Tepocatita,90,2
+18,Nayarit,009,Del Nayar,1526,Eleuterio Castañeda Gerbacio,26,0.77
+18,Nayarit,009,Del Nayar,1527,Chuparrosa,23,3.77
+18,Nayarit,009,Del Nayar,1528,Los Capulines,8,*
+18,Nayarit,009,Del Nayar,1529,Daniel Valles Gerbacio,5,*
+18,Nayarit,009,Del Nayar,1531,Martín Pérez Lemos,6,*
+18,Nayarit,009,Del Nayar,1532,José Refugio Dúe,7,*
+18,Nayarit,009,Del Nayar,1533,Isidra Gutiérrez Gerbacio,4,*
+18,Nayarit,009,Del Nayar,1534,El Guajolote,8,*
+18,Nayarit,009,Del Nayar,1535,Los Pinos Altos,9,*
+18,Nayarit,009,Del Nayar,1536,Picachos,11,0
+18,Nayarit,009,Del Nayar,1537,El Frijolito,25,0
+18,Nayarit,009,Del Nayar,1538,Los Tamales,99,1.46
+18,Nayarit,009,Del Nayar,1540,Cerro del Chiquihuitillo,11,6.25
+18,Nayarit,009,Del Nayar,1541,Arroyo del Copal,7,*
+18,Nayarit,009,Del Nayar,1543,Piedra Parada,12,*
+18,Nayarit,009,Del Nayar,1544,Puerto de los Leones,2,*
+18,Nayarit,009,Del Nayar,1545,La Cueva,3,*
+18,Nayarit,009,Del Nayar,1546,El Tepetate,21,6.25
+18,Nayarit,009,Del Nayar,1547,Paso Hondo,33,5.40
+18,Nayarit,009,Del Nayar,1548,Paso del Águila,20,9.36
+18,Nayarit,009,Del Nayar,1549,El Limón 1,41,6.43
+18,Nayarit,009,Del Nayar,1550,Ojo de Agua,2,*
+18,Nayarit,009,Del Nayar,1553,El Roble,15,*
+18,Nayarit,009,Del Nayar,1554,Rancho de Marcelino,12,*
+18,Nayarit,009,Del Nayar,1555,El Armadillo,16,3.25
+18,Nayarit,009,Del Nayar,1556,Las Ollas,81,3.62
+18,Nayarit,009,Del Nayar,1557,Los Zapotes,102,4.52
+18,Nayarit,009,Del Nayar,1558,La Roblita [Rancho],20,5.30
+18,Nayarit,009,Del Nayar,1559,Los Remedios,19,5.31
+18,Nayarit,009,Del Nayar,1560,Los Manguitos,49,5.09
+18,Nayarit,009,Del Nayar,1561,Valle de San Rafael,90,3.19
+18,Nayarit,009,Del Nayar,1562,La Puerta,3,*
+18,Nayarit,009,Del Nayar,9998,Localidades de una vivienda,776,3.64
+18,Nayarit,009,Del Nayar,9999,Localidades de dos viviendas,764,4
+18,Nayarit,010,Rosamorada,0000,Total del Municipio,33567,8.31
+18,Nayarit,010,Rosamorada,0001,Rosamorada,3718,9.75
+18,Nayarit,010,Rosamorada,0002,Abelardo L. Rodríguez (Amapa),216,7.43
+18,Nayarit,010,Rosamorada,0003,Los Arrayanes,322,7.81
+18,Nayarit,010,Rosamorada,0004,El Bálsamo,15,5.87
+18,Nayarit,010,Rosamorada,0005,Bonita,156,7.62
+18,Nayarit,010,Rosamorada,0006,La Boquita,763,7.15
+18,Nayarit,010,Rosamorada,0007,Cofradía de Cuyutlán,954,7.66
+18,Nayarit,010,Rosamorada,0008,Colonias 18 de Marzo,1283,7.66
+18,Nayarit,010,Rosamorada,0009,Coyotes,71,6.98
+18,Nayarit,010,Rosamorada,0010,Chilapa,1808,8.33
+18,Nayarit,010,Rosamorada,0011,Lázaro Cárdenas,26,7.81
+18,Nayarit,010,Rosamorada,0012,Los Leandros,235,6.94
+18,Nayarit,010,Rosamorada,0013,La Loma,261,8.33
+18,Nayarit,010,Rosamorada,0014,Llano del Tigre,1008,7.85
+18,Nayarit,010,Rosamorada,0015,Los Medina,640,8.62
+18,Nayarit,010,Rosamorada,0016,El Mil,64,9.36
+18,Nayarit,010,Rosamorada,0017,Minitas,153,6.93
+18,Nayarit,010,Rosamorada,0018,Mojocuautla (Adjuntas),570,7.10
+18,Nayarit,010,Rosamorada,0019,El Ochenta,147,7.27
+18,Nayarit,010,Rosamorada,0020,Paramita,912,8.04
+18,Nayarit,010,Rosamorada,0021,Paso Real del Bejuco,533,7.56
+18,Nayarit,010,Rosamorada,0022,Pericos,2065,8.40
+18,Nayarit,010,Rosamorada,0023,Pescadero,897,8.25
+18,Nayarit,010,Rosamorada,0024,Las Pilas,732,7.93
+18,Nayarit,010,Rosamorada,0025,Pimientillo,1506,8.50
+18,Nayarit,010,Rosamorada,0027,Providencia,357,7.31
+18,Nayarit,010,Rosamorada,0028,Puente el Bejuco (El Capricho),175,6.50
+18,Nayarit,010,Rosamorada,0029,Rosarito,254,6.21
+18,Nayarit,010,Rosamorada,0030,San Diego del Naranjo,677,8.29
+18,Nayarit,010,Rosamorada,0031,San Juan Bautista,1251,7.25
+18,Nayarit,010,Rosamorada,0032,San Juan Corapan,472,7.01
+18,Nayarit,010,Rosamorada,0033,San Marcos Cuyutlán,295,7.27
+18,Nayarit,010,Rosamorada,0034,Santa Fe,539,7.66
+18,Nayarit,010,Rosamorada,0035,San Vicente,4758,9.17
+18,Nayarit,010,Rosamorada,0036,El Tamarindo,1593,8.24
+18,Nayarit,010,Rosamorada,0038,Teponahuaxtla (Huaixta),632,7.50
+18,Nayarit,010,Rosamorada,0039,Vicente Guerrero (El Mogote),555,8.42
+18,Nayarit,010,Rosamorada,0041,Zomatlán del Caimanero,970,8.58
+18,Nayarit,010,Rosamorada,0046,Los Petates,8,5.38
+18,Nayarit,010,Rosamorada,0047,Francisco Villa,869,8.32
+18,Nayarit,010,Rosamorada,0056,Las Conchas,3,*
+18,Nayarit,010,Rosamorada,0058,Huerta Paula Sojo,2,*
+18,Nayarit,010,Rosamorada,0060,Copales,7,4.43
+18,Nayarit,010,Rosamorada,0063,San Miguelito,635,7.88
+18,Nayarit,010,Rosamorada,0064,Agua Aceda,252,7.48
+18,Nayarit,010,Rosamorada,0065,Estación Chilapa,2,*
+18,Nayarit,010,Rosamorada,0070,Crucero a Mexcaltitán (La Siesta),6,8.33
+18,Nayarit,010,Rosamorada,0071,Los Cerritos (Loma de los Chivos),6,*
+18,Nayarit,010,Rosamorada,0076,La Flecha,3,*
+18,Nayarit,010,Rosamorada,0087,Las Adelitas,34,8.86
+18,Nayarit,010,Rosamorada,0116,Crucero a Zomatlán,6,*
+18,Nayarit,010,Rosamorada,0117,Crucero de los Medina,7,*
+18,Nayarit,010,Rosamorada,0118,Crucero Providencia,22,8.06
+18,Nayarit,010,Rosamorada,0119,Benito Valle (San Miguel),19,5.09
+18,Nayarit,010,Rosamorada,0121,Los Horcones,22,2.50
+18,Nayarit,010,Rosamorada,0133,Hermanos Bautísta [Rancho],2,*
+18,Nayarit,010,Rosamorada,0152,Rancho de Agripin Flores,2,*
+18,Nayarit,010,Rosamorada,0156,El Camionero [Restaurante],18,10.90
+18,Nayarit,010,Rosamorada,0158,Las Anonas,11,1.71
+18,Nayarit,010,Rosamorada,0161,Los Pimienta,4,*
+18,Nayarit,010,Rosamorada,0171,Piedra Bola,10,*
+18,Nayarit,010,Rosamorada,0174,El Cuatante,1,*
+18,Nayarit,010,Rosamorada,0180,Las Agujas,8,*
+18,Nayarit,010,Rosamorada,0190,Los Portillo,4,*
+18,Nayarit,010,Rosamorada,0193,El Llano,8,*
+18,Nayarit,010,Rosamorada,0195,Los Manguitos,3,*
+18,Nayarit,010,Rosamorada,0199,Las Alicias,6,*
+18,Nayarit,010,Rosamorada,0200,La Placa,4,*
+18,Nayarit,010,Rosamorada,9998,Localidades de una vivienda,52,4.63
+18,Nayarit,010,Rosamorada,9999,Localidades de dos viviendas,29,7.15
+18,Nayarit,011,Ruíz,0000,Total del Municipio,24096,8.50
+18,Nayarit,011,Ruíz,0001,Ruiz,14678,9.04
+18,Nayarit,011,Ruíz,0002,La Bolita,230,7.01
+18,Nayarit,011,Ruíz,0003,El Carrizal,98,7.75
+18,Nayarit,011,Ruíz,0004,El Carrizo,91,5.04
+18,Nayarit,011,Ruíz,0006,Cordón del Jilguero,271,8.08
+18,Nayarit,011,Ruíz,0010,Heroico Batallón de San Blas (La Noria),559,7.58
+18,Nayarit,011,Ruíz,0011,Presidio de los Reyes,995,7.75
+18,Nayarit,011,Ruíz,0012,Ixcatán del Pozolillo,68,7.10
+18,Nayarit,011,Ruíz,0013,La Jarretadera,105,6.16
+18,Nayarit,011,Ruíz,0015,Juan Escutia,340,7.80
+18,Nayarit,011,Ruíz,0016,Laguna del Mar,449,8.53
+18,Nayarit,011,Ruíz,0017,Lagunitas de Ventanas,8,*
+18,Nayarit,011,Ruíz,0020,La Mojonera,61,7.65
+18,Nayarit,011,Ruíz,0021,El Naranjo,236,6.30
+18,Nayarit,011,Ruíz,0022,La Petaquilla,3,*
+18,Nayarit,011,Ruíz,0024,Puerta de Platanares,420,7.91
+18,Nayarit,011,Ruíz,0025,El Refugio,189,7.99
+18,Nayarit,011,Ruíz,0026,San Lorenzo,954,8.32
+18,Nayarit,011,Ruíz,0027,San Pedro Ixcatán,599,8.33
+18,Nayarit,011,Ruíz,0028,El Taixte,49,8.03
+18,Nayarit,011,Ruíz,0029,Vado de San Pedro,1028,8.61
+18,Nayarit,011,Ruíz,0030,El Venado,1342,7.37
+18,Nayarit,011,Ruíz,0031,La Yerbabuena,66,6.44
+18,Nayarit,011,Ruíz,0032,El Zopilote,340,7.57
+18,Nayarit,011,Ruíz,0033,La Loma del Toro,2,*
+18,Nayarit,011,Ruíz,0037,El Banco,7,*
+18,Nayarit,011,Ruíz,0040,Huiscóyotl,19,6.67
+18,Nayarit,011,Ruíz,0042,La Sanguijuela,7,*
+18,Nayarit,011,Ruíz,0045,El Tempisque,23,2.85
+18,Nayarit,011,Ruíz,0046,El Veloz,5,*
+18,Nayarit,011,Ruíz,0047,Los Limos,3,*
+18,Nayarit,011,Ruíz,0049,Los Llanitos (Los Rivera),8,*
+18,Nayarit,011,Ruíz,0051,Los Cimientos,10,*
+18,Nayarit,011,Ruíz,0053,Los Cajones,2,*
+18,Nayarit,011,Ruíz,0056,El Coquito,24,2
+18,Nayarit,011,Ruíz,0057,Crucero de Jarretadera (El Manguito),2,*
+18,Nayarit,011,Ruíz,0059,El Guajolote,11,2.63
+18,Nayarit,011,Ruíz,0060,El Guarichi,15,7.88
+18,Nayarit,011,Ruíz,0061,La Haciendita,7,*
+18,Nayarit,011,Ruíz,0062,Huicot (Villa Hermosa),274,5.35
+18,Nayarit,011,Ruíz,0070,Rancho de la Estaca,13,*
+18,Nayarit,011,Ruíz,0072,La Embocada del Tenamache,7,*
+18,Nayarit,011,Ruíz,0073,Los Veranos,8,7.50
+18,Nayarit,011,Ruíz,0075,Santo Domingo,4,*
+18,Nayarit,011,Ruíz,0084,La Limonera (Las Higueras),3,*
+18,Nayarit,011,Ruíz,0086,Tres Hermanos,2,*
+18,Nayarit,011,Ruíz,0089,Andrés Lamas,4,*
+18,Nayarit,011,Ruíz,0093,El Venadito,4,*
+18,Nayarit,011,Ruíz,0095,Crucero de Ruiz,11,*
+18,Nayarit,011,Ruíz,0097,La Encinera,28,2.88
+18,Nayarit,011,Ruíz,0104,El Capomo,6,*
+18,Nayarit,011,Ruíz,0110,Los Cuernitos,5,*
+18,Nayarit,011,Ruíz,0111,Chimaltita,204,5.83
+18,Nayarit,011,Ruíz,0123,Los Sauces,29,5.61
+18,Nayarit,011,Ruíz,0125,El Sombrero,7,*
+18,Nayarit,011,Ruíz,0127,Los Tepehuanos,6,*
+18,Nayarit,011,Ruíz,0128,Crucero de la Laguna,5,*
+18,Nayarit,011,Ruíz,0129,Las Majadas,30,7.15
+18,Nayarit,011,Ruíz,0130,El Camichín (La Roblera),14,2.11
+18,Nayarit,011,Ruíz,0131,El Chalán,9,*
+18,Nayarit,011,Ruíz,0132,El Crucero de los Sauces,6,*
+18,Nayarit,011,Ruíz,0133,El Limón,8,4.71
+18,Nayarit,011,Ruíz,0134,La Majada del Huanacaxtle,3,*
+18,Nayarit,011,Ruíz,0141,El Otatillo,20,6.67
+18,Nayarit,011,Ruíz,0142,René Salas,1,*
+18,Nayarit,011,Ruíz,0143,Huiscóyotl,4,*
+18,Nayarit,011,Ruíz,0147,La Soledad,3,*
+18,Nayarit,011,Ruíz,0148,El Volantín,19,6.36
+18,Nayarit,011,Ruíz,0150,La Nanchera,5,*
+18,Nayarit,011,Ruíz,0151,Rodrigo Campos,1,*
+18,Nayarit,011,Ruíz,0154,Hacienda Rodríguez,3,*
+18,Nayarit,011,Ruíz,0157,El Salto,4,*
+18,Nayarit,011,Ruíz,0158,Ojo de Agua el Frutillo,14,*
+18,Nayarit,011,Ruíz,0159,Doña María,3,*
+18,Nayarit,011,Ruíz,0160,Arroyo Linares,1,*
+18,Nayarit,011,Ruíz,0161,El Cerrito,4,*
+18,Nayarit,011,Ruíz,9998,Localidades de una vivienda,122,5.17
+18,Nayarit,011,Ruíz,9999,Localidades de dos viviendas,80,5.09
+18,Nayarit,012,San Blas,0000,Total del Municipio,41518,8.16
+18,Nayarit,012,San Blas,0001,San Blas,10935,9.51
+18,Nayarit,012,San Blas,0003,Aticama,1569,8.33
+18,Nayarit,012,San Blas,0004,Aután,1647,7.46
+18,Nayarit,012,San Blas,0005,La Bajada,450,7.92
+18,Nayarit,012,San Blas,0006,Boca del Asadero,139,7.39
+18,Nayarit,012,San Blas,0007,El Capomo,158,7.19
+18,Nayarit,012,San Blas,0008,El Carleño,346,7.49
+18,Nayarit,012,San Blas,0009,Laureles y Góngora (El Ciruelo),549,7.24
+18,Nayarit,012,San Blas,0010,José María Mercado,210,6.15
+18,Nayarit,012,San Blas,0011,El Cora,392,6.88
+18,Nayarit,012,San Blas,0013,La Culebra,335,8.28
+18,Nayarit,012,San Blas,0014,Chacalilla,536,7.54
+18,Nayarit,012,San Blas,0015,La Chiltera,185,7.68
+18,Nayarit,012,San Blas,0016,La Chiripa,371,8.33
+18,Nayarit,012,San Blas,0017,El Espino,75,6.80
+18,Nayarit,012,San Blas,0018,La Goma,517,7.52
+18,Nayarit,012,San Blas,0019,Guadalupe Victoria,3066,7.52
+18,Nayarit,012,San Blas,0020,Huaristemba,696,7.22
+18,Nayarit,012,San Blas,0021,Huaynamota,204,7.51
+18,Nayarit,012,San Blas,0023,Isla del Conde,405,7.88
+18,Nayarit,012,San Blas,0024,Las Islitas,28,10.33
+18,Nayarit,012,San Blas,0025,Jalcocotán,4400,7.72
+18,Nayarit,012,San Blas,0026,Jolotemba,298,7.05
+18,Nayarit,012,San Blas,0027,Laureles y Góngora (El Limón),457,7.05
+18,Nayarit,012,San Blas,0028,La Libertad,1656,7.42
+18,Nayarit,012,San Blas,0029,El Llano,1259,8.02
+18,Nayarit,012,San Blas,0030,El Madrigaleño,834,7.24
+18,Nayarit,012,San Blas,0031,Matanchén (La Aguada),65,10.47
+18,Nayarit,012,San Blas,0032,Mecatán,2826,7.52
+18,Nayarit,012,San Blas,0033,Navarrete,1459,7.56
+18,Nayarit,012,San Blas,0034,El Palillo,1,*
+18,Nayarit,012,San Blas,0035,La Palma,1222,7.95
+18,Nayarit,012,San Blas,0036,Las Palmas,180,8.13
+18,Nayarit,012,San Blas,0037,Pimientillo,317,7.60
+18,Nayarit,012,San Blas,0038,Pintadeño,292,7.40
+18,Nayarit,012,San Blas,0039,Playa de los Cocos,163,9.61
+18,Nayarit,012,San Blas,0041,Playa de Ramírez,103,7.45
+18,Nayarit,012,San Blas,0042,Reforma Agraria (La Colorada),576,7.21
+18,Nayarit,012,San Blas,0043,Santa Cruz de Miramar,1722,8.71
+18,Nayarit,012,San Blas,0044,Singaita,134,7.04
+18,Nayarit,012,San Blas,0045,Tecuitata,382,6.85
+18,Nayarit,012,San Blas,0046,Colonia el Tepeyac (Cofradía),18,5.46
+18,Nayarit,012,San Blas,0051,Puerto de Lindavista,58,6.43
+18,Nayarit,012,San Blas,0053,Guadalupe,2,*
+18,Nayarit,012,San Blas,0059,La Manzanilla,18,8.82
+18,Nayarit,012,San Blas,0062,El Gato,4,*
+18,Nayarit,012,San Blas,0067,Los Alacranes,3,*
+18,Nayarit,012,San Blas,0068,El Bosque,2,*
+18,Nayarit,012,San Blas,0070,Costa Verde,10,10.50
+18,Nayarit,012,San Blas,0073,Bahía de Matanchén,70,8.77
+18,Nayarit,012,San Blas,0082,San Agustín,3,*
+18,Nayarit,012,San Blas,0127,La Fortuna (Lote III Tizonta),1,*
+18,Nayarit,012,San Blas,0128,Antonio Fonseca,4,*
+18,Nayarit,012,San Blas,0131,Tizonta (El Gato),3,3
+18,Nayarit,012,San Blas,0134,Crucero a los Cocos,13,9.25
+18,Nayarit,012,San Blas,0159,Playas de Matanchén [Fraccionamiento],1,*
+18,Nayarit,012,San Blas,0172,El Tepeyac,8,*
+18,Nayarit,012,San Blas,0173,Rancho Mercedes (Gustavo Luna Rodríguez),2,*
+18,Nayarit,012,San Blas,0176,El Varal,5,*
+18,Nayarit,012,San Blas,0177,Casa Blanca,1,*
+18,Nayarit,012,San Blas,0181,Los Indios [Granja],4,*
+18,Nayarit,012,San Blas,0184,El Cuatro,5,4.50
+18,Nayarit,012,San Blas,0188,Lo de Don Nico (Tía Pancha),17,10.50
+18,Nayarit,012,San Blas,0204,La Barrenada,6,*
+18,Nayarit,012,San Blas,0213,El Chiflón Dos,3,*
+18,Nayarit,012,San Blas,0215,La Reata,10,15
+18,Nayarit,012,San Blas,0216,Rancho Montaño,4,*
+18,Nayarit,012,San Blas,0222,El Limoncito,1,*
+18,Nayarit,012,San Blas,0224,Crucero del Llano,3,5.67
+18,Nayarit,012,San Blas,0228,La Curva,1,*
+18,Nayarit,012,San Blas,0234,Rancho Rodríguez,3,*
+18,Nayarit,012,San Blas,0235,San Pedro,1,*
+18,Nayarit,012,San Blas,0238,Limoncito Hills,1,*
+18,Nayarit,012,San Blas,0240,Los Tilos,2,*
+18,Nayarit,012,San Blas,0241,Ticha,3,*
+18,Nayarit,012,San Blas,0242,Agua Caliente (Las Mancuernas),1,*
+18,Nayarit,012,San Blas,0244,El Crucero de Huaristemba,2,*
+18,Nayarit,012,San Blas,0245,Chanón [Empacadora],14,8.31
+18,Nayarit,012,San Blas,0246,Los Bernal Salas,1,*
+18,Nayarit,012,San Blas,0248,La Escondida [Granja],6,*
+18,Nayarit,012,San Blas,0249,José Antonio Galindo Prado,7,*
+18,Nayarit,012,San Blas,0255,El Ranchito,3,*
+18,Nayarit,012,San Blas,0256,Efraín Bugarín,4,*
+18,Nayarit,012,San Blas,0257,Ecológico EKA,1,*
+18,Nayarit,012,San Blas,0264,Los Girasoles [Rancho],1,*
+18,Nayarit,012,San Blas,0265,El Guayabo,5,*
+18,Nayarit,012,San Blas,0268,Las Coyotas [Rancho],10,*
+18,Nayarit,012,San Blas,0269,Kilómetro 10 [Rancho],4,*
+18,Nayarit,012,San Blas,0275,Las Palmas [Empacadora],3,*
+18,Nayarit,012,San Blas,0276,El Suspiro,1,*
+18,Nayarit,012,San Blas,0277,El Galaviz,5,*
+18,Nayarit,012,San Blas,0278,El Toro Guaco,1,*
+18,Nayarit,012,San Blas,9998,Localidades de una vivienda,93,7.29
+18,Nayarit,012,San Blas,9999,Localidades de dos viviendas,28,6.76
+18,Nayarit,013,San Pedro Lagunillas,0000,Total del Municipio,7683,8.37
+18,Nayarit,013,San Pedro Lagunillas,0001,San Pedro Lagunillas,4007,9.04
+18,Nayarit,013,San Pedro Lagunillas,0002,Amado Nervo (El Conde),1128,8.33
+18,Nayarit,013,San Pedro Lagunillas,0003,Cerro Pelón,210,7
+18,Nayarit,013,San Pedro Lagunillas,0004,Cuastecomate,768,6.84
+18,Nayarit,013,San Pedro Lagunillas,0006,Las Guásimas,218,7.27
+18,Nayarit,013,San Pedro Lagunillas,0008,Milpillas Bajas,307,8.58
+18,Nayarit,013,San Pedro Lagunillas,0011,Puerta del Río,112,8.59
+18,Nayarit,013,San Pedro Lagunillas,0015,Tepetiltic,224,7.48
+18,Nayarit,013,San Pedro Lagunillas,0016,Tequilita,638,7.24
+18,Nayarit,013,San Pedro Lagunillas,0023,El Rincón,1,*
+18,Nayarit,013,San Pedro Lagunillas,0027,El Platanar,1,*
+18,Nayarit,013,San Pedro Lagunillas,0042,Casa del Obispo,2,*
+18,Nayarit,013,San Pedro Lagunillas,0043,El Paraíso de Jonás,1,*
+18,Nayarit,013,San Pedro Lagunillas,0046,Antonio Sepúlveda [Rancho],2,*
+18,Nayarit,013,San Pedro Lagunillas,0048,Nueva California,1,*
+18,Nayarit,013,San Pedro Lagunillas,0050,Los Delgado [Rancho],9,8.50
+18,Nayarit,013,San Pedro Lagunillas,0054,Huaynamota,2,*
+18,Nayarit,013,San Pedro Lagunillas,0058,San José,29,8.05
+18,Nayarit,013,San Pedro Lagunillas,0062,Las Paredes,3,*
+18,Nayarit,013,San Pedro Lagunillas,0064,Los Llanitos,1,*
+18,Nayarit,013,San Pedro Lagunillas,0071,El Paraíso [Balneario],2,*
+18,Nayarit,013,San Pedro Lagunillas,0073,Casa Blanca,6,*
+18,Nayarit,013,San Pedro Lagunillas,0078,La Porcina,1,*
+18,Nayarit,013,San Pedro Lagunillas,0079,La Porcina 2,1,*
+18,Nayarit,013,San Pedro Lagunillas,0081,La Arena,5,*
+18,Nayarit,013,San Pedro Lagunillas,0084,El Platanar,2,*
+18,Nayarit,013,San Pedro Lagunillas,0087,Las 2 Playitas,2,*
+18,Nayarit,013,San Pedro Lagunillas,9998,Localidades de una vivienda,30,8
+18,Nayarit,013,San Pedro Lagunillas,9999,Localidades de dos viviendas,3,*
+18,Nayarit,014,Santa María del Oro,0000,Total del Municipio,24911,8.21
+18,Nayarit,014,Santa María del Oro,0001,Santa María del Oro,5343,9.51
+18,Nayarit,014,Santa María del Oro,0002,Acatitán,6,*
+18,Nayarit,014,Santa María del Oro,0003,Real de Acuitapilco (Esteban Baca Calderón),438,7.33
+18,Nayarit,014,Santa María del Oro,0005,Agua Zarca (La Mesa),3,*
+18,Nayarit,014,Santa María del Oro,0006,Colonia el Ahualamo,2189,8.23
+18,Nayarit,014,Santa María del Oro,0008,La Brea,7,*
+18,Nayarit,014,Santa María del Oro,0009,Buckingham,551,6.92
+18,Nayarit,014,Santa María del Oro,0010,El Buruato,568,6.13
+18,Nayarit,014,Santa María del Oro,0012,El Caracol,69,3.16
+18,Nayarit,014,Santa María del Oro,0013,Cerro Blanco,807,7.66
+18,Nayarit,014,Santa María del Oro,0016,Cofradía de Acuitapilco,509,7.23
+18,Nayarit,014,Santa María del Oro,0018,Colonia Moderna,893,7.52
+18,Nayarit,014,Santa María del Oro,0019,Arroyo del Colgado,8,*
+18,Nayarit,014,Santa María del Oro,0021,Las Cuevas,405,6.66
+18,Nayarit,014,Santa María del Oro,0022,Chapalilla,1372,8.05
+18,Nayarit,014,Santa María del Oro,0023,El Ermitaño,273,5.91
+18,Nayarit,014,Santa María del Oro,0024,La Estanzuela,107,5.74
+18,Nayarit,014,Santa María del Oro,0026,La Galinda,178,7.62
+18,Nayarit,014,Santa María del Oro,0029,Jazmines,6,*
+18,Nayarit,014,Santa María del Oro,0030,El Guanacaste,306,6.98
+18,Nayarit,014,Santa María del Oro,0031,La Labor,3141,8.32
+18,Nayarit,014,Santa María del Oro,0032,La Laguna,155,8.19
+18,Nayarit,014,Santa María del Oro,0035,El Limón,771,8.37
+18,Nayarit,014,Santa María del Oro,0038,Las Mesitas,114,7.98
+18,Nayarit,014,Santa María del Oro,0040,Miguel Hidalgo,488,7.60
+18,Nayarit,014,Santa María del Oro,0041,El Mirador,23,8.33
+18,Nayarit,014,Santa María del Oro,0042,San José de Mojarras,1674,8.14
+18,Nayarit,014,Santa María del Oro,0043,Mojarritas,2,*
+18,Nayarit,014,Santa María del Oro,0044,La Mojonera,12,7.67
+18,Nayarit,014,Santa María del Oro,0045,Monte los Cuartos (El Descanso),5,*
+18,Nayarit,014,Santa María del Oro,0048,El Ocotillo,88,6.76
+18,Nayarit,014,Santa María del Oro,0049,Platanitos,153,5.44
+18,Nayarit,014,Santa María del Oro,0051,La Querencia,2,*
+18,Nayarit,014,Santa María del Oro,0053,Rincón de Calimayo,250,6.62
+18,Nayarit,014,Santa María del Oro,0055,Salsipuedes,9,5
+18,Nayarit,014,Santa María del Oro,0056,San Leonel,753,8.43
+18,Nayarit,014,Santa María del Oro,0058,Tequepexpan,1363,7.84
+18,Nayarit,014,Santa María del Oro,0059,El Torreón,178,8.38
+18,Nayarit,014,Santa María del Oro,0063,Zapotanito,1053,9.59
+18,Nayarit,014,Santa María del Oro,0064,El Colorado,15,8.33
+18,Nayarit,014,Santa María del Oro,0072,El Molino,13,11.90
+18,Nayarit,014,Santa María del Oro,0074,La Lobera,5,*
+18,Nayarit,014,Santa María del Oro,0077,Cablotán,6,*
+18,Nayarit,014,Santa María del Oro,0078,Las Piedras Cargadas,13,9.67
+18,Nayarit,014,Santa María del Oro,0081,Ocotera China,8,*
+18,Nayarit,014,Santa María del Oro,0083,Los Guajes,60,4.77
+18,Nayarit,014,Santa María del Oro,0086,El Espino,5,*
+18,Nayarit,014,Santa María del Oro,0087,Los Horcones,42,7.55
+18,Nayarit,014,Santa María del Oro,0094,Santa Bárbara,3,*
+18,Nayarit,014,Santa María del Oro,0113,Lagunitas,1,*
+18,Nayarit,014,Santa María del Oro,0116,La Mesa de las Yeguas,111,5
+18,Nayarit,014,Santa María del Oro,0117,La Mojonera,8,*
+18,Nayarit,014,Santa María del Oro,0118,Ahuapán,8,5.63
+18,Nayarit,014,Santa María del Oro,0123,Picachos (La Tepamera),2,*
+18,Nayarit,014,Santa María del Oro,0128,Santa Mónica,3,*
+18,Nayarit,014,Santa María del Oro,0131,El Borrego,11,9.73
+18,Nayarit,014,Santa María del Oro,0132,Crucero el Limón,4,*
+18,Nayarit,014,Santa María del Oro,0134,El Pozo,2,*
+18,Nayarit,014,Santa María del Oro,0144,El Refugio [Rancho],2,*
+18,Nayarit,014,Santa María del Oro,0145,El Capulín,2,*
+18,Nayarit,014,Santa María del Oro,0147,El Comedero,6,*
+18,Nayarit,014,Santa María del Oro,0148,Camino Real de los Arrieros,7,*
+18,Nayarit,014,Santa María del Oro,0149,El Charco,3,*
+18,Nayarit,014,Santa María del Oro,0153,María Bonita [Rancho],4,*
+18,Nayarit,014,Santa María del Oro,0154,Crucero de Santa María del Oro,2,*
+18,Nayarit,014,Santa María del Oro,0158,Las Amazonas [Rancho],3,*
+18,Nayarit,014,Santa María del Oro,0159,Buckingham Viejo,9,*
+18,Nayarit,014,Santa María del Oro,0162,Las Lomas Dos,6,*
+18,Nayarit,014,Santa María del Oro,0163,Las Lomas Uno,2,*
+18,Nayarit,014,Santa María del Oro,0174,Crucero el Cajón,2,*
+18,Nayarit,014,Santa María del Oro,0175,Crucero de Tetitlán,5,*
+18,Nayarit,014,Santa María del Oro,0178,Ixtapa,10,*
+18,Nayarit,014,Santa María del Oro,0179,El Molino,21,6.79
+18,Nayarit,014,Santa María del Oro,0180,La Palma,4,0
+18,Nayarit,014,Santa María del Oro,0182,Piedra Gorda,6,*
+18,Nayarit,014,Santa María del Oro,0185,Don Vicente [Rancho],4,*
+18,Nayarit,014,Santa María del Oro,0192,La Sierra [Restaurant],3,*
+18,Nayarit,014,Santa María del Oro,0194,La Cangrejera,7,*
+18,Nayarit,014,Santa María del Oro,0195,San Gregorio,3,*
+18,Nayarit,014,Santa María del Oro,0207,Las Huertitas,4,*
+18,Nayarit,014,Santa María del Oro,0208,La Ixcuintla (El Fresno),6,*
+18,Nayarit,014,Santa María del Oro,0212,La Mesa,1,*
+18,Nayarit,014,Santa María del Oro,0213,Jocota (Las de Amolar),3,*
+18,Nayarit,014,Santa María del Oro,0216,Piedra Gorda,5,*
+18,Nayarit,014,Santa María del Oro,0218,Potrero el Marrano,18,6
+18,Nayarit,014,Santa María del Oro,0220,Los Guayabitos,4,*
+18,Nayarit,014,Santa María del Oro,0221,Viges [Rancho],6,*
+18,Nayarit,014,Santa María del Oro,0223,Los Sabinos,2,*
+18,Nayarit,014,Santa María del Oro,0224,Tatepozco,11,6.63
+18,Nayarit,014,Santa María del Oro,0231,Loma del Bajío,11,7.20
+18,Nayarit,014,Santa María del Oro,0233,La Ciénega (La Guasimera),10,*
+18,Nayarit,014,Santa María del Oro,0243,Las Yeguas,5,*
+18,Nayarit,014,Santa María del Oro,0248,La Higuerita,1,*
+18,Nayarit,014,Santa María del Oro,0249,Agua Blanca,3,*
+18,Nayarit,014,Santa María del Oro,0251,El Cerrito,2,*
+18,Nayarit,014,Santa María del Oro,0253,Huerta Vieja,2,*
+18,Nayarit,014,Santa María del Oro,0254,El Polvorín,17,*
+18,Nayarit,014,Santa María del Oro,0255,Don Andrés [Rancho],2,*
+18,Nayarit,014,Santa María del Oro,0256,El Crucero del Buruato,10,*
+18,Nayarit,014,Santa María del Oro,0257,El Guayabito,5,*
+18,Nayarit,014,Santa María del Oro,0261,Joél Jiménez Montes,1,*
+18,Nayarit,014,Santa María del Oro,0262,Los Arrieros,10,9.63
+18,Nayarit,014,Santa María del Oro,0263,Las Higueras,3,*
+18,Nayarit,014,Santa María del Oro,0264,Santos Montalvo Espinoza,11,*
+18,Nayarit,014,Santa María del Oro,0265,La Agüita,15,6.56
+18,Nayarit,014,Santa María del Oro,0266,El Bosque,3,*
+18,Nayarit,014,Santa María del Oro,0267,Jacarandas,4,*
+18,Nayarit,014,Santa María del Oro,0268,Los Hernández [Granja Porcina],3,*
+18,Nayarit,014,Santa María del Oro,0269,Los Limones,11,*
+18,Nayarit,014,Santa María del Oro,0270,Paraíso Escondido,2,*
+18,Nayarit,014,Santa María del Oro,0272,Tintilagua,2,*
+18,Nayarit,014,Santa María del Oro,0274,Las Cabañas,2,*
+18,Nayarit,014,Santa María del Oro,0276,El Tezontle,4,*
+18,Nayarit,014,Santa María del Oro,0277,La Carbonera,2,*
+18,Nayarit,014,Santa María del Oro,0278,La Jarilla,1,*
+18,Nayarit,014,Santa María del Oro,0279,La Loma,2,*
+18,Nayarit,014,Santa María del Oro,0285,El Naranjo [Rancho],1,*
+18,Nayarit,014,Santa María del Oro,0286,Manuel Rojas Valdivia,1,*
+18,Nayarit,014,Santa María del Oro,0287,Calimayo [Aguacatera],1,*
+18,Nayarit,014,Santa María del Oro,0289,GHR [Rancho],1,*
+18,Nayarit,014,Santa María del Oro,9998,Localidades de una vivienda,206,6.97
+18,Nayarit,014,Santa María del Oro,9999,Localidades de dos viviendas,109,5.91
+18,Nayarit,015,Santiago Ixcuintla,0000,Total del Municipio,93981,8.40
+18,Nayarit,015,Santiago Ixcuintla,0001,Santiago Ixcuintla,18023,10.09
+18,Nayarit,015,Santiago Ixcuintla,0002,Acaponetilla,414,7.21
+18,Nayarit,015,Santiago Ixcuintla,0003,Acatán de las Piñas,217,7
+18,Nayarit,015,Santiago Ixcuintla,0004,Amapa,2351,8.47
+18,Nayarit,015,Santiago Ixcuintla,0005,Loma Bonita,117,6.94
+18,Nayarit,015,Santiago Ixcuintla,0006,Aztlán de las Garzas,415,7.99
+18,Nayarit,015,Santiago Ixcuintla,0007,Boca de Camichín,1314,7.92
+18,Nayarit,015,Santiago Ixcuintla,0008,El Botadero,1256,8.74
+18,Nayarit,015,Santiago Ixcuintla,0009,Campo de los Limones,601,7.78
+18,Nayarit,015,Santiago Ixcuintla,0010,El Cantón de Lozada,99,6.22
+18,Nayarit,015,Santiago Ixcuintla,0011,Cañada del Tabaco,1675,7.83
+18,Nayarit,015,Santiago Ixcuintla,0012,Cañada Grande,200,6.62
+18,Nayarit,015,Santiago Ixcuintla,0013,El Capomal,1541,8.16
+18,Nayarit,015,Santiago Ixcuintla,0014,Caramota,134,7.01
+18,Nayarit,015,Santiago Ixcuintla,0015,El Carrizo,52,8.38
+18,Nayarit,015,Santiago Ixcuintla,0017,Cerritos,610,8.37
+18,Nayarit,015,Santiago Ixcuintla,0018,El Colomo,43,7.21
+18,Nayarit,015,Santiago Ixcuintla,0019,Colonia Emiliano Zapata,1976,8.14
+18,Nayarit,015,Santiago Ixcuintla,0020,El Papalote,593,7.39
+18,Nayarit,015,Santiago Ixcuintla,0021,Los Corchos,766,8.06
+18,Nayarit,015,Santiago Ixcuintla,0022,El Corte (El Tuchi),2056,7.90
+18,Nayarit,015,Santiago Ixcuintla,0023,Corral de Piedra,191,7
+18,Nayarit,015,Santiago Ixcuintla,0025,Palmar de Cuautla,1043,7.02
+18,Nayarit,015,Santiago Ixcuintla,0026,Emerita,156,6.21
+18,Nayarit,015,Santiago Ixcuintla,0027,El Famoso,22,5.89
+18,Nayarit,015,Santiago Ixcuintla,0028,Gavilán Chico,363,7.95
+18,Nayarit,015,Santiago Ixcuintla,0029,Gavilán Grande,1079,8.72
+18,Nayarit,015,Santiago Ixcuintla,0030,Las Higueras,195,6.20
+18,Nayarit,015,Santiago Ixcuintla,0031,La Higuerita (La Escondida),965,7.06
+18,Nayarit,015,Santiago Ixcuintla,0032,Pozo de Ibarra,3386,8.07
+18,Nayarit,015,Santiago Ixcuintla,0035,Las Labores,514,7.49
+18,Nayarit,015,Santiago Ixcuintla,0036,El Limón,758,7.99
+18,Nayarit,015,Santiago Ixcuintla,0037,Mayorquín,672,6.97
+18,Nayarit,015,Santiago Ixcuintla,0038,Mexcaltitán de Uribe,706,8.24
+18,Nayarit,015,Santiago Ixcuintla,0039,El Mezcal,156,7.02
+18,Nayarit,015,Santiago Ixcuintla,0040,Mojarritas,660,7.59
+18,Nayarit,015,Santiago Ixcuintla,0041,Estación Nanchi (Peñasquillo),752,8.11
+18,Nayarit,015,Santiago Ixcuintla,0042,El Novillero,260,8.13
+18,Nayarit,015,Santiago Ixcuintla,0043,Ojos de Agua,422,8.59
+18,Nayarit,015,Santiago Ixcuintla,0044,Los Otates,953,7.59
+18,Nayarit,015,Santiago Ixcuintla,0045,Vado del Cora (Estación Pani),617,7.07
+18,Nayarit,015,Santiago Ixcuintla,0046,Pantano Grande,533,7.71
+18,Nayarit,015,Santiago Ixcuintla,0047,Paredones (La Punta de la Laguna),641,7.49
+18,Nayarit,015,Santiago Ixcuintla,0048,Las Parejas,262,6.77
+18,Nayarit,015,Santiago Ixcuintla,0049,Paso Real de Cahuipa,206,6.95
+18,Nayarit,015,Santiago Ixcuintla,0050,Patroneño I,816,7.68
+18,Nayarit,015,Santiago Ixcuintla,0051,Pozo de Villa,687,8.28
+18,Nayarit,015,Santiago Ixcuintla,0052,La Presa,4863,8.07
+18,Nayarit,015,Santiago Ixcuintla,0053,Pueblo Nuevo,497,8.06
+18,Nayarit,015,Santiago Ixcuintla,0054,El Puente,840,7.53
+18,Nayarit,015,Santiago Ixcuintla,0055,Puerta Azul,1002,8.01
+18,Nayarit,015,Santiago Ixcuintla,0056,Puerta de Mangos,1733,8.32
+18,Nayarit,015,Santiago Ixcuintla,0057,Puerta de Palapares,925,7.86
+18,Nayarit,015,Santiago Ixcuintla,0059,Rancho Nuevo,788,7.44
+18,Nayarit,015,Santiago Ixcuintla,0060,Redención,225,7.95
+18,Nayarit,015,Santiago Ixcuintla,0062,San Andrés,849,7.43
+18,Nayarit,015,Santiago Ixcuintla,0063,San Isidro,524,7.76
+18,Nayarit,015,Santiago Ixcuintla,0065,San Miguel Número Dos (El Quemado),710,7.91
+18,Nayarit,015,Santiago Ixcuintla,0066,Santa Cruz,1226,7.85
+18,Nayarit,015,Santiago Ixcuintla,0067,Santa Rosa,320,7.05
+18,Nayarit,015,Santiago Ixcuintla,0068,Sauta,2426,7.23
+18,Nayarit,015,Santiago Ixcuintla,0069,Sentispac,2424,9.03
+18,Nayarit,015,Santiago Ixcuintla,0071,El Tambor,653,7.09
+18,Nayarit,015,Santiago Ixcuintla,0073,El Tizate,1404,7.38
+18,Nayarit,015,Santiago Ixcuintla,0074,Toro Mocho,364,7.25
+18,Nayarit,015,Santiago Ixcuintla,0076,El Turco,123,6.92
+18,Nayarit,015,Santiago Ixcuintla,0077,Valle Zaragoza,488,6.96
+18,Nayarit,015,Santiago Ixcuintla,0078,Valle Lerma,935,7.92
+18,Nayarit,015,Santiago Ixcuintla,0079,Valle Morelos,1057,7.93
+18,Nayarit,015,Santiago Ixcuintla,0080,Villa Hidalgo,9478,8.78
+18,Nayarit,015,Santiago Ixcuintla,0081,Villa Juárez,2722,8.01
+18,Nayarit,015,Santiago Ixcuintla,0082,Yago,4365,8.04
+18,Nayarit,015,Santiago Ixcuintla,0083,Playa el Sesteo,126,7.01
+18,Nayarit,015,Santiago Ixcuintla,0085,Hacienda Vieja,60,5.54
+18,Nayarit,015,Santiago Ixcuintla,0087,San Manuel (Monte Redondo),3,*
+18,Nayarit,015,Santiago Ixcuintla,0093,La Playa del Colorado,1,*
+18,Nayarit,015,Santiago Ixcuintla,0099,La Atarjea (Alfonso Langarica),2,*
+18,Nayarit,015,Santiago Ixcuintla,0101,Maravillas (El Rancho de Menchaca),2,*
+18,Nayarit,015,Santiago Ixcuintla,0108,La Quinta (El Rancho de la Higuera),12,5.70
+18,Nayarit,015,Santiago Ixcuintla,0112,Sinaloa,69,7.39
+18,Nayarit,015,Santiago Ixcuintla,0117,Alfredo V. Bonfil [Planta de Hornos],1,*
+18,Nayarit,015,Santiago Ixcuintla,0118,Tizate [Planta de Hornos],3,*
+18,Nayarit,015,Santiago Ixcuintla,0121,La Algodonera Nayarita,6,*
+18,Nayarit,015,Santiago Ixcuintla,0125,El Embarcadero de Tuxpan,2,*
+18,Nayarit,015,Santiago Ixcuintla,0126,La Guinea,360,6.40
+18,Nayarit,015,Santiago Ixcuintla,0127,Las Iglesias (El Salto),5,*
+18,Nayarit,015,Santiago Ixcuintla,0133,Agustín Corona [Rancho],9,*
+18,Nayarit,015,Santiago Ixcuintla,0134,Baltazar Sánchez [Rancho],4,*
+18,Nayarit,015,Santiago Ixcuintla,0139,San Vicente,42,7.42
+18,Nayarit,015,Santiago Ixcuintla,0146,El Cora Viejo,4,*
+18,Nayarit,015,Santiago Ixcuintla,0150,Crucero Bonfil,16,4.85
+18,Nayarit,015,Santiago Ixcuintla,0151,Crucero las Higueras,31,7.38
+18,Nayarit,015,Santiago Ixcuintla,0152,Crucero de Villa Hidalgo,138,7.05
+18,Nayarit,015,Santiago Ixcuintla,0164,Lo de Márquez [Hornos de Tabaco],3,*
+18,Nayarit,015,Santiago Ixcuintla,0172,María Elena [Rancho],4,*
+18,Nayarit,015,Santiago Ixcuintla,0176,Rancho de los Lozano,5,*
+18,Nayarit,015,Santiago Ixcuintla,0197,La Casa Amarilla,1,*
+18,Nayarit,015,Santiago Ixcuintla,0203,Crucero de Santiago (El Guapinol),1,*
+18,Nayarit,015,Santiago Ixcuintla,0204,El Crucero los Corchos,1,*
+18,Nayarit,015,Santiago Ixcuintla,0259,La Ladrillera,2,*
+18,Nayarit,015,Santiago Ixcuintla,0263,El Soyate,2,*
+18,Nayarit,015,Santiago Ixcuintla,0264,El Nuevo Mexcaltitán,32,8.36
+18,Nayarit,015,Santiago Ixcuintla,0266,El Paraíso,3,*
+18,Nayarit,015,Santiago Ixcuintla,0267,El Pitayo,3,*
+18,Nayarit,015,Santiago Ixcuintla,0287,Puerta Colorada,1,*
+18,Nayarit,015,Santiago Ixcuintla,0289,La Puerta (La Guitarra),6,*
+18,Nayarit,015,Santiago Ixcuintla,0291,El Ranchito de Pedro Hermosillo,4,*
+18,Nayarit,015,Santiago Ixcuintla,0292,Adolfo Santos [Rancho],1,*
+18,Nayarit,015,Santiago Ixcuintla,0293,Agustín Langarica [Rancho],4,*
+18,Nayarit,015,Santiago Ixcuintla,0295,Ceferino Alcantar [Rancho],1,*
+18,Nayarit,015,Santiago Ixcuintla,0298,Rancho de Hilario Ramírez,2,*
+18,Nayarit,015,Santiago Ixcuintla,0299,Isabel Carbajal [Rancho],3,*
+18,Nayarit,015,Santiago Ixcuintla,0301,Rancho de Jorge Hinojosa,1,*
+18,Nayarit,015,Santiago Ixcuintla,0303,Rancho de los Ceceña,2,*
+18,Nayarit,015,Santiago Ixcuintla,0304,Rancho de los Doctores,2,*
+18,Nayarit,015,Santiago Ixcuintla,0315,El Rebombeo (Santos Navarro),11,*
+18,Nayarit,015,Santiago Ixcuintla,0323,La Ceiba,1,*
+18,Nayarit,015,Santiago Ixcuintla,0328,Los Pérez,8,3.13
+18,Nayarit,015,Santiago Ixcuintla,0340,El Tamarindo,7,*
+18,Nayarit,015,Santiago Ixcuintla,0345,Dios Proveerá [Rancho],2,*
+18,Nayarit,015,Santiago Ixcuintla,0354,Rancho de Benito Rodríguez,3,*
+18,Nayarit,015,Santiago Ixcuintla,0362,Francisco Javier López Cázares,12,8.56
+18,Nayarit,015,Santiago Ixcuintla,0364,Zona de Tolerancia,1,*
+18,Nayarit,015,Santiago Ixcuintla,0365,Colonia Vado del Cora,73,6.44
+18,Nayarit,015,Santiago Ixcuintla,0367,San Carlos [Productos Agropecuarios],9,*
+18,Nayarit,015,Santiago Ixcuintla,0368,Loma China (Kika) [Restaurante],3,*
+18,Nayarit,015,Santiago Ixcuintla,0369,Refugio Meza Ortega,5,*
+18,Nayarit,015,Santiago Ixcuintla,0373,La Huizcoyula,4,*
+18,Nayarit,015,Santiago Ixcuintla,0375,Los Sauces,2,*
+18,Nayarit,015,Santiago Ixcuintla,0376,Cheros [Restaurante],5,*
+18,Nayarit,015,Santiago Ixcuintla,0378,Los Tabachines,2,*
+18,Nayarit,015,Santiago Ixcuintla,0381,Aurelio Carrillo,1,*
+18,Nayarit,015,Santiago Ixcuintla,0384,Mayorga [Ganadería],2,*
+18,Nayarit,015,Santiago Ixcuintla,0386,Javier Domínguez,2,*
+18,Nayarit,015,Santiago Ixcuintla,0387,Los Páez,5,*
+18,Nayarit,015,Santiago Ixcuintla,0388,El Sacrificio,1,*
+18,Nayarit,015,Santiago Ixcuintla,0390,El Limoncito,4,*
+18,Nayarit,015,Santiago Ixcuintla,0391,El Manguito,155,6.93
+18,Nayarit,015,Santiago Ixcuintla,0392,El Jabalí,7,*
+18,Nayarit,015,Santiago Ixcuintla,0393,Las Higueras,27,5.71
+18,Nayarit,015,Santiago Ixcuintla,0394,El Mecánico,3,*
+18,Nayarit,015,Santiago Ixcuintla,0395,La Pedrera,5,*
+18,Nayarit,015,Santiago Ixcuintla,0396,El Bordo,1,*
+18,Nayarit,015,Santiago Ixcuintla,0398,La Cuata,1,*
+18,Nayarit,015,Santiago Ixcuintla,0399,San Carlos [Empacadora],4,*
+18,Nayarit,015,Santiago Ixcuintla,0400,Los Huanacaxtles,5,*
+18,Nayarit,015,Santiago Ixcuintla,0402,El Matadero,15,7.23
+18,Nayarit,015,Santiago Ixcuintla,0403,Potrero Grande,2,*
+18,Nayarit,015,Santiago Ixcuintla,0404,Ramiro Gutiérrez Rosales,1,*
+18,Nayarit,015,Santiago Ixcuintla,0406,Reynosa,132,7.32
+18,Nayarit,015,Santiago Ixcuintla,0408,El Porvenir,4,*
+18,Nayarit,015,Santiago Ixcuintla,0410,Rosymar,1,*
+18,Nayarit,015,Santiago Ixcuintla,0413,La Tacuacha (René Becerra),6,*
+18,Nayarit,015,Santiago Ixcuintla,0417,El Güero Flores,5,*
+18,Nayarit,015,Santiago Ixcuintla,0419,El Pasito,8,7.71
+18,Nayarit,015,Santiago Ixcuintla,0423,Las Palmas,2,*
+18,Nayarit,015,Santiago Ixcuintla,0424,Los Ricos [Rancho],1,*
+18,Nayarit,015,Santiago Ixcuintla,0426,La Higuera,1,*
+18,Nayarit,015,Santiago Ixcuintla,0427,El Paraíso,2,*
+18,Nayarit,015,Santiago Ixcuintla,0430,Saúl Larios,1,*
+18,Nayarit,015,Santiago Ixcuintla,0432,Jesús Langarica,4,*
+18,Nayarit,015,Santiago Ixcuintla,0436,El Veinte,7,*
+18,Nayarit,015,Santiago Ixcuintla,0437,El Columpio,4,*
+18,Nayarit,015,Santiago Ixcuintla,0441,Buenos Aires,2,*
+18,Nayarit,015,Santiago Ixcuintla,0442,Rancho Boer,4,*
+18,Nayarit,015,Santiago Ixcuintla,0443,Las Palmas [Rancho],1,*
+18,Nayarit,015,Santiago Ixcuintla,0445,El Pelavacas,1,*
+18,Nayarit,015,Santiago Ixcuintla,0448,Los Tres Hermanos,2,*
+18,Nayarit,015,Santiago Ixcuintla,0449,Saulo Javier Pardo Sánchez [Rancho],3,*
+18,Nayarit,015,Santiago Ixcuintla,0450,Martínez Valencia [Rancho],3,*
+18,Nayarit,015,Santiago Ixcuintla,0451,Manuel López García,2,*
+18,Nayarit,015,Santiago Ixcuintla,0452,Los Charcos [Rancho],6,*
+18,Nayarit,015,Santiago Ixcuintla,0455,PH [Rancho],1,*
+18,Nayarit,015,Santiago Ixcuintla,9998,Localidades de una vivienda,219,7.47
+18,Nayarit,015,Santiago Ixcuintla,9999,Localidades de dos viviendas,37,6.88
+18,Nayarit,016,Tecuala,0000,Total del Municipio,37135,8.79
+18,Nayarit,016,Tecuala,0001,Tecuala,13620,9.80
+18,Nayarit,016,Tecuala,0002,Agua Verde (El Salto),462,8.52
+18,Nayarit,016,Tecuala,0003,San Antonio,5,*
+18,Nayarit,016,Tecuala,0004,Antonio R. Laureles,459,8.37
+18,Nayarit,016,Tecuala,0005,Arenitas,221,7.25
+18,Nayarit,016,Tecuala,0006,El Arrayán,846,8.41
+18,Nayarit,016,Tecuala,0007,Atotonilco,757,8.38
+18,Nayarit,016,Tecuala,0008,Camalotita,1218,8.18
+18,Nayarit,016,Tecuala,0009,El Capomal,2,*
+18,Nayarit,016,Tecuala,0011,La Cofradía,43,8.08
+18,Nayarit,016,Tecuala,0013,El Chicochi,2,*
+18,Nayarit,016,Tecuala,0014,Chocota,8,7.14
+18,Nayarit,016,Tecuala,0015,Los Esteros,25,7.36
+18,Nayarit,016,Tecuala,0016,El Filo,930,8.40
+18,Nayarit,016,Tecuala,0017,Guamuchilito,157,7.80
+18,Nayarit,016,Tecuala,0018,El Guayabo,40,6.09
+18,Nayarit,016,Tecuala,0020,Huajuquilla,406,8.41
+18,Nayarit,016,Tecuala,0023,El Limón,856,7.73
+18,Nayarit,016,Tecuala,0024,Las Lumbres,232,7.65
+18,Nayarit,016,Tecuala,0025,El Macho Viejo,87,7.83
+18,Nayarit,016,Tecuala,0026,La Magdalena,53,7.83
+18,Nayarit,016,Tecuala,0028,Milpas Viejas,1574,8.55
+18,Nayarit,016,Tecuala,0029,Los Morillos,423,7.77
+18,Nayarit,016,Tecuala,0030,El Naranjito,32,10.29
+18,Nayarit,016,Tecuala,0031,Novillero,921,7.83
+18,Nayarit,016,Tecuala,0032,Pajaritos,709,7.47
+18,Nayarit,016,Tecuala,0034,Palo Blanco,67,8.10
+18,Nayarit,016,Tecuala,0036,Paso Hondo,507,8.33
+18,Nayarit,016,Tecuala,0038,Playa Novillero,248,8.35
+18,Nayarit,016,Tecuala,0039,La Presa,1103,7.69
+18,Nayarit,016,Tecuala,0041,Quimichis,3084,8.20
+18,Nayarit,016,Tecuala,0043,Río Viejo,905,8.01
+18,Nayarit,016,Tecuala,0044,El Roblito,220,7.58
+18,Nayarit,016,Tecuala,0046,San Cayetano,796,7.79
+18,Nayarit,016,Tecuala,0047,San Felipe Aztatán,4546,8.85
+18,Nayarit,016,Tecuala,0048,Tecualilla,9,2.25
+18,Nayarit,016,Tecuala,0049,El Tecomate,49,7.56
+18,Nayarit,016,Tecuala,0050,Tierra Generosa,292,8.15
+18,Nayarit,016,Tecuala,0054,Puerta del Río,36,7.56
+18,Nayarit,016,Tecuala,0059,La Tembladora,3,*
+18,Nayarit,016,Tecuala,0061,Villas de la Isla,5,*
+18,Nayarit,016,Tecuala,0063,El Espinal,5,*
+18,Nayarit,016,Tecuala,0078,Cuastecomate (Los Tecomates),19,5.87
+18,Nayarit,016,Tecuala,0079,El Macho (Pozo de Higueras II),690,7.62
+18,Nayarit,016,Tecuala,0091,Las Anonas,64,8.57
+18,Nayarit,016,Tecuala,0095,Chalán,27,6.63
+18,Nayarit,016,Tecuala,0098,Santa Rosa [Granja],6,*
+18,Nayarit,016,Tecuala,0101,El Guanacaste,1,*
+18,Nayarit,016,Tecuala,0102,Loma las Bayas,25,6.15
+18,Nayarit,016,Tecuala,0103,El Mariachi,1,*
+18,Nayarit,016,Tecuala,0108,La Puntilla,112,6.23
+18,Nayarit,016,Tecuala,0109,Los Ibarra,5,*
+18,Nayarit,016,Tecuala,0110,Rancho Tranquilo,2,*
+18,Nayarit,016,Tecuala,0112,El Terrero,1,*
+18,Nayarit,016,Tecuala,0187,Las Gaviotas,2,*
+18,Nayarit,016,Tecuala,0198,Los Remos,2,*
+18,Nayarit,016,Tecuala,0199,El Rincón [Pesquería],1,*
+18,Nayarit,016,Tecuala,0205,El Coacoyul,100,8.37
+18,Nayarit,016,Tecuala,0212,Los Olivos,6,*
+18,Nayarit,016,Tecuala,0216,Crucero Mata de Palapa,4,*
+18,Nayarit,016,Tecuala,0223,Ángel Torres [Rancho],2,*
+18,Nayarit,016,Tecuala,0230,La Loma Trozada,2,*
+18,Nayarit,016,Tecuala,0241,Crucero Río Viejo,11,*
+18,Nayarit,016,Tecuala,0243,La Conchita,4,*
+18,Nayarit,016,Tecuala,0250,Loma del Chicochi,6,*
+18,Nayarit,016,Tecuala,0255,Las Latas [Pesquería],2,*
+18,Nayarit,016,Tecuala,0261,Carlos Galván [Rancho],1,*
+18,Nayarit,016,Tecuala,0262,Casa Paulina,1,*
+18,Nayarit,016,Tecuala,0266,El Saucito (Rancho de Macaria y el Riyito),1,*
+18,Nayarit,016,Tecuala,0267,Rancho del Sol,2,*
+18,Nayarit,016,Tecuala,0268,Dionisio Tirado [Rancho],2,*
+18,Nayarit,016,Tecuala,0273,Ernesto Partida [Rancho],10,*
+18,Nayarit,016,Tecuala,0286,El Parejero,2,*
+18,Nayarit,016,Tecuala,0290,Julio Morales [Rancho],1,*
+18,Nayarit,016,Tecuala,0294,Lencho,2,*
+18,Nayarit,016,Tecuala,0296,El Canal,4,*
+18,Nayarit,016,Tecuala,0298,El Corral,3,*
+18,Nayarit,016,Tecuala,0300,Villa de Guadalupe,6,2.17
+18,Nayarit,016,Tecuala,0307,El Dragón [Restaurante],2,*
+18,Nayarit,016,Tecuala,0309,El Maracaibo del Catrín,1,*
+18,Nayarit,016,Tecuala,0433,El Capricho,4,*
+18,Nayarit,016,Tecuala,0441,El Solito,2,*
+18,Nayarit,016,Tecuala,0445,Los Gallos,4,*
+18,Nayarit,016,Tecuala,0449,Antonio Martínez,6,*
+18,Nayarit,016,Tecuala,0453,Rancho Prieto,2,*
+18,Nayarit,016,Tecuala,0454,Corrales la Mula,3,*
+18,Nayarit,016,Tecuala,0461,San Julián,1,*
+18,Nayarit,016,Tecuala,0462,El Mirador,2,*
+18,Nayarit,016,Tecuala,0466,La Patada de los Nietos,2,*
+18,Nayarit,016,Tecuala,0468,Juventino Jiménez,2,*
+18,Nayarit,016,Tecuala,0469,José Burgara,4,*
+18,Nayarit,016,Tecuala,0472,La Hacienda [Rancho],5,*
+18,Nayarit,016,Tecuala,0473,San Felipe,1,*
+18,Nayarit,016,Tecuala,0474,Rancho Alegre,1,*
+18,Nayarit,016,Tecuala,9998,Localidades de una vivienda,136,7.54
+18,Nayarit,016,Tecuala,9999,Localidades de dos viviendas,15,7.57
+18,Nayarit,017,Tepic,0000,Total del Municipio,425924,11.17
+18,Nayarit,017,Tepic,0001,Tepic,371387,11.51
+18,Nayarit,017,Tepic,0103,El Ahuacate,1627,10.30
+18,Nayarit,017,Tepic,0104,Atonalisco,1773,8.50
+18,Nayarit,017,Tepic,0105,Barranca Blanca,247,8.09
+18,Nayarit,017,Tepic,0106,Bellavista,2327,10.42
+18,Nayarit,017,Tepic,0107,Benito Juárez (Las Chivas),379,7.16
+18,Nayarit,017,Tepic,0108,Buenos Aires,2,*
+18,Nayarit,017,Tepic,0109,Caleras de Cofrados,319,6.87
+18,Nayarit,017,Tepic,0110,Camichín de Jauja,2992,8.72
+18,Nayarit,017,Tepic,0111,La Cantera,2561,9.05
+18,Nayarit,017,Tepic,0113,Las Blancas (Carretones de Cerritos),285,8.02
+18,Nayarit,017,Tepic,0114,Cinco de Mayo (El Ciruelo),668,7.66
+18,Nayarit,017,Tepic,0115,Colonia Seis de Enero,1460,8.92
+18,Nayarit,017,Tepic,0116,Colorado de la Mora,314,6.51
+18,Nayarit,017,Tepic,0117,Crucero de San Blas,56,7.83
+18,Nayarit,017,Tepic,0118,Las Delicias,518,9.49
+18,Nayarit,017,Tepic,0119,La Escondida,500,8.84
+18,Nayarit,017,Tepic,0120,El Espino,187,6.71
+18,Nayarit,017,Tepic,0121,La Fortuna,1191,8.44
+18,Nayarit,017,Tepic,0122,Francisco I. Madero (Puga),7708,9.82
+18,Nayarit,017,Tepic,0124,La Herradura,85,6.24
+18,Nayarit,017,Tepic,0125,Huachines,177,8.54
+18,Nayarit,017,Tepic,0126,El Izote,563,8.45
+18,Nayarit,017,Tepic,0127,Jesús María Cortes,654,7.16
+18,Nayarit,017,Tepic,0128,El Jicote,1961,7.28
+18,Nayarit,017,Tepic,0129,Pajuelazo (El Guanacaste),112,6.92
+18,Nayarit,017,Tepic,0130,Jumatán,150,7.34
+18,Nayarit,017,Tepic,0131,El Limón,52,6.74
+18,Nayarit,017,Tepic,0132,Lo de García,200,7.30
+18,Nayarit,017,Tepic,0133,Lo de Lamedo,1512,9.41
+18,Nayarit,017,Tepic,0134,Mesa de Picachos (El Casco),216,6.71
+18,Nayarit,017,Tepic,0135,Mora,1211,8.95
+18,Nayarit,017,Tepic,0136,Los Otates,19,8.80
+18,Nayarit,017,Tepic,0137,Las Peñitas (La Repisa),48,5.68
+18,Nayarit,017,Tepic,0138,El Pichón,345,7.96
+18,Nayarit,017,Tepic,0139,Las Pilas (El Tepeguaje),214,6.70
+18,Nayarit,017,Tepic,0140,Platanitos,486,9.14
+18,Nayarit,017,Tepic,0141,Santiago de Pochotitán,2025,7.44
+18,Nayarit,017,Tepic,0144,El Refugio,1086,8.68
+18,Nayarit,017,Tepic,0145,La Resolana,77,7.18
+18,Nayarit,017,Tepic,0146,El Rincón,681,8.05
+18,Nayarit,017,Tepic,0147,Estación Roseta,14,7.75
+18,Nayarit,017,Tepic,0148,Los Salazares,268,6.91
+18,Nayarit,017,Tepic,0149,San Andrés,654,8.39
+18,Nayarit,017,Tepic,0150,San Carlos,6,*
+18,Nayarit,017,Tepic,0151,San Cayetano,4770,9.63
+18,Nayarit,017,Tepic,0152,San Fernando,687,7.60
+18,Nayarit,017,Tepic,0153,San Luis de Lozada,1422,7.51
+18,Nayarit,017,Tepic,0155,El Trapichillo,1110,8.08
+18,Nayarit,017,Tepic,0156,Venustiano Carranza,474,8.73
+18,Nayarit,017,Tepic,0159,La Yerba,807,8.16
+18,Nayarit,017,Tepic,0162,Salvador Allende,283,6.83
+18,Nayarit,017,Tepic,0163,La Esperanza,17,4.71
+18,Nayarit,017,Tepic,0173,Las Tres Mulas,1,*
+18,Nayarit,017,Tepic,0176,Cora de Abajo,68,5.81
+18,Nayarit,017,Tepic,0177,El Zapote de Teposilama,1,*
+18,Nayarit,017,Tepic,0179,El Floreño (El Capulín),164,6.13
+18,Nayarit,017,Tepic,0180,Cuevitas,102,7.76
+18,Nayarit,017,Tepic,0184,La Colmena,16,3.31
+18,Nayarit,017,Tepic,0186,Las Paredes,17,4.77
+18,Nayarit,017,Tepic,0187,Los Sabinos,134,7.01
+18,Nayarit,017,Tepic,0188,El Aguacate,186,7.04
+18,Nayarit,017,Tepic,0193,El Limón,152,6.85
+18,Nayarit,017,Tepic,0194,La Libertad,50,10.21
+18,Nayarit,017,Tepic,0200,Barranquillas,80,8.44
+18,Nayarit,017,Tepic,0204,Casa Mocha,17,*
+18,Nayarit,017,Tepic,0208,Colonia Catorce de Marzo,245,6.80
+18,Nayarit,017,Tepic,0211,Colonia Dieciséis de Septiembre,384,10.01
+18,Nayarit,017,Tepic,0213,San Juan,5,*
+18,Nayarit,017,Tepic,0215,Duraznitos,81,12.87
+18,Nayarit,017,Tepic,0217,Guayabitos,33,7.72
+18,Nayarit,017,Tepic,0221,Loma del Toro (El Ahualamo),31,6.84
+18,Nayarit,017,Tepic,0224,El Mirador del Águila,19,7.25
+18,Nayarit,017,Tepic,0225,Zapote de Picachos (La Mesa),511,7.07
+18,Nayarit,017,Tepic,0230,Arroyo de las Minas,6,*
+18,Nayarit,017,Tepic,0231,El Bañadero,3,*
+18,Nayarit,017,Tepic,0232,El Rayón,1,*
+18,Nayarit,017,Tepic,0243,El Uncidero,1,*
+18,Nayarit,017,Tepic,0266,La Cumbre,17,6.38
+18,Nayarit,017,Tepic,0283,La Corregidora,1560,9.04
+18,Nayarit,017,Tepic,0285,El Espino,38,9.48
+18,Nayarit,017,Tepic,0299,El Milagro,3,*
+18,Nayarit,017,Tepic,0305,El Platanar (Los Aguacates),1,*
+18,Nayarit,017,Tepic,0308,Rancho Carlos,8,*
+18,Nayarit,017,Tepic,0321,San Gabriel [Rancho],8,*
+18,Nayarit,017,Tepic,0328,CEFERESO,1497,*
+18,Nayarit,017,Tepic,0329,San Valentín,1,*
+18,Nayarit,017,Tepic,0332,El Corral de Soria,36,7
+18,Nayarit,017,Tepic,0338,Embarcadero de la Cortina,95,8.25
+18,Nayarit,017,Tepic,0349,La Perla,8,*
+18,Nayarit,017,Tepic,0355,El Limón,4,*
+18,Nayarit,017,Tepic,0356,La Libertad (Casa Blanca),6,*
+18,Nayarit,017,Tepic,0357,Los Cuatro Ases,4,*
+18,Nayarit,017,Tepic,0369,Los Cermeño,1,*
+18,Nayarit,017,Tepic,0380,Cerro de los Tigres,105,5.63
+18,Nayarit,017,Tepic,0388,Carlos García Ávalos,2,*
+18,Nayarit,017,Tepic,0406,Antonio Medrano Ruiz,27,9.22
+18,Nayarit,017,Tepic,0408,El Basurero,4,*
+18,Nayarit,017,Tepic,0415,El Embarcadero de Zapote de Picachos,12,*
+18,Nayarit,017,Tepic,0420,La Paloma,1,*
+18,Nayarit,017,Tepic,0424,Rincón de los Caballos,14,*
+18,Nayarit,017,Tepic,0427,El Crucero,10,*
+18,Nayarit,017,Tepic,0428,Estancia de los López,4,*
+18,Nayarit,017,Tepic,0431,Rancho del Eucalipto,2,*
+18,Nayarit,017,Tepic,0437,Roseta (La Tristeza),138,6.17
+18,Nayarit,017,Tepic,0454,La Tarjea,10,*
+18,Nayarit,017,Tepic,0457,Francisco Balbuena,2,*
+18,Nayarit,017,Tepic,0460,Los Retoños [Granja],1,*
+18,Nayarit,017,Tepic,0461,Piedra China,16,6.40
+18,Nayarit,017,Tepic,0500,El Zopilote (Elías Arias),2,*
+18,Nayarit,017,Tepic,0525,Los Aranda,3,*
+18,Nayarit,017,Tepic,0536,Las Cuatro Milpas,10,8
+18,Nayarit,017,Tepic,0554,Adofra,3,*
+18,Nayarit,017,Tepic,0559,Rancho de la Cañuela,5,*
+18,Nayarit,017,Tepic,0562,El Oasis,13,7.60
+18,Nayarit,017,Tepic,0563,El Sacrificio,1,*
+18,Nayarit,017,Tepic,0564,El Gavilán,11,*
+18,Nayarit,017,Tepic,0565,Las Palmitas,6,*
+18,Nayarit,017,Tepic,0566,Los Metates,18,7.92
+18,Nayarit,017,Tepic,0567,Agua Fría,2,*
+18,Nayarit,017,Tepic,0569,La Limonera,8,*
+18,Nayarit,017,Tepic,0570,Las Lajas,6,*
+18,Nayarit,017,Tepic,0572,Colonia Doce de Diciembre,17,10.47
+18,Nayarit,017,Tepic,0578,El Garañón,7,*
+18,Nayarit,017,Tepic,0582,Campestre Bugambilias,2,*
+18,Nayarit,017,Tepic,0585,Picachos Mirador [Balneario],1,*
+18,Nayarit,017,Tepic,0591,La Bendición,355,6.64
+18,Nayarit,017,Tepic,0605,Leopoldo Castañeda,7,*
+18,Nayarit,017,Tepic,0606,Lorenzo Salinas,2,*
+18,Nayarit,017,Tepic,0608,Las Palomas,71,6.11
+18,Nayarit,017,Tepic,0616,Vistas del Valle,33,7.48
+18,Nayarit,017,Tepic,0617,Vista Hermosa Dos,4,*
+18,Nayarit,017,Tepic,0618,Las Norias del Manantial,67,5.61
+18,Nayarit,017,Tepic,0619,Hebrón,37,5.33
+18,Nayarit,017,Tepic,0620,Cerrito Juárez,103,5.31
+18,Nayarit,017,Tepic,0625,Vista del Río,2,*
+18,Nayarit,017,Tepic,0630,La Ilusión (Los Tres García) [Rancho],3,*
+18,Nayarit,017,Tepic,0633,La Batea,13,11.25
+18,Nayarit,017,Tepic,0634,Vicente Medina Delgado,2,*
+18,Nayarit,017,Tepic,0635,Aurelio Soto Madrigal,2,*
+18,Nayarit,017,Tepic,0636,El Jade de las 3 Vírgenes [Rancho],1,*
+18,Nayarit,017,Tepic,0643,El Platanar,1,*
+18,Nayarit,017,Tepic,0648,Guadalupe Flores Delgado,6,*
+18,Nayarit,017,Tepic,0649,La Jigüitera,8,*
+18,Nayarit,017,Tepic,0650,La Piedra [Rancho],3,*
+18,Nayarit,017,Tepic,0651,Agua Caliente [Balneario],27,8.40
+18,Nayarit,017,Tepic,0652,Felipe Beltrán,3,*
+18,Nayarit,017,Tepic,0658,Otatiste,108,6.98
+18,Nayarit,017,Tepic,0659,El Pujido,2,*
+18,Nayarit,017,Tepic,0660,La Conchillera,6,*
+18,Nayarit,017,Tepic,0661,La Palapa,5,*
+18,Nayarit,017,Tepic,0663,Raúl Martínez Machuca,15,7.44
+18,Nayarit,017,Tepic,0666,Potrero las Lomas,2,*
+18,Nayarit,017,Tepic,0668,Tepetilte,8,*
+18,Nayarit,017,Tepic,0670,El Beneficio,1,*
+18,Nayarit,017,Tepic,0671,El Pozo de la Guinea,5,*
+18,Nayarit,017,Tepic,0672,El Retorno,2,*
+18,Nayarit,017,Tepic,0674,Los Abuelos [Rancho],3,*
+18,Nayarit,017,Tepic,0675,Fernando Ramírez [Granja Porcícola],5,*
+18,Nayarit,017,Tepic,0689,Camichín Torres 1,19,6.77
+18,Nayarit,017,Tepic,0691,Los Yugos,6,*
+18,Nayarit,017,Tepic,0693,Milagrito de Galilea,1,*
+18,Nayarit,017,Tepic,0694,El Encino [Rancho],1,*
+18,Nayarit,017,Tepic,0696,Luis Gómez [Rancho],5,*
+18,Nayarit,017,Tepic,0698,La Pirámide,3,*
+18,Nayarit,017,Tepic,0699,Basurto [Rancho],3,*
+18,Nayarit,017,Tepic,0702,El Recoveco,2,*
+18,Nayarit,017,Tepic,0703,El Agua Gorda [Rancho],8,*
+18,Nayarit,017,Tepic,0704,González [Rancho],1,*
+18,Nayarit,017,Tepic,0705,La Martha,4,*
+18,Nayarit,017,Tepic,0706,Calleros [Rancho],1,*
+18,Nayarit,017,Tepic,0710,Inverplantas,9,*
+18,Nayarit,017,Tepic,0711,Iván Ruíz,4,*
+18,Nayarit,017,Tepic,9998,Localidades de una vivienda,1711,8.91
+18,Nayarit,017,Tepic,9999,Localidades de dos viviendas,123,7.05
+18,Nayarit,018,Tuxpan,0000,Total del Municipio,30064,9.24
+18,Nayarit,018,Tuxpan,0001,Tuxpan,22013,9.63
+18,Nayarit,018,Tuxpan,0004,Coamiles,2857,8.20
+18,Nayarit,018,Tuxpan,0012,Palma Grande,2092,8.20
+18,Nayarit,018,Tuxpan,0013,Peñas,1858,8.29
+18,Nayarit,018,Tuxpan,0015,El Tecomate,118,7.53
+18,Nayarit,018,Tuxpan,0018,Unión de Corrientes,1063,8.02
+18,Nayarit,018,Tuxpan,0019,Los Rentería,16,6.71
+18,Nayarit,018,Tuxpan,0029,Cervantes,1,*
+18,Nayarit,018,Tuxpan,0031,El Cedro (La Vaquita),3,*
+18,Nayarit,018,Tuxpan,0032,Cardona,5,*
+18,Nayarit,018,Tuxpan,0033,Santa Susana,1,*
+18,Nayarit,018,Tuxpan,0053,El Platanar (Comunidad el Naranjo),2,*
+18,Nayarit,018,Tuxpan,0057,Rancho de los Cabuto,1,*
+18,Nayarit,018,Tuxpan,0061,Rancho de Vicente Acuña,2,*
+18,Nayarit,018,Tuxpan,0063,El Naranjo,2,*
+18,Nayarit,018,Tuxpan,0066,La Providencia,9,*
+18,Nayarit,018,Tuxpan,0070,Tani Carrillo [Granja Porcícola],2,*
+18,Nayarit,018,Tuxpan,0072,Las Flores,1,*
+18,Nayarit,018,Tuxpan,0073,Rancho del Doctor Mercado,1,*
+18,Nayarit,018,Tuxpan,0079,Macario Villa Huerta,2,*
+18,Nayarit,018,Tuxpan,0081,Agua Escondida,1,*
+18,Nayarit,018,Tuxpan,0082,Crucero del Tecomate,4,*
+18,Nayarit,018,Tuxpan,0084,El Humilde,5,*
+18,Nayarit,018,Tuxpan,0088,La Ilusión,2,*
+18,Nayarit,018,Tuxpan,0089,Mayorga,1,*
+18,Nayarit,018,Tuxpan,0090,Segundo Cardona,2,*
+18,Nayarit,018,Tuxpan,9998,Localidades de una vivienda,36,4.79
+18,Nayarit,018,Tuxpan,9999,Localidades de dos viviendas,11,6.60
+18,Nayarit,019,La Yesca,0000,Total del Municipio,13719,6.64
+18,Nayarit,019,La Yesca,0001,La Yesca,514,6.98
+18,Nayarit,019,La Yesca,0007,La Loma,6,*
+18,Nayarit,019,La Yesca,0014,La Mastepe de Arriba,12,*
+18,Nayarit,019,La Yesca,0015,Amatlán de Jora,287,7
+18,Nayarit,019,La Yesca,0016,Hacienda de Ambas Aguas,136,6.06
+18,Nayarit,019,La Yesca,0017,Apozolco,720,6.98
+18,Nayarit,019,La Yesca,0019,Arroyo Hondo (La Barranca de los Murillo),2,*
+18,Nayarit,019,La Yesca,0023,Ayotita,3,*
+18,Nayarit,019,La Yesca,0032,Las Caleras,42,4.78
+18,Nayarit,019,La Yesca,0037,Cebolletas (El Maguey),123,5.74
+18,Nayarit,019,La Yesca,0040,Cerro del Cuervo,4,*
+18,Nayarit,019,La Yesca,0044,El Ciruelito,23,4.58
+18,Nayarit,019,La Yesca,0051,El Contrabando,3,*
+18,Nayarit,019,La Yesca,0055,Cortapico,123,6.32
+18,Nayarit,019,La Yesca,0060,La Cuchilla,33,5.15
+18,Nayarit,019,La Yesca,0061,La Cueva Blanca,43,5.65
+18,Nayarit,019,La Yesca,0067,Los Encantos,41,4.88
+18,Nayarit,019,La Yesca,0070,La Fundición,1,*
+18,Nayarit,019,La Yesca,0071,El Gigante,7,*
+18,Nayarit,019,La Yesca,0072,El Jirón,5,7.80
+18,Nayarit,019,La Yesca,0073,Guadalupe Ocotán,1099,7.46
+18,Nayarit,019,La Yesca,0074,La Huaracha,3,*
+18,Nayarit,019,La Yesca,0075,Las Guásimas,4,*
+18,Nayarit,019,La Yesca,0082,Los Horcones,4,*
+18,Nayarit,019,La Yesca,0083,Huaxtla,5,*
+18,Nayarit,019,La Yesca,0085,Huajimic,1106,7.20
+18,Nayarit,019,La Yesca,0086,Guajotillo,1,*
+18,Nayarit,019,La Yesca,0087,La Huerta,8,*
+18,Nayarit,019,La Yesca,0090,El Izote,45,5.79
+18,Nayarit,019,La Yesca,0091,El Jaral,4,*
+18,Nayarit,019,La Yesca,0092,Las Jaras,115,4.54
+18,Nayarit,019,La Yesca,0094,El Jazmín,115,5.72
+18,Nayarit,019,La Yesca,0097,La Mesa del Huanacaxtle,74,5.76
+18,Nayarit,019,La Yesca,0105,El Limón,8,5.13
+18,Nayarit,019,La Yesca,0106,Los Limones,9,*
+18,Nayarit,019,La Yesca,0111,El Magistral de Abajo,4,*
+18,Nayarit,019,La Yesca,0114,La Manga,217,5.78
+18,Nayarit,019,La Yesca,0115,La Manga Larga,20,6.72
+18,Nayarit,019,La Yesca,0119,Mecatillo,9,*
+18,Nayarit,019,La Yesca,0127,La Mesa,34,4.68
+18,Nayarit,019,La Yesca,0128,La Minita,6,*
+18,Nayarit,019,La Yesca,0130,La Mojonera,12,*
+18,Nayarit,019,La Yesca,0135,El Nicho,6,*
+18,Nayarit,019,La Yesca,0136,El Nogal,1,*
+18,Nayarit,019,La Yesca,0141,Palmillas,82,6.64
+18,Nayarit,019,La Yesca,0148,Patagua,2,*
+18,Nayarit,019,La Yesca,0152,La Piedra Picada,2,*
+18,Nayarit,019,La Yesca,0155,El Pinal,189,6.07
+18,Nayarit,019,La Yesca,0156,El Pinito,7,*
+18,Nayarit,019,La Yesca,0157,El Pinole,50,5.58
+18,Nayarit,019,La Yesca,0158,Los Planes,2,*
+18,Nayarit,019,La Yesca,0159,El Platanar de los Gómez,3,*
+18,Nayarit,019,La Yesca,0161,El Platanar de los Herrera,4,*
+18,Nayarit,019,La Yesca,0163,Los Pochotes,6,6
+18,Nayarit,019,La Yesca,0164,Popota,65,5.88
+18,Nayarit,019,La Yesca,0165,El Portezuelo,1,*
+18,Nayarit,019,La Yesca,0167,Puente de Camotlán,2341,7.66
+18,Nayarit,019,La Yesca,0168,El Puerto de Tierras Blancas,10,4.57
+18,Nayarit,019,La Yesca,0172,El Salitre,1,*
+18,Nayarit,019,La Yesca,0174,Las Salvias,16,3.63
+18,Nayarit,019,La Yesca,0175,San Antonio,6,*
+18,Nayarit,019,La Yesca,0179,San Pelayo,163,7.43
+18,Nayarit,019,La Yesca,0183,Tatepusco,30,7.39
+18,Nayarit,019,La Yesca,0185,El Terrero,2,*
+18,Nayarit,019,La Yesca,0187,El Tigre,10,4.50
+18,Nayarit,019,La Yesca,0190,El Toril,9,*
+18,Nayarit,019,La Yesca,0191,El Trapiche,258,5.86
+18,Nayarit,019,La Yesca,0192,Las Tres Ciénegas,5,*
+18,Nayarit,019,La Yesca,0194,La Venada,3,*
+18,Nayarit,019,La Yesca,0195,Cerro del Viejo,20,5.14
+18,Nayarit,019,La Yesca,0198,El Yesquero,7,*
+18,Nayarit,019,La Yesca,0204,El Mezquite,11,*
+18,Nayarit,019,La Yesca,0210,Caligüey,10,*
+18,Nayarit,019,La Yesca,0212,El Capulín,10,*
+18,Nayarit,019,La Yesca,0213,Los Chiles,22,0.89
+18,Nayarit,019,La Yesca,0214,Cocobasco,2,*
+18,Nayarit,019,La Yesca,0216,El Encino,72,4.02
+18,Nayarit,019,La Yesca,0222,Acatita,83,6.15
+18,Nayarit,019,La Yesca,0223,Tierra Blanca,3,*
+18,Nayarit,019,La Yesca,0236,La Bramina,1,*
+18,Nayarit,019,La Yesca,0241,El Cuernito,18,N/D
+18,Nayarit,019,La Yesca,0246,Los Cerritos,17,8
+18,Nayarit,019,La Yesca,0248,Las Escobas,57,5.29
+18,Nayarit,019,La Yesca,0249,San Juan [Rancho],2,*
+18,Nayarit,019,La Yesca,0250,Las Golondrinas,8,*
+18,Nayarit,019,La Yesca,0252,Mesa de la Colonia,25,N/D
+18,Nayarit,019,La Yesca,0254,El Reparo,11,4.50
+18,Nayarit,019,La Yesca,0255,Los Saltos,43,4.41
+18,Nayarit,019,La Yesca,0285,La Mesa (La Mesa del Ingeniero),2,*
+18,Nayarit,019,La Yesca,0368,Las Piedras,1,*
+18,Nayarit,019,La Yesca,0406,Gutiérrez,8,*
+18,Nayarit,019,La Yesca,0409,Mesa de Margaritas,2,*
+18,Nayarit,019,La Yesca,0412,Ojo de Agua,4,*
+18,Nayarit,019,La Yesca,0421,Las Higueras,52,6.09
+18,Nayarit,019,La Yesca,0423,El Maguey,2,*
+18,Nayarit,019,La Yesca,0424,El Muertito,2,*
+18,Nayarit,019,La Yesca,0426,Piedras Blancas,3,*
+18,Nayarit,019,La Yesca,0428,Las Presitas,2,*
+18,Nayarit,019,La Yesca,0434,El Desengaño,6,*
+18,Nayarit,019,La Yesca,0437,El Tepetate,4,*
+18,Nayarit,019,La Yesca,0441,El Fortín,5,*
+18,Nayarit,019,La Yesca,0445,Los Rosales,11,6
+18,Nayarit,019,La Yesca,0446,Tierras Blancas,2,*
+18,Nayarit,019,La Yesca,0451,Las Huertas,3,*
+18,Nayarit,019,La Yesca,0459,Paso de San Juan,14,*
+18,Nayarit,019,La Yesca,0469,Puerto Morado,4,*
+18,Nayarit,019,La Yesca,0487,Barranca del Oso,12,*
+18,Nayarit,019,La Yesca,0498,Garabatillo,4,*
+18,Nayarit,019,La Yesca,0509,El Tlacuache (San Ignacio),6,7
+18,Nayarit,019,La Yesca,0516,La Calera,13,*
+18,Nayarit,019,La Yesca,0517,La Ciénega,2,*
+18,Nayarit,019,La Yesca,0519,Las Juntas,6,1.67
+18,Nayarit,019,La Yesca,0527,Los Altos,14,4.57
+18,Nayarit,019,La Yesca,0529,El Carrizal,186,5.11
+18,Nayarit,019,La Yesca,0535,El Limón,2,*
+18,Nayarit,019,La Yesca,0546,La Palmita,1,*
+18,Nayarit,019,La Yesca,0550,El Tigre de Arriba,3,*
+18,Nayarit,019,La Yesca,0553,La Colorada,3,*
+18,Nayarit,019,La Yesca,0555,El Pinabete,39,5.25
+18,Nayarit,019,La Yesca,0563,San Isidro,4,*
+18,Nayarit,019,La Yesca,0564,El Sauz de los Hernández,11,5.43
+18,Nayarit,019,La Yesca,0585,El Colomito,4,*
+18,Nayarit,019,La Yesca,0608,La Jahuitera,15,4.80
+18,Nayarit,019,La Yesca,0623,La Ciénega,129,5.03
+18,Nayarit,019,La Yesca,0626,La Guasimera,6,*
+18,Nayarit,019,La Yesca,0629,El Mirador,20,2.89
+18,Nayarit,019,La Yesca,0632,El Sauz,5,*
+18,Nayarit,019,La Yesca,0637,La Cuchilla,2,*
+18,Nayarit,019,La Yesca,0639,La Playa,43,7.77
+18,Nayarit,019,La Yesca,0641,San Juan Ixtapalapa,138,6.54
+18,Nayarit,019,La Yesca,0649,Las Mesas,4,*
+18,Nayarit,019,La Yesca,0678,La Parida,1,*
+18,Nayarit,019,La Yesca,0685,Breyera,3,*
+18,Nayarit,019,La Yesca,0687,Mesa del Tirador,854,7.86
+18,Nayarit,019,La Yesca,0688,Carretones,8,*
+18,Nayarit,019,La Yesca,0689,El Ahualamo,24,5.29
+18,Nayarit,019,La Yesca,0690,Quemado,25,2.87
+18,Nayarit,019,La Yesca,0692,La Colmena,3,*
+18,Nayarit,019,La Yesca,0694,Duraznito,15,7.44
+18,Nayarit,019,La Yesca,0696,La Laguna,4,*
+18,Nayarit,019,La Yesca,0697,Los Llanitos,12,4.67
+18,Nayarit,019,La Yesca,0700,Ocota de la Sierra,508,8.50
+18,Nayarit,019,La Yesca,0701,Los Pericos,16,6
+18,Nayarit,019,La Yesca,0707,La Pulga,8,5.57
+18,Nayarit,019,La Yesca,0708,El Ranchito,2,*
+18,Nayarit,019,La Yesca,0710,San Lucas,3,*
+18,Nayarit,019,La Yesca,0712,Santa Cruz,23,6.54
+18,Nayarit,019,La Yesca,0714,Saucito,22,6.07
+18,Nayarit,019,La Yesca,0715,El Serrano,1,*
+18,Nayarit,019,La Yesca,0716,Tapias Coloradas,3,*
+18,Nayarit,019,La Yesca,0720,Tierra Amarilla,97,5
+18,Nayarit,019,La Yesca,0721,Tierras Blancas,8,*
+18,Nayarit,019,La Yesca,0725,Los Trigos,3,*
+18,Nayarit,019,La Yesca,0727,Las Vigas,11,*
+18,Nayarit,019,La Yesca,0733,Agua Mala,7,*
+18,Nayarit,019,La Yesca,0736,El Aguacate II,10,*
+18,Nayarit,019,La Yesca,0741,Palos Verdes,5,*
+18,Nayarit,019,La Yesca,0742,Arroyo Verde,2,*
+18,Nayarit,019,La Yesca,0743,Arroyo Verde,3,*
+18,Nayarit,019,La Yesca,0752,Batallón,72,5.84
+18,Nayarit,019,La Yesca,0764,Carboneras,9,*
+18,Nayarit,019,La Yesca,0765,El Carrizal,2,*
+18,Nayarit,019,La Yesca,0768,Cerro Colorado,3,*
+18,Nayarit,019,La Yesca,0777,Los Cimientos,4,*
+18,Nayarit,019,La Yesca,0778,Cimientos,4,*
+18,Nayarit,019,La Yesca,0786,Las Crucitas,17,N/D
+18,Nayarit,019,La Yesca,0788,El Cuate,2,*
+18,Nayarit,019,La Yesca,0790,La Cueva,27,4.17
+18,Nayarit,019,La Yesca,0793,La Escondida,9,*
+18,Nayarit,019,La Yesca,0796,La Estancia,2,*
+18,Nayarit,019,La Yesca,0798,La Esmeralda (La Guasimera),3,*
+18,Nayarit,019,La Yesca,0808,El Jordán,2,*
+18,Nayarit,019,La Yesca,0809,Guanacastita,14,4
+18,Nayarit,019,La Yesca,0812,Las Lajas,8,4.60
+18,Nayarit,019,La Yesca,0828,Mesa del Mecatillo,3,*
+18,Nayarit,019,La Yesca,0829,Mesa de Guanacaste,80,4.91
+18,Nayarit,019,La Yesca,0831,El Mirador (El Reparo),10,*
+18,Nayarit,019,La Yesca,0832,El Mirador,71,7.31
+18,Nayarit,019,La Yesca,0836,Naranjito,11,6.63
+18,Nayarit,019,La Yesca,0837,El Oasis,7,*
+18,Nayarit,019,La Yesca,0858,El Plátano,5,*
+18,Nayarit,019,La Yesca,0859,El Platanar de los Hernández,14,5
+18,Nayarit,019,La Yesca,0860,Platanar de los López,10,4.29
+18,Nayarit,019,La Yesca,0862,El Potrero,6,*
+18,Nayarit,019,La Yesca,0873,El Ranchito,40,6
+18,Nayarit,019,La Yesca,0877,Rancho Nuevo,7,*
+18,Nayarit,019,La Yesca,0880,El Rincón,3,*
+18,Nayarit,019,La Yesca,0909,El Tecolote,4,*
+18,Nayarit,019,La Yesca,0933,La Soyatera,1,*
+18,Nayarit,019,La Yesca,0934,Mesa de Pajaritos,4,*
+18,Nayarit,019,La Yesca,0941,Los Suspiros,3,*
+18,Nayarit,019,La Yesca,0942,El Purgatorio,4,*
+18,Nayarit,019,La Yesca,0950,El Aire,5,*
+18,Nayarit,019,La Yesca,0951,El Álamo,19,6.27
+18,Nayarit,019,La Yesca,0954,La Azalea,27,6.47
+18,Nayarit,019,La Yesca,0955,Las Azucenas,14,5.50
+18,Nayarit,019,La Yesca,0963,La Ciénega,86,6.79
+18,Nayarit,019,La Yesca,0970,La Cuchilla Encerrada,3,*
+18,Nayarit,019,La Yesca,0971,La Crucita,2,*
+18,Nayarit,019,La Yesca,0986,Mesa de los Saucedos,15,5.67
+18,Nayarit,019,La Yesca,0987,La Mesa del Gualamo,14,5.29
+18,Nayarit,019,La Yesca,0989,La Miseria,17,6.33
+18,Nayarit,019,La Yesca,0993,El Palmar,5,*
+18,Nayarit,019,La Yesca,1005,Los Guajes (La Silla),6,*
+18,Nayarit,019,La Yesca,1015,Agua Buena,2,*
+18,Nayarit,019,La Yesca,1026,Bajío Redondo (El Cepo),7,*
+18,Nayarit,019,La Yesca,1032,Banco del Venado,5,*
+18,Nayarit,019,La Yesca,1034,El Varal,2,*
+18,Nayarit,019,La Yesca,1064,La Ciénega,4,*
+18,Nayarit,019,La Yesca,1099,La Guachera,2,*
+18,Nayarit,019,La Yesca,1111,Los Llanitos,3,*
+18,Nayarit,019,La Yesca,1136,Ojo de Agua (Bola Negra),2,*
+18,Nayarit,019,La Yesca,1137,Ojo de Agua,6,*
+18,Nayarit,019,La Yesca,1141,La Peñita,51,N/D
+18,Nayarit,019,La Yesca,1143,Picachitos,14,2.67
+18,Nayarit,019,La Yesca,1166,Rosa de Castilla,1,*
+18,Nayarit,019,La Yesca,1169,Los Indalecios,4,*
+18,Nayarit,019,La Yesca,1180,Los Tanques,6,*
+18,Nayarit,019,La Yesca,1186,Tortugas,2,*
+18,Nayarit,019,La Yesca,1195,Ocota,8,*
+18,Nayarit,019,La Yesca,1207,La Ladrillera,6,*
+18,Nayarit,019,La Yesca,1215,El Majagual,1,*
+18,Nayarit,019,La Yesca,1221,Plan del Muerto,5,*
+18,Nayarit,019,La Yesca,1235,La Casa de Teja,2,*
+18,Nayarit,019,La Yesca,1275,El Nogal,4,*
+18,Nayarit,019,La Yesca,1287,El Pinalillo,5,*
+18,Nayarit,019,La Yesca,1294,El Cuervo (Puerto del Huichol),1,*
+18,Nayarit,019,La Yesca,1312,La Taberna,6,*
+18,Nayarit,019,La Yesca,1328,Las Ánimas,6,*
+18,Nayarit,019,La Yesca,1330,Arroyo del Pescado,8,*
+18,Nayarit,019,La Yesca,1335,El Baño de Arteaga,4,*
+18,Nayarit,019,La Yesca,1337,La Bola Negra,1,*
+18,Nayarit,019,La Yesca,1343,Las Cañas (El Aparato),8,*
+18,Nayarit,019,La Yesca,1346,Casa Blanca,2,*
+18,Nayarit,019,La Yesca,1350,Cerro Bajito,111,4.68
+18,Nayarit,019,La Yesca,1353,La Ciénega,7,*
+18,Nayarit,019,La Yesca,1357,El Colorado,8,*
+18,Nayarit,019,La Yesca,1373,Los Estribos,1,*
+18,Nayarit,019,La Yesca,1377,Guadalupe González,8,*
+18,Nayarit,019,La Yesca,1385,La Huertita de Cebolletas,2,*
+18,Nayarit,019,La Yesca,1395,Las Joyitas,1,*
+18,Nayarit,019,La Yesca,1405,La Loma (La Pista),26,6.12
+18,Nayarit,019,La Yesca,1410,La Magueyera,5,*
+18,Nayarit,019,La Yesca,1412,La Manga Larga,2,*
+18,Nayarit,019,La Yesca,1429,La Olla,39,4.82
+18,Nayarit,019,La Yesca,1431,Palmillas,4,*
+18,Nayarit,019,La Yesca,1436,La Peñita (Jarawira),7,*
+18,Nayarit,019,La Yesca,1437,Picachito,4,*
+18,Nayarit,019,La Yesca,1442,El Pinalillo,84,6.62
+18,Nayarit,019,La Yesca,1443,Pinos Altos,3,*
+18,Nayarit,019,La Yesca,1449,El Puertecito,3,*
+18,Nayarit,019,La Yesca,1451,El Puerto,2,*
+18,Nayarit,019,La Yesca,1471,Salvatierra,4,*
+18,Nayarit,019,La Yesca,1478,Tarcuiloya,3,*
+18,Nayarit,019,La Yesca,1480,El Roble,2,*
+18,Nayarit,019,La Yesca,1482,Samuel Duarte,2,*
+18,Nayarit,019,La Yesca,1486,Santa Clara de Buenavista,8,*
+18,Nayarit,019,La Yesca,1489,El Solito,1,*
+18,Nayarit,019,La Yesca,1493,Los Tepetates,6,*
+18,Nayarit,019,La Yesca,1496,Tierras Coloradas,8,*
+18,Nayarit,019,La Yesca,1498,El Tlacuache,6,*
+18,Nayarit,019,La Yesca,1499,El Toro Prieto,12,5.33
+18,Nayarit,019,La Yesca,1502,La Uva,3,*
+18,Nayarit,019,La Yesca,1504,Zapopan,25,4.65
+18,Nayarit,019,La Yesca,1508,Agua Fría,25,*
+18,Nayarit,019,La Yesca,1510,Bajío de la Amolera,6,*
+18,Nayarit,019,La Yesca,1516,Cebolletitas,6,*
+18,Nayarit,019,La Yesca,1524,El Colomo,3,*
+18,Nayarit,019,La Yesca,1527,El Coyote,78,6.02
+18,Nayarit,019,La Yesca,1534,Las Palomas,36,6.20
+18,Nayarit,019,La Yesca,1535,La Escondida,5,*
+18,Nayarit,019,La Yesca,1538,Guamuchilera (San Pedro),6,*
+18,Nayarit,019,La Yesca,1539,Lorenzo Quintanilla,2,*
+18,Nayarit,019,La Yesca,1540,Los Hongos,2,*
+18,Nayarit,019,La Yesca,1548,Los Llanitos,2,*
+18,Nayarit,019,La Yesca,1549,Mariano Carrillo (Mesa de Agua Zarca),1,*
+18,Nayarit,019,La Yesca,1551,Los Metates (El Banquito),22,4.73
+18,Nayarit,019,La Yesca,1561,Las Piedritas,7,*
+18,Nayarit,019,La Yesca,1562,Plan de los Sauces,5,*
+18,Nayarit,019,La Yesca,1576,Refugio Fregoso (Corral Blanco),4,*
+18,Nayarit,019,La Yesca,1578,El Remolino,5,*
+18,Nayarit,019,La Yesca,1582,La Segunda (El Muerto),16,3.75
+18,Nayarit,019,La Yesca,1585,La Tepamera,10,*
+18,Nayarit,019,La Yesca,1586,La Tepamera,10,*
+18,Nayarit,019,La Yesca,1588,Tierra Blanca,12,*
+18,Nayarit,019,La Yesca,1592,El Yerbaniz,10,*
+18,Nayarit,019,La Yesca,1595,La Arrepentida (El Puertecito),6,*
+18,Nayarit,019,La Yesca,1598,22 de Enero [Colonia],219,6.46
+18,Nayarit,019,La Yesca,1609,El Capulín,20,5.90
+18,Nayarit,019,La Yesca,1612,El Colomo,1,*
+18,Nayarit,019,La Yesca,1613,Corredero,7,*
+18,Nayarit,019,La Yesca,1614,El Corredero,7,*
+18,Nayarit,019,La Yesca,1617,El Cuastecomate,2,*
+18,Nayarit,019,La Yesca,1620,La Encinera del Oso,2,*
+18,Nayarit,019,La Yesca,1622,Garabatillo,2,*
+18,Nayarit,019,La Yesca,1623,Higueras Blancas (El Chalate),1,*
+18,Nayarit,019,La Yesca,1636,La Otra Banda,8,*
+18,Nayarit,019,La Yesca,1646,Los Trigos,1,*
+18,Nayarit,019,La Yesca,1649,Agua Caliente,15,3.14
+18,Nayarit,019,La Yesca,1669,Las Escobas,19,4.30
+18,Nayarit,019,La Yesca,1676,La Haciendita,6,*
+18,Nayarit,019,La Yesca,1683,La Loma del Toril,2,*
+18,Nayarit,019,La Yesca,1684,La Loma,4,*
+18,Nayarit,019,La Yesca,1688,Mesa de Chapalilla,342,6.13
+18,Nayarit,019,La Yesca,1689,La Mesa (José Antonio de la Cruz),4,*
+18,Nayarit,019,La Yesca,1696,El Pinito (El Pino),35,5.48
+18,Nayarit,019,La Yesca,1698,Potrero de Abajo,2,*
+18,Nayarit,019,La Yesca,1699,Puerto del Carrizalillo,5,*
+18,Nayarit,019,La Yesca,1703,Arador (Lucio Abrego),10,*
+18,Nayarit,019,La Yesca,1704,Rancho de la Puerta (R. González Chaparra),6,*
+18,Nayarit,019,La Yesca,1708,La Tepamera,3,*
+18,Nayarit,019,La Yesca,1718,Las Huertas,18,*
+18,Nayarit,019,La Yesca,1720,Los Monos,7,*
+18,Nayarit,019,La Yesca,1721,Mesa de Colores,3,*
+18,Nayarit,019,La Yesca,1722,Cerro Cuate,24,1.87
+18,Nayarit,019,La Yesca,1724,El Pitayo,5,*
+18,Nayarit,019,La Yesca,1736,El Plan,4,*
+18,Nayarit,019,La Yesca,1742,Carretones,8,2.17
+18,Nayarit,019,La Yesca,1749,La Frontana,2,*
+18,Nayarit,019,La Yesca,1751,El Limón,5,*
+18,Nayarit,019,La Yesca,1754,El Puerto de la Tinaja,4,*
+18,Nayarit,019,La Yesca,1755,El Puerto de Pinabete,33,5.90
+18,Nayarit,019,La Yesca,1760,Arroyo del Capomo,17,*
+18,Nayarit,019,La Yesca,1761,Dieciocho de Mayo,10,*
+18,Nayarit,019,La Yesca,1765,Cerro Cuate,2,*
+18,Nayarit,019,La Yesca,1766,Corral de Piedra,10,2.83
+18,Nayarit,019,La Yesca,1776,Laurel de los González,10,*
+18,Nayarit,019,La Yesca,1778,Los Llanitos,4,*
+18,Nayarit,019,La Yesca,1780,La Minita,4,*
+18,Nayarit,019,La Yesca,1783,Paso Ancho,1,*
+18,Nayarit,019,La Yesca,1784,Rancho Frío,12,*
+18,Nayarit,019,La Yesca,1786,Puertecito de los Muertos,19,5.55
+18,Nayarit,019,La Yesca,1788,Rancho Nuevo,2,*
+18,Nayarit,019,La Yesca,1791,La Teja,5,*
+18,Nayarit,019,La Yesca,1794,El Atezón,6,*
+18,Nayarit,019,La Yesca,1798,Los Tubos [Rancho],2,*
+18,Nayarit,019,La Yesca,1802,La Granja de Arquímides,5,*
+18,Nayarit,019,La Yesca,1813,San Juan,13,2.88
+18,Nayarit,019,La Yesca,1815,Camino Real [Rancho],1,*
+18,Nayarit,019,La Yesca,1816,El Serrano  [José Manuel Benavides],2,*
+18,Nayarit,019,La Yesca,1817,22 de Septiembre,2,*
+18,Nayarit,019,La Yesca,1818,San Isidro,13,2.86
+18,Nayarit,019,La Yesca,1820,Los Cuatro Vientos,2,*
+18,Nayarit,019,La Yesca,1821,Las Caobas,5,*
+18,Nayarit,019,La Yesca,1822,Tamazula,2,*
+18,Nayarit,019,La Yesca,9998,Localidades de una vivienda,615,5.21
+18,Nayarit,019,La Yesca,9999,Localidades de dos viviendas,479,4.81
+18,Nayarit,020,Bahía de Banderas,0000,Total del Municipio,187632,9.85
+18,Nayarit,020,Bahía de Banderas,0001,Valle de Banderas,8730,9.25
+18,Nayarit,020,Bahía de Banderas,0004,Aguamilpa,601,6.40
+18,Nayarit,020,Bahía de Banderas,0005,El Ahuejote,23,6.60
+18,Nayarit,020,Bahía de Banderas,0007,Zubuya,8,*
+18,Nayarit,020,Bahía de Banderas,0012,Brasiles,3,*
+18,Nayarit,020,Bahía de Banderas,0013,Bucerías,16161,9.34
+18,Nayarit,020,Bahía de Banderas,0016,Cañaveral,3,*
+18,Nayarit,020,Bahía de Banderas,0018,Carricito,2,*
+18,Nayarit,020,Bahía de Banderas,0019,El Carrizo,25,5.25
+18,Nayarit,020,Bahía de Banderas,0020,Casa Blanca,2,*
+18,Nayarit,020,Bahía de Banderas,0022,La Ceiba,38,4.26
+18,Nayarit,020,Bahía de Banderas,0024,Flamingos,503,14.25
+18,Nayarit,020,Bahía de Banderas,0025,El Coatante,322,7.81
+18,Nayarit,020,Bahía de Banderas,0026,El Colomo,1462,8.07
+18,Nayarit,020,Bahía de Banderas,0027,Cruz de Huanacaxtle,4169,9.85
+18,Nayarit,020,Bahía de Banderas,0035,Fortuna de Vallejo (La Gloria),185,6.22
+18,Nayarit,020,Bahía de Banderas,0037,El Guamúchil,675,8.08
+18,Nayarit,020,Bahía de Banderas,0040,La Compuerta,78,8.80
+18,Nayarit,020,Bahía de Banderas,0041,Higuera Blanca,1696,8.22
+18,Nayarit,020,Bahía de Banderas,0043,Las Jarretaderas,9462,10.35
+18,Nayarit,020,Bahía de Banderas,0046,Lo de Marcos,2099,9.34
+18,Nayarit,020,Bahía de Banderas,0047,Las Lomas,135,6.94
+18,Nayarit,020,Bahía de Banderas,0049,San Clemente de Lima,9561,12.14
+18,Nayarit,020,Bahía de Banderas,0053,Mezcales,24309,11.52
+18,Nayarit,020,Bahía de Banderas,0054,Mezcalitos,1064,9.61
+18,Nayarit,020,Bahía de Banderas,0059,Nuevo Vallarta,1301,13.75
+18,Nayarit,020,Bahía de Banderas,0066,Pátzcuaro,18,6.67
+18,Nayarit,020,Bahía de Banderas,0068,Punta Monterrey,6,*
+18,Nayarit,020,Bahía de Banderas,0069,El Porvenir,6166,8.92
+18,Nayarit,020,Bahía de Banderas,0070,La Presa,1,*
+18,Nayarit,020,Bahía de Banderas,0072,Punta del Burro,4,*
+18,Nayarit,020,Bahía de Banderas,0073,La Quebrada,4,*
+18,Nayarit,020,Bahía de Banderas,0081,San Francisco,1431,10.27
+18,Nayarit,020,Bahía de Banderas,0082,San Ignacio,1362,8.01
+18,Nayarit,020,Bahía de Banderas,0083,San José del Valle,35486,9.36
+18,Nayarit,020,Bahía de Banderas,0084,San Juan de Abajo,11090,9.08
+18,Nayarit,020,Bahía de Banderas,0086,San Martín,7,*
+18,Nayarit,020,Bahía de Banderas,0087,San Quintín,236,7.70
+18,Nayarit,020,Bahía de Banderas,0088,San Vicente,38666,9.68
+18,Nayarit,020,Bahía de Banderas,0089,Santa Rita,25,7.37
+18,Nayarit,020,Bahía de Banderas,0090,Santa Rosa Tapachula,878,8.36
+18,Nayarit,020,Bahía de Banderas,0091,Los Sauces,274,6.44
+18,Nayarit,020,Bahía de Banderas,0092,Sayulita,3390,9.47
+18,Nayarit,020,Bahía de Banderas,0098,Tondoroque,831,8.80
+18,Nayarit,020,Bahía de Banderas,0101,Tropicamer (La Casa del Médico),2,*
+18,Nayarit,020,Bahía de Banderas,0103,Punta Negra (Careyeros),28,11.76
+18,Nayarit,020,Bahía de Banderas,0106,Corral del Risco (Punta de Mita),2564,8.56
+18,Nayarit,020,Bahía de Banderas,0111,El Naranjo,5,*
+18,Nayarit,020,Bahía de Banderas,0115,Las Amapas (Pontoque),1,*
+18,Nayarit,020,Bahía de Banderas,0117,La Playa Estates,7,18.14
+18,Nayarit,020,Bahía de Banderas,0118,Litibú,36,11.50
+18,Nayarit,020,Bahía de Banderas,0119,Crucero Grand Palladium Vallarta,3,*
+18,Nayarit,020,Bahía de Banderas,0123,Los Algodones,5,*
+18,Nayarit,020,Bahía de Banderas,0130,El Carrizo,4,*
+18,Nayarit,020,Bahía de Banderas,0131,La Casa del Canal (Las Parotas),4,*
+18,Nayarit,020,Bahía de Banderas,0133,La Clavellina,4,*
+18,Nayarit,020,Bahía de Banderas,0138,Cuatro Caminos,5,*
+18,Nayarit,020,Bahía de Banderas,0143,Las 6 Palmas,1,*
+18,Nayarit,020,Bahía de Banderas,0147,Jorge López,2,*
+18,Nayarit,020,Bahía de Banderas,0148,Juan Sainz,2,*
+18,Nayarit,020,Bahía de Banderas,0159,Playa las Minitas,2,*
+18,Nayarit,020,Bahía de Banderas,0160,Playa los Venados,3,*
+18,Nayarit,020,Bahía de Banderas,0161,Los Copales,2,*
+18,Nayarit,020,Bahía de Banderas,0166,Rancho Douglas (Cornucopia),3,*
+18,Nayarit,020,Bahía de Banderas,0169,Las Cinco Cruces,7,*
+18,Nayarit,020,Bahía de Banderas,0181,San Ángel,2,*
+18,Nayarit,020,Bahía de Banderas,0192,Villa las Parotas,4,*
+18,Nayarit,020,Bahía de Banderas,0203,Playa las Cargadas,4,*
+18,Nayarit,020,Bahía de Banderas,0207,El Milagro,3,*
+18,Nayarit,020,Bahía de Banderas,0212,Flores Magón [Colonia],116,6.15
+18,Nayarit,020,Bahía de Banderas,0213,Campestre Real,39,10.50
+18,Nayarit,020,Bahía de Banderas,0214,La Parota [Rancho],4,*
+18,Nayarit,020,Bahía de Banderas,0217,Emilio M. González [Colonia],309,9.24
+18,Nayarit,020,Bahía de Banderas,0221,Rancho de Pavichi,2,*
+18,Nayarit,020,Bahía de Banderas,0222,Los Borregos,6,*
+18,Nayarit,020,Bahía de Banderas,0223,Rancho de María,2,*
+18,Nayarit,020,Bahía de Banderas,0236,Desarrollo Punta Mita,246,8.53
+18,Nayarit,020,Bahía de Banderas,0238,La Pitahaya,1,*
+18,Nayarit,020,Bahía de Banderas,0241,Las Isabeles,2,*
+18,Nayarit,020,Bahía de Banderas,0242,Rancho Rivera,1,*
+18,Nayarit,020,Bahía de Banderas,0253,El Pitayo,2,*
+18,Nayarit,020,Bahía de Banderas,0254,Colibrí [Fraccionamiento],57,11.72
+18,Nayarit,020,Bahía de Banderas,0256,Santa María,4,*
+18,Nayarit,020,Bahía de Banderas,0262,Hermoso Cariño,2,*
+18,Nayarit,020,Bahía de Banderas,0266,La Paz,1,*
+18,Nayarit,020,Bahía de Banderas,0270,Palmarito,240,7.88
+18,Nayarit,020,Bahía de Banderas,0276,El Texcalame,4,9
+18,Nayarit,020,Bahía de Banderas,0280,Grand Palladium Vallarta [Hotel],14,*
+18,Nayarit,020,Bahía de Banderas,0281,El Cerezo [Rancho],5,*
+18,Nayarit,020,Bahía de Banderas,0283,Rancho Dora,27,11.89
+18,Nayarit,020,Bahía de Banderas,0284,Rancho Escondido,1,*
+18,Nayarit,020,Bahía de Banderas,0290,Cascadita,6,*
+18,Nayarit,020,Bahía de Banderas,0293,El Manantial,2,*
+18,Nayarit,020,Bahía de Banderas,0294,El Chololo,4,*
+18,Nayarit,020,Bahía de Banderas,0304,El Oasis,2,*
+18,Nayarit,020,Bahía de Banderas,0306,Rancho Grande,1,*
+18,Nayarit,020,Bahía de Banderas,0309,Rinconcito del Valle,1,*
+18,Nayarit,020,Bahía de Banderas,0312,Los 3 Cedros,3,*
+18,Nayarit,020,Bahía de Banderas,0323,Los Laureles,7,*
+18,Nayarit,020,Bahía de Banderas,0330,La Querencia,1,*
+18,Nayarit,020,Bahía de Banderas,0331,Agua Amarilla,5,*
+18,Nayarit,020,Bahía de Banderas,0334,Campo del Doctor Félix,5,*
+18,Nayarit,020,Bahía de Banderas,0335,Daniel Flores de Anda,7,*
+18,Nayarit,020,Bahía de Banderas,0336,Esquivel Flores de Anda,5,*
+18,Nayarit,020,Bahía de Banderas,0338,Higuera del Mar,2,*
+18,Nayarit,020,Bahía de Banderas,0340,Margarita Pelayo,1,*
+18,Nayarit,020,Bahía de Banderas,0344,Jazmín [Rancho],8,*
+18,Nayarit,020,Bahía de Banderas,0345,Agua Zarca,2,*
+18,Nayarit,020,Bahía de Banderas,0350,Cantarranas,3,*
+18,Nayarit,020,Bahía de Banderas,0353,Colonia de Dios,23,8.47
+18,Nayarit,020,Bahía de Banderas,0355,La Compuerta Número 1,2,*
+18,Nayarit,020,Bahía de Banderas,0356,La Duquesa,6,*
+18,Nayarit,020,Bahía de Banderas,0363,Paraíso los López,3,*
+18,Nayarit,020,Bahía de Banderas,0368,La Media Luna,6,*
+18,Nayarit,020,Bahía de Banderas,0374,La Quebrada,5,*
+18,Nayarit,020,Bahía de Banderas,0377,Rancho Dunken,2,*
+18,Nayarit,020,Bahía de Banderas,0378,Rancho Paraíso,2,*
+18,Nayarit,020,Bahía de Banderas,0379,Rancho Yaqué,5,*
+18,Nayarit,020,Bahía de Banderas,0380,Real del Oro,16,13.73
+18,Nayarit,020,Bahía de Banderas,0381,El Retiro,2,*
+18,Nayarit,020,Bahía de Banderas,0382,Los Reyes,20,6.53
+18,Nayarit,020,Bahía de Banderas,0397,Arroyo de los Izotes [Rancho],3,*
+18,Nayarit,020,Bahía de Banderas,0398,Los Pistaches,1,*
+18,Nayarit,020,Bahía de Banderas,0399,La Casa de la Loma (Azteca),8,*
+18,Nayarit,020,Bahía de Banderas,0400,Creative Paisaje [Vivero],3,*
+18,Nayarit,020,Bahía de Banderas,0404,Pablo Narez Mendoza,5,*
+18,Nayarit,020,Bahía de Banderas,0408,Hipólito González López,2,*
+18,Nayarit,020,Bahía de Banderas,0410,Monte Sion,2,*
+18,Nayarit,020,Bahía de Banderas,0411,Parrillo,4,*
+18,Nayarit,020,Bahía de Banderas,0413,Villa Bali,10,15.43
+18,Nayarit,020,Bahía de Banderas,0414,Villa Valentín,1,*
+18,Nayarit,020,Bahía de Banderas,0422,El Avillal Número Tres,1,*
+18,Nayarit,020,Bahía de Banderas,0431,Robert Shelton,2,*
+18,Nayarit,020,Bahía de Banderas,0433,El Aguatal,1,*
+18,Nayarit,020,Bahía de Banderas,0434,Los Almendros,27,9.19
+18,Nayarit,020,Bahía de Banderas,0436,Los Arenales,2,*
+18,Nayarit,020,Bahía de Banderas,0438,Arroyo del Agua,3,*
+18,Nayarit,020,Bahía de Banderas,0448,El Capomal,4,*
+18,Nayarit,020,Bahía de Banderas,0449,El Capricho,1,*
+18,Nayarit,020,Bahía de Banderas,0456,Maguixtlán [Vivero],5,*
+18,Nayarit,020,Bahía de Banderas,0457,El Cerrito,2,*
+18,Nayarit,020,Bahía de Banderas,0458,El Naranjito [Colonia],17,7
+18,Nayarit,020,Bahía de Banderas,0459,Las Parotas [Colonia],230,8.37
+18,Nayarit,020,Bahía de Banderas,0460,Magisterio [Colonia],67,10.79
+18,Nayarit,020,Bahía de Banderas,0461,Nueva Galicia [Colonia],9,8
+18,Nayarit,020,Bahía de Banderas,0463,Toscano [Colonia],107,8.31
+18,Nayarit,020,Bahía de Banderas,0467,Entrada a la Laguna el Quelele,5,*
+18,Nayarit,020,Bahía de Banderas,0472,La Fortuna,8,*
+18,Nayarit,020,Bahía de Banderas,0474,Real del Oro [Fraccionamiento],85,11.39
+18,Nayarit,020,Bahía de Banderas,0476,Los Gavilanes,13,6.14
+18,Nayarit,020,Bahía de Banderas,0480,Las Guásimas,10,9.71
+18,Nayarit,020,Bahía de Banderas,0482,La Ilusión,2,*
+18,Nayarit,020,Bahía de Banderas,0486,El Jagüey,2,*
+18,Nayarit,020,Bahía de Banderas,0487,Javier Díaz Carbajal,2,*
+18,Nayarit,020,Bahía de Banderas,0492,Laguna los Patos,6,*
+18,Nayarit,020,Bahía de Banderas,0495,El Manantial,3,*
+18,Nayarit,020,Bahía de Banderas,0502,Nueva Galicia,3,*
+18,Nayarit,020,Bahía de Banderas,0504,El Paraíso,5,12.60
+18,Nayarit,020,Bahía de Banderas,0505,Piedras Azules,5,*
+18,Nayarit,020,Bahía de Banderas,0507,Popotán,8,3.86
+18,Nayarit,020,Bahía de Banderas,0508,Las Primaveras,1,*
+18,Nayarit,020,Bahía de Banderas,0510,El Quelele,6,*
+18,Nayarit,020,Bahía de Banderas,0514,Buenavista,4,*
+18,Nayarit,020,Bahía de Banderas,0522,Rancho Salvaje,1,*
+18,Nayarit,020,Bahía de Banderas,0524,Real Campestre,7,14.33
+18,Nayarit,020,Bahía de Banderas,0530,Rancho de Bernal,4,*
+18,Nayarit,020,Bahía de Banderas,0531,Ron Maly,2,*
+18,Nayarit,020,Bahía de Banderas,0533,El Rosario,4,*
+18,Nayarit,020,Bahía de Banderas,0535,Las Tijerillas,8,*
+18,Nayarit,020,Bahía de Banderas,0538,Santa Fe,5,*
+18,Nayarit,020,Bahía de Banderas,0546,Las Piletas,2,*
+18,Nayarit,020,Bahía de Banderas,0547,Los Gómez,3,*
+18,Nayarit,020,Bahía de Banderas,0548,Santa Cecilia,5,*
+18,Nayarit,020,Bahía de Banderas,0549,Santa Rosa,2,*
+18,Nayarit,020,Bahía de Banderas,0551,La Laguna,2,*
+18,Nayarit,020,Bahía de Banderas,0552,La Nopalera,11,5.88
+18,Nayarit,020,Bahía de Banderas,0553,Rubén Melendres,4,*
+18,Nayarit,020,Bahía de Banderas,0554,El Aguatal II,4,*
+18,Nayarit,020,Bahía de Banderas,0557,La Bodega,4,*
+18,Nayarit,020,Bahía de Banderas,0558,La Laguna,1,*
+18,Nayarit,020,Bahía de Banderas,0562,Victoria,7,*
+18,Nayarit,020,Bahía de Banderas,0563,Brasiles Cuatro Caminos,7,*
+18,Nayarit,020,Bahía de Banderas,0564,Ninguno [Club de Equitación],4,*
+18,Nayarit,020,Bahía de Banderas,0567,El Mirador,4,*
+18,Nayarit,020,Bahía de Banderas,0569,El Triángulo,4,*
+18,Nayarit,020,Bahía de Banderas,0572,José García,1,*
+18,Nayarit,020,Bahía de Banderas,0575,La Esperanza,1,*
+18,Nayarit,020,Bahía de Banderas,0577,El Ranero,28,5.92
+18,Nayarit,020,Bahía de Banderas,0580,Los Anhelos,36,12.28
+18,Nayarit,020,Bahía de Banderas,0581,Los Peña,1,*
+18,Nayarit,020,Bahía de Banderas,0583,Rigoberto Robles,4,11
+18,Nayarit,020,Bahía de Banderas,0585,Tondoroque Dos,6,*
+18,Nayarit,020,Bahía de Banderas,0592,La Compuerta Número 2,22,12.06
+18,Nayarit,020,Bahía de Banderas,0594,La Cruz de Piedra,3,*
+18,Nayarit,020,Bahía de Banderas,0595,Haixa (Litibú),41,11.92
+18,Nayarit,020,Bahía de Banderas,0596,Los Nolasco,11,10.86
+18,Nayarit,020,Bahía de Banderas,0597,Papelillos [Hotel],8,*
+18,Nayarit,020,Bahía de Banderas,0600,Quinta Consuelo,11,*
+18,Nayarit,020,Bahía de Banderas,0601,Rancho Ciruela,4,*
+18,Nayarit,020,Bahía de Banderas,0605,El Pitayo (Los Colitas),2,*
+18,Nayarit,020,Bahía de Banderas,0607,Jerónimo,3,*
+18,Nayarit,020,Bahía de Banderas,0615,Lienzo Charro,5,*
+18,Nayarit,020,Bahía de Banderas,0620,El Manantial,13,*
+18,Nayarit,020,Bahía de Banderas,0622,La Misión Rayo de Plata,15,9.75
+18,Nayarit,020,Bahía de Banderas,0627,La Esperanza,2,*
+18,Nayarit,020,Bahía de Banderas,0630,Galván [Rancho],5,*
+18,Nayarit,020,Bahía de Banderas,0632,La Huerta [Rancho],2,*
+18,Nayarit,020,Bahía de Banderas,0639,Arena Vallarta [Lienzo Charro],2,*
+18,Nayarit,020,Bahía de Banderas,0643,Coastecomates [Rancho],2,*
+18,Nayarit,020,Bahía de Banderas,0647,La Colina,5,*
+18,Nayarit,020,Bahía de Banderas,0648,La Piedra [Rancho],10,6.13
+18,Nayarit,020,Bahía de Banderas,0649,Casa Patzcuarito,6,*
+18,Nayarit,020,Bahía de Banderas,0650,Casa Mis Amores,2,*
+18,Nayarit,020,Bahía de Banderas,0653,Casa la Loma,1,*
+18,Nayarit,020,Bahía de Banderas,0655,Las Higueras [Restaurante],15,7.33
+18,Nayarit,020,Bahía de Banderas,0657,Montserrat [Rancho],7,*
+18,Nayarit,020,Bahía de Banderas,0660,Pata de Gallo Pichi [Rancho],6,*
+18,Nayarit,020,Bahía de Banderas,0664,Pierrot Huichichila [Rancho],2,*
+18,Nayarit,020,Bahía de Banderas,0665,La Palmira [Rancho],5,*
+18,Nayarit,020,Bahía de Banderas,0669,El Triángulo [Rancho],4,*
+18,Nayarit,020,Bahía de Banderas,0673,Las Herraduras de Pelayo [Rancho],4,*
+18,Nayarit,020,Bahía de Banderas,0675,Descanso [Rancho],3,*
+18,Nayarit,020,Bahía de Banderas,0676,Los Ortiz,2,*
+18,Nayarit,020,Bahía de Banderas,0678,Brasiles los Cerritos,58,7.53
+18,Nayarit,020,Bahía de Banderas,0679,Casa Carmelitas,4,*
+18,Nayarit,020,Bahía de Banderas,0683,La Guadalupana [Rancho],6,4.50
+18,Nayarit,020,Bahía de Banderas,0684,Rancho 1111.11,4,*
+18,Nayarit,020,Bahía de Banderas,0686,Rancho Fuentes,7,*
+18,Nayarit,020,Bahía de Banderas,0687,Rancho Ramírez,4,*
+18,Nayarit,020,Bahía de Banderas,0690,Agave Azul [Fraccionamiento],10,12.50
+18,Nayarit,020,Bahía de Banderas,0692,El Cuastecomate [Rancho],1,*
+18,Nayarit,020,Bahía de Banderas,0696,Don Chuy [Rancho],4,*
+18,Nayarit,020,Bahía de Banderas,0697,Benjamín Torres [Llantera],2,*
+18,Nayarit,020,Bahía de Banderas,0699,Samuel Ramos [Rancho],3,*
+18,Nayarit,020,Bahía de Banderas,0700,Aguaje [Rancho],2,*
+18,Nayarit,020,Bahía de Banderas,0702,La María [Rancho],3,*
+18,Nayarit,020,Bahía de Banderas,0703,La Quebrada [Rancho],1,*
+18,Nayarit,020,Bahía de Banderas,0704,Quinta Valeria,3,*
+18,Nayarit,020,Bahía de Banderas,0707,Huichi [Rancho],2,*
+18,Nayarit,020,Bahía de Banderas,0709,Casa de Alejandro,1,*
+18,Nayarit,020,Bahía de Banderas,9998,Localidades de una vivienda,431,8.55
+18,Nayarit,020,Bahía de Banderas,9999,Localidades de dos viviendas,155,8.59
